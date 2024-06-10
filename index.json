@@ -1,6 +1,13 @@
 {
     "announcements": [
         {
+            "lastUpdated": "2024-06-11",
+            "message": "Testing another message",
+            "version": ["1.8.2"],
+            "platform": "android",
+            "link": ""
+        },
+        {
             "lastUpdated": "2024-06-10",
             "message": "There is a new update available in the app store 182",
             "version": ["1.8.2"],
