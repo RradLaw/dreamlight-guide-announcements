@@ -10,6 +10,13 @@
         {
             "lastUpdated": "2024-06-10",
             "message": "There is a new update available in the app store",
+            "version": ["1.8.1"],
+            "platform": "Android",
+            "link": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
+        },
+        {
+            "lastUpdated": "2024-06-10",
+            "message": "There is a new update available in the app store",
             "version": ["1.8.2"],
             "platform": "iOS",
             "link": "https://apps.apple.com/au/app/dreamlight-guide-by-ajl/id6444711557"
