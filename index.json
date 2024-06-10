@@ -5,28 +5,29 @@
             "message": "Testing another message",
             "version": ["1.8.2"],
             "platform": "android",
-            "link": ""
+            "storeLink": "",
+            "link": "www.google.com"
         },
         {
             "lastUpdated": "2024-06-10",
             "message": "There is a new update available in the app store 182",
             "version": ["1.8.2"],
             "platform": "android",
-            "link": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
+            "storeLink": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
         },
         {
             "lastUpdated": "2024-06-10",
             "message": "There is a new update available in the app store 181",
             "version": ["1.8.1"],
             "platform": "android",
-            "link": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
+            "storeLink": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
         },
         {
             "lastUpdated": "2024-06-10",
             "message": "There is a new update available in the app store iOS",
             "version": ["1.8.2"],
             "platform": "iOS",
-            "link": "https://apps.apple.com/au/app/dreamlight-guide-by-ajl/id6444711557"
+            "storeLink": "https://apps.apple.com/au/app/dreamlight-guide-by-ajl/id6444711557"
         }
     ]
 }
