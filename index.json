@@ -2,7 +2,7 @@
     "announcements": [
         {
             "lastUpdated": "2024-06-11",
-            "message": "Testing another message",
+            "message": "Testing another link",
             "version": ["1.8.2"],
             "platform": "android",
             "storeLink": "",
@@ -13,7 +13,7 @@
             "message": "There is a new update available in the app store 182",
             "version": ["1.8.2"],
             "platform": "android",
-            "storeLink": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
+            "storeLink": "market://details?id=ajlake.dreamlight_guide"
         },
         {
             "lastUpdated": "2024-06-10",
@@ -27,7 +27,7 @@
             "message": "There is a new update available in the app store iOS",
             "version": ["1.8.2"],
             "platform": "ios",
-            "storeLink": "https://apps.apple.com/au/app/dreamlight-guide-by-ajl/id6444711557"
+            "storeLink": "https://apps.apple.com/app/id6444711557"
         }
     ]
 }
