@@ -3,29 +3,29 @@
         {
             "lastUpdated": "2024-06-11",
             "message": "Testing another link",
-            "version": ["1.8.2"],
+            "version": ["1.8.0"],
             "platform": "android",
             "storeLink": "",
             "link": "https://www.google.com"
         },
         {
             "lastUpdated": "2024-06-10",
-            "message": "There is a new update available in the app store 182 There is a new update available in the app store 182 There is a new update available in the app store 182",
-            "version": ["1.8.2"],
+            "message": "Test: There is a new update available in the app store 182",
+            "version": ["1.8.0"],
             "platform": "android",
             "storeLink": "market://details?id=ajlake.dreamlight_guide"
         },
         {
             "lastUpdated": "2024-06-10",
-            "message": "There is a new update available in the app store 181",
-            "version": ["1.8.1"],
+            "message": "Test: There is a new update available in the app store 181",
+            "version": ["1.8.0"],
             "platform": "android",
             "storeLink": "https://play.google.com/store/apps/details?id=ajlake.dreamlight_guide"
         },
         {
             "lastUpdated": "2024-06-10",
-            "message": "There is a new update available in the app store iOS",
-            "version": ["1.8.2"],
+            "message": "Test: There is a new update available in the app store iOS",
+            "version": ["1.8.0"],
             "platform": "ios",
             "storeLink": "https://apps.apple.com/app/id6444711557"
         }
