@@ -40,9 +40,9 @@
             "storeLink": "market://details?id=ajlake.dreamlight_guide"
         },
         {
-            "lastUpdated": "2024-08-30",
+            "lastUpdated": "2024-10-18",
             "message": "There is a new update available in the App Store",
-            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0"],
+            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1"],
             "platform": "ios",
             "storeLink": "https://apps.apple.com/app/id6444711557"
         }
