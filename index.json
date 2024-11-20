@@ -3,7 +3,7 @@
         {
             "lastUpdated": "2024-11-21",
             "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
-            "version": ["1.11.2"],
+            "version": [""],
             "platform": "android",
             "storeLink": "",
             "link": "https://discord.gg/4kb4PRq7z8"
@@ -26,16 +26,16 @@
         },
         {
             "lastUpdated": "2024-11-21",
-            "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
+            "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
             "version": ["1.11.2"],
             "platform": "ios",
             "storeLink": "",
             "link": "https://discord.gg/4kb4PRq7z8"
         },
         {
-            "lastUpdated": "2024-10-19",
+            "lastUpdated": "2024-11-21",
             "message": "There is a new update available in the Play Store",
-            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1"],
+            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1","1.11.2"],
             "platform": "android",
             "storeLink": "market://details?id=ajlake.dreamlight_guide"
         },
