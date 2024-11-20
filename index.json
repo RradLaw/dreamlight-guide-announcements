@@ -1,9 +1,9 @@
 {
     "announcements": [
         {
-            "lastUpdated": "2024-10-07",
-            "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-            "version": [""],
+            "lastUpdated": "2024-11-21",
+            "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
+            "version": ["1.11.2"],
             "platform": "android",
             "storeLink": "",
             "link": "https://discord.gg/4kb4PRq7z8"
@@ -25,9 +25,9 @@
             "link": "https://discord.gg/4kb4PRq7z8"
         },
         {
-            "lastUpdated": "2024-10-07",
-            "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-            "version": [""],
+            "lastUpdated": "2024-11-21",
+            "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
+            "version": ["1.11.2"],
             "platform": "ios",
             "storeLink": "",
             "link": "https://discord.gg/4kb4PRq7z8"
