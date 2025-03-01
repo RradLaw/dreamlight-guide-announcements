@@ -3,7 +3,15 @@
         {
             "lastUpdated": "2025-02-26",
             "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
-            "version": ["1.12.6"],
+            "version": [""],
+            "platform": "android",
+            "storeLink": "",
+            "link": "https://discord.gg/4kb4PRq7z8"
+        },
+        {
+            "lastUpdated": "2025-02-26",
+            "message": "The new update is on it's way! It was uploaded to the Google store 5 hours after the game update and we've been waiting for Google to approve it. Hopefully it's not much longer.",
+            "version": ["1.12.7"],
             "platform": "android",
             "storeLink": "",
             "link": "https://discord.gg/4kb4PRq7z8"
