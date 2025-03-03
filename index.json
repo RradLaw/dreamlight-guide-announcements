@@ -11,7 +11,7 @@
         {
             "lastUpdated": "2025-02-26",
             "message": "The new update is on it's way! Currently waiting for Google to approve the update we uploaded 5 hours after the game update.",
-            "version": ["1.12.7"],
+            "version": [""],
             "platform": "android",
             "storeLink": "",
             "link": "https://discord.gg/4kb4PRq7z8"
@@ -41,9 +41,9 @@
             "link": "https://discord.gg/4kb4PRq7z8"
         },
         {
-            "lastUpdated": "2025-1-15",
+            "lastUpdated": "2025-3-3",
             "message": "There is a new update available in the Play Store",
-            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1","1.11.2","1.12.0","1.12.1","1.12.2","1.12.3","1.12.4","1.12.5","1.12.6"],
+            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1","1.11.2","1.12.0","1.12.1","1.12.2","1.12.3","1.12.4","1.12.5","1.12.6","1.12.7","1.12.8"],
             "platform": "android",
             "storeLink": "market://details?id=ajlake.dreamlight_guide"
         },
