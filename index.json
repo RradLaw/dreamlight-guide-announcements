@@ -54,5 +54,11 @@
             "platform": "ios",
             "storeLink": "https://apps.apple.com/app/id6444711557"
         }
+    ],
+    "furniture": [
+        {
+            "name": "Hanging Wicker Swing",
+            "collection": "dreamlightValley"
+        }
     ]
 }
