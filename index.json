@@ -64,6 +64,13 @@
             "source": "found it haha!",
             "categories": ["essentials","art"],
             "furnitureZones": ["livingRoom","kitchen"]
+        },
+        {
+            "name": "Something new",
+            "collection": "dreamlightValley",
+            "universe": "general",
+            "source": "What is this!",
+            "furnitureZones": ["bathroom"]
         }
     ]
 }
