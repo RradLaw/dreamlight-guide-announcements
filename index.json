@@ -58,7 +58,12 @@
     "furniture": [
         {
             "name": "Hanging Wicker Swing",
-            "collection": "dreamlightValley"
+            "displayName": "Hanging Wicker Swing a ling",
+            "collection": "dreamlightValley",
+            "universe": "snowWhite",
+            "source": "found it haha!",
+            "categories": ["essentials","art"],
+            "furnitureZones": ["livingRoom","kitchen"]
         }
     ]
 }
