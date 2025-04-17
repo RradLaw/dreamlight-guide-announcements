@@ -70,7 +70,21 @@
             "collection": "dreamlightValley",
             "universe": "general",
             "source": "What is this!",
-            "furnitureZones": ["bathroom"]
+            "furnitureZones": ["bathroom"],
+            "style": ["cute","modern"]
+        }
+    ],
+    "clothing": [
+        {
+            "name": "Something new",
+            "displayName": "Something new!",
+            "collection": "dreamlightValley",
+            "universe": "general",
+            "source": "What is this!",
+            "category": "back",
+            "style": ["modern"],
+            "sourceCategory": ["quest"]
         }
     ]
+    // need to test clothing!!
 }
