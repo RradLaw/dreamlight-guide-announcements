@@ -87,7 +87,7 @@
         }
     ],
     "starPath": {
-        "name": "OasisRetreat2025",
+        "name": "OasisRetreat2026",
         "startDate": "2025-02-26",
         "endDate": "2025-05-17",
         "tasks": [
@@ -95,13 +95,12 @@
                 "id": "OasisRetreat2025_Task01",
                 "amount": 300,
                 "reward": 100,
-                "gift": true,
-                "description": [
-                    {
-                        "name": "Ratatouille!Remy",
-                        "category": "character"
-                    }
-                ]
+                "position": "02"
+            },
+            {
+                "id": "OasisRetreat2025_Task01",
+                "displayName":"the first task",
+                "position": "01"
             }
 
         ]
