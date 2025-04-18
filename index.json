@@ -87,18 +87,18 @@
         }
     ],
     "starPath": {
-        "name": "OasisRetreat2026",
+        "name": "OasisRetreat2025",
         "startDate": "2025-02-26",
         "endDate": "2025-05-17",
         "tasks": [
             {
                 "id": "OasisRetreat2025_Task01",
-                "amount": 300,
+                "amount": "300",
                 "reward": 100,
                 "position": "02"
             },
             {
-                "id": "OasisRetreat2025_Task01",
+                "id": "OasisRetreat2025_Task02",
                 "displayName":"the first task",
                 "position": "01"
             }
