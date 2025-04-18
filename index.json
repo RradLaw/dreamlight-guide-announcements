@@ -85,5 +85,24 @@
             "style": ["modern"],
             "sourceCategory": ["quest"]
         }
-    ]
+    ],
+    "starPath": {
+        "name": "OasisRetreat2025",
+        "startDate": "2025-02-26",
+        "endDate": "2025-04-17",
+        "tasks": [
+            {
+                "id": "OasisRetreat2025_Task01",
+                "amount": 300,
+                "reward": 100,
+                "description": [
+                    {
+                        "name": "D1002022_Task11",
+                        "category": "itemCategory.unknown"
+                    }
+                ]
+            }
+
+        ]
+    }
 }
