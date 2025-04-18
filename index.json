@@ -95,12 +95,12 @@
                 "id": "OasisRetreat2025_Task01",
                 "amount": "300",
                 "reward": 100,
-                "position": "02"
+                "position": 2
             },
             {
                 "id": "OasisRetreat2025_Task02",
                 "displayName":"the first task",
-                "position": "01"
+                "position": 1
             }
 
         ]
