@@ -87,20 +87,26 @@
         }
     ],
     "starPath": {
-        "name": "OasisRetreat2025",
+        "name": "OasisRetreat2026",
         "startDate": "2025-02-26",
         "endDate": "2025-05-17",
         "tasks": [
             {
-                "id": "OasisRetreat2025_Task01",
+                "id": "OasisRetreat2026_Task01",
+                "displayName": "Some new task!",
                 "amount": "300",
                 "reward": 100,
-                "position": 2
+                "position": 1,
+                "description": [
+                    {
+                        "name": "Dream Ice Cream", "category": "meal"
+                    }
+                ]
             },
             {
-                "id": "OasisRetreat2025_Task02",
-                "displayName":"the first task",
-                "position": 1
+                "id": "OasisRetreat2026_Task02",
+                "displayName":"Some other new task!",
+                "position": 2
             }
 
         ]
