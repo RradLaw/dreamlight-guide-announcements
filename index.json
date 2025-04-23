@@ -95,8 +95,37 @@
       "storeLink": "https://apps.apple.com/app/id6444711557"
     }
   ],
-  "furniture": [],
-  "clothing": [],
+  "furniture": [
+    
+    {
+        "name": "Beautiful Blooming Flower Pot",
+        "collection": "dreamlightValley",
+        "universe": "nonDisneyRelated",
+        "source": "scroogesStore",
+        "sourceCategory": ["scroogesStore"],
+        "categories": [],
+        "style": ["cute"],
+        "furnitureZones": ["diningRoom","bedroom","kitchen","livingRoom","study"]
+    },
+    {
+        "name": "Daisy's Wallpaper",
+        "collection": "dreamlightValley",
+        "universe": "mickeyAndFriends",
+        "source": "scroogesStore",
+        "sourceCategory": ["scroogesStore"],
+        "categories": ["wallpaper"],
+        "style": ["cute"],
+        "furnitureZones": []
+    }
+  ],
+  "clothing": [
+    {
+
+    "name": "{Placeholder} HaircutScrooge01",
+    "displayName": "Curly Bob",
+    "universe": "beautyAndTheBeast1991"
+    }
+  ],
   "starPath": {
     "name": "GardenOfWhimsy2025",
     "startDate": "2025-04-23",
