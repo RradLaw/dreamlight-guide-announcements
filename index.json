@@ -1,69 +1,987 @@
 {
-    "announcements": [
-        {
-            "lastUpdated": "2025-02-26",
-            "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
-            "version": [""],
-            "platform": "android",
-            "storeLink": "",
-            "link": "https://discord.gg/4kb4PRq7z8"
-        },
-        {
-            "lastUpdated": "2025-02-26",
-            "message": "The new update is on it's way! Currently waiting for Google to approve the update we uploaded 5 hours after the game update.",
-            "version": [""],
-            "platform": "android",
-            "storeLink": "",
-            "link": "https://discord.gg/4kb4PRq7z8"
-        },
-        {
-            "lastUpdated": "2024-10-07",
-            "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-            "version": [""],
-            "platform": "ios",
-            "storeLink": "",
-            "link": "https://discord.gg/4kb4PRq7z8"
-        },
-        {
-            "lastUpdated": "2024-10-07",
-            "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-            "version": [""],
-            "platform": "android",
-            "storeLink": "",
-            "link": "https://discord.gg/4kb4PRq7z8"
-        },
-        {
-            "lastUpdated": "2025-02-26",
-            "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-            "version": [""],
-            "platform": "ios",
-            "storeLink": "",
-            "link": "https://discord.gg/4kb4PRq7z8"
-        },
-        {
-            "lastUpdated": "2025-3-3",
-            "message": "There is a new update available in the Play Store",
-            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1","1.11.2","1.12.0","1.12.1","1.12.2","1.12.3","1.12.4","1.12.5","1.12.6","1.12.7","1.12.8"],
-            "platform": "android",
-            "storeLink": "market://details?id=ajlake.dreamlight_guide"
-        },
-        {
-            "lastUpdated": "2025-2-27",
-            "message": "There is a new update available in the App Store",
-            "version": ["1.8.0","1.8.3","1.9.0","1.9.1","1.10.0","1.10.1","1.10.2","1.11.0","1.11.1","1.11.2","1.12.0","1.12.1","1.12.2","1.12.3","1.12.4","1.12.5","1.12.6","1.12.7","1.12.8"],
-            "platform": "ios",
-            "storeLink": "https://apps.apple.com/app/id6444711557"
-        }
-    ],
-    "furniture": [
-    ],
-    "clothing": [
-    ],
-    "starPath": {
-        "name": "OasisRetreat2025",
-        "startDate": "2025-02-26",
-        "endDate": "2025-04-17",
-        "tasks": [
-        ]
+  "announcements": [
+    {
+      "lastUpdated": "2025-02-26",
+      "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
+      "version": [""],
+      "platform": "android",
+      "storeLink": "",
+      "link": "https://discord.gg/4kb4PRq7z8"
+    },
+    {
+      "lastUpdated": "2025-02-26",
+      "message": "The new update is on it's way! Currently waiting for Google to approve the update we uploaded 5 hours after the game update.",
+      "version": [""],
+      "platform": "android",
+      "storeLink": "",
+      "link": "https://discord.gg/4kb4PRq7z8"
+    },
+    {
+      "lastUpdated": "2024-10-07",
+      "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
+      "version": [""],
+      "platform": "ios",
+      "storeLink": "",
+      "link": "https://discord.gg/4kb4PRq7z8"
+    },
+    {
+      "lastUpdated": "2024-10-07",
+      "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
+      "version": [""],
+      "platform": "android",
+      "storeLink": "",
+      "link": "https://discord.gg/4kb4PRq7z8"
+    },
+    {
+      "lastUpdated": "2025-02-26",
+      "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
+      "version": [""],
+      "platform": "ios",
+      "storeLink": "",
+      "link": "https://discord.gg/4kb4PRq7z8"
+    },
+    {
+      "lastUpdated": "2025-3-3",
+      "message": "There is a new update available in the Play Store",
+      "version": [
+        "1.8.0",
+        "1.8.3",
+        "1.9.0",
+        "1.9.1",
+        "1.10.0",
+        "1.10.1",
+        "1.10.2",
+        "1.11.0",
+        "1.11.1",
+        "1.11.2",
+        "1.12.0",
+        "1.12.1",
+        "1.12.2",
+        "1.12.3",
+        "1.12.4",
+        "1.12.5",
+        "1.12.6",
+        "1.12.7",
+        "1.12.8"
+      ],
+      "platform": "android",
+      "storeLink": "market://details?id=ajlake.dreamlight_guide"
+    },
+    {
+      "lastUpdated": "2025-2-27",
+      "message": "There is a new update available in the App Store",
+      "version": [
+        "1.8.0",
+        "1.8.3",
+        "1.9.0",
+        "1.9.1",
+        "1.10.0",
+        "1.10.1",
+        "1.10.2",
+        "1.11.0",
+        "1.11.1",
+        "1.11.2",
+        "1.12.0",
+        "1.12.1",
+        "1.12.2",
+        "1.12.3",
+        "1.12.4",
+        "1.12.5",
+        "1.12.6",
+        "1.12.7",
+        "1.12.8"
+      ],
+      "platform": "ios",
+      "storeLink": "https://apps.apple.com/app/id6444711557"
     }
+  ],
+  "furniture": [],
+  "clothing": [],
+  "starPath": {
+    "name": "OasisRetreat2025",
+    "startDate": "2025-04-23",
+    "endDate": "2025-06-01",
+    "tasks": [
+      {
+        "id": "GardenOfWhimsy2025_Task01",
+        "displayName": "Uproot Night Thorns.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task02",
+        "displayName": "Practice MINE-fulness.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task03",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task04",
+        "displayName": "Get crafty!",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task05",
+        "displayName": "Give a Villager their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task06",
+        "displayName": "Whip up a 3-star meal.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task07",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task08",
+        "displayName": "Go fish!",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task09",
+        "displayName": "Work a shift at either restaurant.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task10",
+        "displayName": "Make small talk.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task11",
+        "displayName": "Pick the fruits that put Snow White to sleep.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task12",
+        "displayName": "Mine precious gems with a Royal Tool.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task13",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task14",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task15",
+        "displayName": "Delight a robot with his favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task16",
+        "displayName": "Cook any 4-star meal.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task17",
+        "displayName": "Catch fish somewhere Peaceful.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task18",
+        "displayName": "Enter a DreamSnaps contest.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task19",
+        "displayName": "Serve customers in Chez Remy.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task20",
+        "displayName": "Say \"bonjour\" to a tiny chef.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task21",
+        "displayName": "Serve customers at Tiana's Palace.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task22",
+        "displayName": "Mine for blue gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task23",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task24",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task25",
+        "displayName": "Give a stargazing wayfinder gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task26",
+        "displayName": "Cook a fairly fancy dinner.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task27",
+        "displayName": "Catch fish somewhere Dazzling.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task28",
+        "displayName": "Complete Boutique challenges.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task29",
+        "displayName": "Serve customers in Chez Remy.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task30",
+        "displayName": "Have a chat with a demigod.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task31",
+        "displayName": "Harvest Canola.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task32",
+        "displayName": "Mine for red gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task33",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task34",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task35",
+        "displayName": "Give Arendelle's Queen her favorites.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task36",
+        "displayName": "Cook a fairly fancy appetizer.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task37",
+        "displayName": "Fish somewhere Valorous.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task38",
+        "displayName": "Enter a DreamSnaps contest.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task39",
+        "displayName": "Serve customers in Chez Remy.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task40",
+        "displayName": "Chat with a powerfully frosty Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task41",
+        "displayName": "Uproot Night Thorns.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task42",
+        "displayName": "Mine for yellow gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task43",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task44",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task45",
+        "displayName": "Give favorite gifts to a tiny Space Ranger.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task46",
+        "displayName": "Cook a fairly fancy dessert.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task47",
+        "displayName": "Fish somewhere Trustworthy.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task48",
+        "displayName": "Complete Boutique challenges.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task49",
+        "displayName": "Uproot Night Thorns.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task50",
+        "displayName": "Chat with your favorite deputy.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task51",
+        "displayName": "Harvest something white and fluffy.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task52",
+        "displayName": "Mine for green gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task53",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task54",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task55",
+        "displayName": "Give favorite gifts to the Queen of Pride Rock.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task56",
+        "displayName": "Cook a perfect entrée.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task57",
+        "displayName": "Fish somewhere that's always Sunlit.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task58",
+        "displayName": "Enter a DreamSnaps contest.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task59",
+        "displayName": "Serve customers at Tiana's Palace.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task60",
+        "displayName": "Uproot Night Thorns.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task61",
+        "displayName": "Mine for purple gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task62",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task63",
+        "displayName": "Chat with the king of the jungle.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task64",
+        "displayName": "Give a book-loving Villager their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task65",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task66",
+        "displayName": "Cook a perfect appetizer.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task67",
+        "displayName": "Fish somewhere Frosty.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task68",
+        "displayName": "Complete Boutique challenges.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task69",
+        "displayName": "Serve customers at Tiana's Palace.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task70",
+        "displayName": "Chat with Belle's beau.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task71",
+        "displayName": "Dig up a root vegetable with many eyes.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task72",
+        "displayName": "Mine for white gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task73",
+        "displayName": "Tackle royal tasks.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task74",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task75",
+        "displayName": "Give a curious Villager their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task76",
+        "displayName": "Cook a perfect dessert.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task77",
+        "displayName": "Fish somewhere Forgotten.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task78",
+        "displayName": "Enter a DreamSnaps contest.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task79",
+        "displayName": "Serve customers at Tiana's Palace.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task80",
+        "displayName": "Chat with a curious young Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task81",
+        "displayName": "Give some feathered Villagers their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task82",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task83",
+        "displayName": "Feed the Squirrels their favorite food.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task84",
+        "displayName": "Mine for square gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task85",
+        "displayName": "Give a little robot their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task86",
+        "displayName": "Enter a DreamSnaps contest.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task87",
+        "displayName": "Serve some hungry customers.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task88",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task89",
+        "displayName": "Collect some shoreline shellfish.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task90",
+        "displayName": "Give gifts to a blonde.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task91",
+        "displayName": "Craft large miraculous elixirs.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task92",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task93",
+        "displayName": "Feed the Sea Turtles their favorite food.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task94",
+        "displayName": "Mine for oval gems.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task95",
+        "displayName": "Give residents of Halloween Town their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task96",
+        "displayName": "Complete Boutique challenges.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task97",
+        "displayName": "Serve some hungry customers.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task98",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task99",
+        "displayName": "Cast around for seafood.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task100",
+        "displayName": "Give Hades or Maui their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task101",
+        "displayName": "Open up fresh Memories.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task102",
+        "displayName": "Craft any Training Manual.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task103",
+        "displayName": "Feed the Sunbirds their favorite food.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task104",
+        "displayName": "Mine for something shiny.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task105",
+        "displayName": "Give any restaurateur in the Valley their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task106",
+        "displayName": "Enter a DreamSnaps contest.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task107",
+        "displayName": "Serve some hungry customers.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task108",
+        "displayName": "Spend time with a Villager.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task109",
+        "displayName": "Catch fish in gold ripples.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task110",
+        "displayName": "Give visitors from the Alice in Wonderland Realm their favorite gifts.",
+        "amount": "0",
+        "reward": 0,
+        "position": 0,
+        "description": []
+      }
+    ]
+  }
 }
