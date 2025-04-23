@@ -570,6 +570,42 @@
       "style": ["cute"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"]
+    },
+    {
+
+    "name": "Large Cupcake",
+    "universe": "aliceInWonderland",
+    "source": "Found in a chest in Alice's Realm",
+    "sourceCategory": ["other"]
+
+    },
+    {
+
+    "name": "Queen's Tower",
+    "universe": "aliceInWonderland",
+    "source": "Found in a chest in Alice's Realm",
+    "sourceCategory": ["other"]
+    },
+    {
+
+    "name": "Large Blue Teacup",
+    "universe": "aliceInWonderland",
+    "source": "Hidden key quest in Alice's Realm",
+    "sourceCategory": ["other"]
+    },
+    {
+
+    "name": "Large Pink Teacup",
+    "universe": "aliceInWonderland",
+    "source": "Hidden key quest in Alice's Realm",
+    "sourceCategory": ["other"]
+    },
+    {
+
+    "name": "Large Yellow Teacup",
+    "universe": "aliceInWonderland",
+    "source": "Hidden key quest in Alice's Realm",
+    "sourceCategory": ["other"]
     }
   ],
   "clothing": [
