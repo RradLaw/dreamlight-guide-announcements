@@ -835,7 +835,7 @@
         "amount": "3",
         "reward": 15,
         "position": 10,
-        "discussion": true,
+        "discuss": true,
         "description": [{ "name": "D1002022_Task04", "category": "unknown" }]
       },
       {
@@ -923,7 +923,7 @@
         "amount": "2",
         "reward": 15,
         "position": 20,
-        "discussion": true,
+        "discuss": true,
         "description": [{ "name": "Ratatouille!Remy", "category": "character" }]
       },
       {
@@ -1022,7 +1022,7 @@
         "amount": "0",
         "reward": 0,
         "position": 30,
-        "discussion": true,
+        "discuss": true,
         "description": [{ "name": "Moana!Maui", "category": "character" }]
       },
       {
@@ -1115,7 +1115,7 @@
         "amount": "0",
         "reward": 0,
         "position": 40,
-        "discussion": true,
+        "discuss": true,
         "description": [{ "name": "Frozen!Elsa", "category": "character" }]
       },
       {
@@ -1216,7 +1216,7 @@
         "amount": "0",
         "reward": 0,
         "position": 50,
-        "discussion": true,
+        "discuss": true,
         "description": [{ "name": "ToyStory!Woody", "category": "character" }]
       },
       {
@@ -1348,7 +1348,7 @@
         "amount": "0",
         "reward": 0,
         "position": 63,
-        "discussion": true,
+        "discuss": true,
         "description": [{ "name": "LionKing!Simba", "category": "character" }]
       },
       {
@@ -1410,7 +1410,7 @@
         "amount": "0",
         "reward": 0,
         "position": 70,
-        "discussion": true,
+        "discuss": true,
         "description": [
           { "name": "BeautyBeast!Beast", "category": "character" }
         ]
@@ -1502,7 +1502,7 @@
         "amount": "0",
         "reward": 0,
         "position": 80,
-        "discussion": true,
+        "discuss": true,
         "description": []
       },
       {
