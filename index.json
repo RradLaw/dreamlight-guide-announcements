@@ -129,7 +129,7 @@
   "starPath": {
     "name": "GardenOfWhimsy2025",
     "startDate": "2025-04-23",
-    "endDate": "2025-06-09",
+    "endDate": "2025-06-12",
     "tasks": [
       {
         "id": "GardenOfWhimsy2025_Task01",
@@ -188,7 +188,7 @@
       {
         "id": "GardenOfWhimsy2025_Task07",
         "displayName": "Spend time with a Villager.",
-        "amount": "5",
+        "amount": "5 min",
         "reward": 10,
         "position": 7,
         "description": []
@@ -377,7 +377,7 @@
         "amount": "0",
         "reward": 0,
         "position": 29,
-        "description": [{"name": "Parks2022_Task27", "category": "unknown"}]
+        "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task30",
@@ -461,7 +461,7 @@
         "amount": "0",
         "reward": 0,
         "position": 39,
-        "description": [{"name": "Parks2022_Task27", "category": "unknown"}]
+        "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task40",
@@ -568,7 +568,7 @@
         "amount": "0",
         "reward": 0,
         "position": 51,
-        "description": []
+        "description": [{"name": "Cotton", "category": "foraging"}]
       },
       {
         "id": "GardenOfWhimsy2025_Task52",
@@ -684,7 +684,7 @@
         "reward": 0,
         "position": 64,
         "gift":true,
-        "description": [{"name": "BeautyAndTheBeast!Belle", "category": "character"}]
+        "description": [{"name": "BeautyBeast!Belle", "category": "character"}]
       },
       {
         "id": "GardenOfWhimsy2025_Task65",
@@ -733,7 +733,7 @@
         "reward": 0,
         "position": 70,
         "discussion": true,
-        "description": [{"name": "BeautyAndTheBeast!Beast", "category": "character"}]
+        "description": [{"name": "BeautyBeast!Beast", "category": "character"}]
       },
         {
           "id": "GardenOfWhimsy2025_Task71",
