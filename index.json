@@ -887,12 +887,22 @@
         "description": [{ "name": "Ratatouille!Remy", "category": "character" }]
       },
       {
-        "id": "GardenOfWhimsy2025_Task21",
-        "displayName": "Serve customers at Tiana's Palace.",
-        "amount": "0",
-        "reward": 0,
+        "id": "GardenOfWhimsy2025_Task49",
+        "displayName": "Uproot Night Thorns.",
+        "amount": "20",
+        "reward": 10,
         "position": 21,
-        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+        "description": [
+          {
+            "name": "Halloween2022_Task36",
+            "category": "unknown"
+          },
+          {
+            "name": "Expansion01!RemoveXDreamlightCracks",
+            "category": "unknown"
+          },
+          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task22",
@@ -1149,23 +1159,14 @@
         "position": 48,
         "description": []
       },
+
       {
-        "id": "GardenOfWhimsy2025_Task49",
-        "displayName": "Uproot Night Thorns.",
+        "id": "GardenOfWhimsy2025_Task21",
+        "displayName": "Serve customers at Tiana's Palace.",
         "amount": "0",
         "reward": 0,
         "position": 49,
-        "description": [
-          {
-            "name": "Halloween2022_Task36",
-            "category": "unknown"
-          },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
+        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task50",
