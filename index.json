@@ -656,7 +656,58 @@
       "collection": "dreamlightValley",
       "source": "Alice Level 2",
       "sourceCategory": ["friendship"]
+    },
+    {
+      "name": "Elegant Red Chesterfield Chair",
+      "universe": "thePrincessAndTheFrog",
+      "furnitureZones": ["livingRoom", "study"],
+      "style": ["elegant"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Black Croquet Card",
+      "collection": "unknown"
+    },
+    {
+      "name": "Hatter Table and Lamp",
+      "collection": "unknown"
+    },
+    {
+      "name": "Heart-Patterned Wallpaper",
+      "universe": "aliceInWonderland",
+      "collection": "unknown"
+    },
+    {
+      "name": "Lily Pad",
+      "collection": "unknown"
+    },
+    {
+      "name": "Lovely Dice",
+      "collection": "unknown"
+    },
+    {
+      "name": "Rabbit Wall Clock",
+      "collection": "unknown"
+    },
+    {
+      "name": "Red and Black Key Clock",
+      "collection": "unknown"
+    },
+    {
+      "name": "Talkative Doorknob Door",
+      "collection": "unknown"
+    },
+    {
+      "name": "Teacup Desk Lamp",
+      "collection": "unknown"
+    },
+    {
+      "name": "Teacup Lights",
+      "collection": "unknown"
     }
+
   ],
   "clothing": [
     {
