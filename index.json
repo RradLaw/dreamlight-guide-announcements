@@ -1414,8 +1414,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task61",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 10,
         "position": 61,
         "description": [
           {
@@ -1426,23 +1426,23 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task62",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 62,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task63",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 10,
         "position": 63,
         "discuss": true,
         "description": [{ "name": "LionKing!Simba", "category": "character" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task64",
-        "amount": "0",
-        "reward": 0,
+        "amount": "15",
+        "reward": 10,
         "position": 64,
         "gift": true,
         "description": [
@@ -1451,15 +1451,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task65",
-        "amount": "0",
-        "reward": 0,
+        "amount": "4",
+        "reward": 20,
         "position": 65,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task66",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 10,
         "position": 66,
         "description": [
           { "name": "Cook 5-Star Appetizers", "category": "unknown" }
@@ -1467,29 +1467,29 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task67",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 67,
         "description": [{ "name": "Frosted Heights", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task68",
-        "amount": "0",
-        "reward": 0,
+        "amount": "2",
+        "reward": 15,
         "position": 68,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task69",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "position": 69,
         "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task70",
-        "amount": "0",
-        "reward": 0,
+        "amount": "2",
+        "reward": 15,
         "position": 70,
         "discuss": true,
         "description": [
@@ -1498,15 +1498,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task71",
-        "amount": "0",
-        "reward": 0,
+        "amount": "50",
+        "reward": 10,
         "position": 71,
         "description": [{ "name": "Potato", "category": "ingredient" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task72",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 72,
         "description": [
           {
@@ -1518,15 +1518,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task73",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 10,
         "position": 73,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task74",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 10,
         "position": 74,
         "description": [
           { "name": "Find memory orbs from doing tasks", "category": "unknown" }
@@ -1534,52 +1534,52 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task75",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "position": 75,
         "gift": true,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task76",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 10,
         "position": 76,
         "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task77",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 77,
         "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task78",
-        "amount": "0",
-        "reward": 0,
+        "amount": "1",
+        "reward": 15,
         "position": 78,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task79",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "position": 79,
         "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task80",
-        "amount": "0",
-        "reward": 0,
+        "amount": "2",
+        "reward": 15,
         "position": 80,
         "discuss": true,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task81",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 20,
         "position": 81,
         "gift": true,
         "description": [
@@ -1590,8 +1590,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task82",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 15,
         "position": 82,
         "description": [
           { "name": "Find memory orbs from doing tasks", "category": "unknown" }
@@ -1599,22 +1599,22 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task83",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "position": 83,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task84",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 25,
         "position": 84,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task85",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 85,
         "gift": true,
         "description": [{ "name": "WallE!WallE", "category": "character" }]
