@@ -170,8 +170,8 @@
       "name": "Croquet Start",
       "universe": "aliceInWonderland",
       "categories": ["unknown"],
-      "furnitureZones": [],
-
+      "furnitureZones": ["bedroom", "diningRoom", "livingRoom", "outdoors", "recRoom", "study"],
+      "style": ["casual", "cute"],
       "source": "Found in a chest in Alice's Realm",
       "sourceCategory": ["other"]
     },
@@ -262,16 +262,16 @@
 
       "source": "Garden of Whimsy Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Back Direction Sign",
       "universe": "aliceInWonderland",
       "categories": ["unknown"],
-      "furnitureZones": [],
-
-      "source": "Found in a chest in Alice's Realm",
-      "sourceCategory": ["other"]
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic"],
+      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
+      "sourceCategory": ["other", "scroogesStore"]
     },
     {
       "name": "Down Direction Sign",
@@ -304,10 +304,10 @@
       "name": "\"This Way\" Direction Sign",
       "universe": "aliceInWonderland",
       "categories": ["unknown"],
-      "furnitureZones": [],
-
-      "source": "Found in a chest in Alice's Realm",
-      "sourceCategory": ["other"]
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic"],
+      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
+      "sourceCategory": ["other", "scroogesStore"]
     },
     {
       "name": "Up Direction Sign",
@@ -685,26 +685,68 @@
     },
     {
       "name": "Lovely Dice",
+      "furnitureZones": ["bedroom", "livingRoom", "study", "recRoom"],
+      "style": ["bold"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     },
     {
       "name": "Rabbit Wall Clock",
+    "furnitureZones": ["study", "livingRoom", "diningRoom"],
+    "style": ["cute", "traditional"],
+    "source": "scroogesStore",
+    "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     },
     {
       "name": "Red and Black Key Clock",
-      "collection": "unknown"
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "furnitureZones": ["livingRoom", "study", "kitchen"],
+      "style": ["rustic", "elegant"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Talkative Doorknob Door",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Teacup Desk Lamp",
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     },
     {
       "name": "Teacup Lights",
+      "furnitureZones": ["diningRoom", "livingRoom", "bedroom"],
+      "style": ["elegant", "bold"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Tall Blue Teapot",
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Red and Gold Wall Clock",
+      "furnitureZones": ["livingRoom", "study", "diningRoom"],
+      "style": ["elegant", "traditional"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Red Rose Heart Tree",
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     }
 
@@ -834,6 +876,10 @@
     {
       "name": "Court of Hearts Crown",
       "collection": "dreamlightValley"
+    },
+    {
+      "name": "Leafy Fairy Shoes",
+      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
@@ -843,7 +889,6 @@
     "tasks": [
       {
         "id": "GardenOfWhimsy2025_Task01",
-        "displayName": "Uproot Night Thorns.",
         "amount": "10",
         "reward": 10,
         "position": 1,
@@ -861,7 +906,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task02",
-        "displayName": "Practice MINE-fulness.",
         "amount": "5",
         "reward": 20,
         "position": 2,
@@ -869,7 +913,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task03",
-        "displayName": "Tackle royal tasks.",
         "amount": "5",
         "reward": 10,
         "position": 3,
@@ -877,7 +920,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task04",
-        "displayName": "Get crafty!",
         "amount": "3",
         "reward": 10,
         "position": 4,
@@ -885,7 +927,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task05",
-        "displayName": "Give a Villager their favorite gifts.",
         "amount": "3",
         "reward": 20,
         "position": 5,
@@ -894,7 +935,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task06",
-        "displayName": "Whip up a 3-star meal.",
         "amount": "5",
         "reward": 10,
         "position": 6,
@@ -904,7 +944,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task07",
-        "displayName": "Spend time with a Villager.",
         "amount": "5 min",
         "reward": 10,
         "position": 7,
@@ -912,7 +951,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task08",
-        "displayName": "Go fish!",
         "amount": "5",
         "reward": 15,
         "position": 8,
@@ -922,7 +960,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task09",
-        "displayName": "Work a shift at either restaurant.",
         "amount": "3",
         "reward": 20,
         "position": 9,
@@ -936,7 +973,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task10",
-        "displayName": "Make small talk.",
         "amount": "3",
         "reward": 15,
         "position": 10,
@@ -945,7 +981,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task11",
-        "displayName": "Pick the fruits that put Snow White to sleep.",
         "amount": "25",
         "reward": 10,
         "position": 11,
@@ -953,7 +988,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task12",
-        "displayName": "Mine precious gems with a Royal Tool.",
         "amount": "10",
         "reward": 20,
         "position": 12,
@@ -963,7 +997,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task13",
-        "displayName": "Tackle royal tasks.",
         "amount": "10",
         "reward": 10,
         "position": 13,
@@ -971,7 +1004,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task14",
-        "displayName": "Open up fresh Memories.",
         "amount": "5",
         "reward": 10,
         "position": 14,
@@ -981,7 +1013,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task15",
-        "displayName": "Delight a robot with his favorite gifts.",
         "amount": "4",
         "reward": 20,
         "position": 15,
@@ -990,7 +1021,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task16",
-        "displayName": "Cook any 4-star meal.",
         "amount": "10",
         "reward": 10,
         "position": 16,
@@ -1000,7 +1030,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task17",
-        "displayName": "Catch fish somewhere Peaceful.",
         "amount": "10",
         "reward": 20,
         "position": 17,
@@ -1008,7 +1037,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task18",
-        "displayName": "Enter a DreamSnaps contest.",
         "amount": "1",
         "reward": 15,
         "position": 18,
@@ -1016,7 +1044,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task19",
-        "displayName": "Serve customers in Chez Remy.",
         "amount": "5",
         "reward": 20,
         "position": 19,
@@ -1024,7 +1051,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task20",
-        "displayName": "Say \"bonjour\" to a tiny chef.",
         "amount": "2",
         "reward": 15,
         "position": 20,
@@ -1033,7 +1059,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task49",
-        "displayName": "Uproot Night Thorns.",
         "amount": "20",
         "reward": 10,
         "position": 21,
@@ -1051,7 +1076,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task22",
-        "displayName": "Mine for blue gems.",
         "amount": "10",
         "reward": 20,
         "position": 22,
@@ -1064,7 +1088,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task23",
-        "displayName": "Tackle royal tasks.",
         "amount": "10",
         "reward": 10,
         "position": 23,
@@ -1072,7 +1095,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task24",
-        "displayName": "Spend time with a Villager.",
         "amount": "15",
         "reward": 10,
         "position": 24,
@@ -1080,7 +1102,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task25",
-        "displayName": "Give a stargazing wayfinder gifts.",
         "amount": "5",
         "reward": 20,
         "position": 25,
@@ -1089,7 +1110,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task26",
-        "displayName": "Cook a fairly fancy dinner.",
         "amount": "10",
         "reward": 10,
         "position": 26,
@@ -1099,7 +1119,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task27",
-        "displayName": "Catch fish somewhere Dazzling.",
         "amount": "10",
         "reward": 20,
         "position": 27,
@@ -1107,7 +1126,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task28",
-        "displayName": "Complete Boutique challenges.",
         "amount": "2",
         "reward": 15,
         "position": 28,
@@ -1115,7 +1133,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task29",
-        "displayName": "Serve customers in Chez Remy.",
         "amount": "5",
         "reward": 20,
         "position": 29,
@@ -1123,7 +1140,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task30",
-        "displayName": "Have a chat with a demigod.",
         "amount": "2",
         "reward": 15,
         "position": 30,
@@ -1132,7 +1148,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task31",
-        "displayName": "Harvest Canola.",
         "amount": "50",
         "reward": 10,
         "position": 31,
@@ -1140,7 +1155,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task32",
-        "displayName": "Mine for red gems.",
         "amount": "10",
         "reward": 20,
         "position": 32,
@@ -1155,7 +1169,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task33",
-        "displayName": "Tackle royal tasks.",
         "amount": "15",
         "reward": 10,
         "position": 33,
@@ -1163,7 +1176,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task34",
-        "displayName": "Open up fresh Memories.",
         "amount": "5",
         "reward": 10,
         "position": 34,
@@ -1173,7 +1185,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task35",
-        "displayName": "Give Arendelle's Queen her favorites.",
         "amount": "5",
         "reward": 20,
         "position": 35,
@@ -1182,7 +1193,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task36",
-        "displayName": "Cook a fairly fancy appetizer.",
         "amount": "10",
         "reward": 10,
         "position": 36,
@@ -1192,7 +1202,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task37",
-        "displayName": "Fish somewhere Valorous.",
         "amount": "10",
         "reward": 20,
         "position": 37,
@@ -1200,7 +1209,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task38",
-        "displayName": "Enter a DreamSnaps contest.",
         "amount": "1",
         "reward": 15,
         "position": 38,
@@ -1208,7 +1216,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task39",
-        "displayName": "Serve customers in Chez Remy.",
         "amount": "5",
         "reward": 20,
         "position": 39,
@@ -1216,7 +1223,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task40",
-        "displayName": "Chat with a powerfully frosty Villager.",
         "amount": "2",
         "reward": 15,
         "position": 40,
@@ -1225,7 +1231,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task41",
-        "displayName": "Uproot Night Thorns.",
         "amount": "20",
         "reward": 10,
         "position": 41,
@@ -1243,7 +1248,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task42",
-        "displayName": "Mine for yellow gems.",
         "amount": "10",
         "reward": 20,
         "position": 42,
@@ -1257,7 +1261,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task43",
-        "displayName": "Tackle royal tasks.",
         "amount": "15",
         "reward": 10,
         "position": 43,
@@ -1265,7 +1268,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task44",
-        "displayName": "Spend time with a Villager.",
         "amount": "5",
         "reward": 20,
         "position": 44,
@@ -1273,7 +1275,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task45",
-        "displayName": "Give favorite gifts to a tiny Space Ranger.",
         "amount": "5",
         "reward": 20,
         "position": 45,
@@ -1282,7 +1283,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task46",
-        "displayName": "Cook a fairly fancy dessert.",
         "amount": "10",
         "reward": 10,
         "position": 46,
@@ -1292,7 +1292,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task47",
-        "displayName": "Fish somewhere Trustworthy.",
         "amount": "10",
         "reward": 20,
         "position": 47,
@@ -1300,7 +1299,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task48",
-        "displayName": "Complete Boutique challenges.",
         "amount": "2",
         "reward": 15,
         "position": 48,
@@ -1309,7 +1307,6 @@
 
       {
         "id": "GardenOfWhimsy2025_Task21",
-        "displayName": "Serve customers at Tiana's Palace.",
         "amount": "5",
         "reward": 20,
         "position": 49,
@@ -1317,7 +1314,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task50",
-        "displayName": "Chat with your favorite deputy.",
         "amount": "2",
         "reward": 15,
         "position": 50,
@@ -1326,7 +1322,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task51",
-        "displayName": "Harvest something white and fluffy.",
         "amount": "50",
         "reward": 10,
         "position": 51,
@@ -1334,7 +1329,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task52",
-        "displayName": "Mine for green gems.",
         "amount": "50",
         "reward": 10,
         "position": 52,
@@ -1349,7 +1343,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task53",
-        "displayName": "Tackle royal tasks.",
         "amount": "15",
         "reward": 10,
         "position": 53,
@@ -1357,7 +1350,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task54",
-        "displayName": "Open up fresh Memories.",
         "amount": "5",
         "reward": 10,
         "position": 54,
@@ -1367,7 +1359,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task55",
-        "displayName": "Give favorite gifts to the Queen of Pride Rock.",
         "amount": "5",
         "reward": 20,
         "position": 55,
@@ -1376,7 +1367,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task56",
-        "displayName": "Cook a perfect entrée.",
         "amount": "10",
         "reward": 10,
         "position": 56,
@@ -1386,7 +1376,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task57",
-        "displayName": "Fish somewhere that's always Sunlit.",
         "amount": "10",
         "reward": 20,
         "position": 57,
@@ -1394,7 +1383,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task58",
-        "displayName": "Enter a DreamSnaps contest.",
         "amount": "1",
         "reward": 15,
         "position": 58,
@@ -1402,7 +1390,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task59",
-        "displayName": "Serve customers at Tiana's Palace.",
         "amount": "5",
         "reward": 20,
         "position": 59,
@@ -1410,7 +1397,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task60",
-        "displayName": "Uproot Night Thorns.",
         "amount": "2",
         "reward": 15,
         "position": 60,
@@ -1428,7 +1414,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task61",
-        "displayName": "Mine for purple gems.",
         "amount": "0",
         "reward": 0,
         "position": 61,
@@ -1441,7 +1426,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task62",
-        "displayName": "Tackle royal tasks.",
         "amount": "0",
         "reward": 0,
         "position": 62,
@@ -1449,7 +1433,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task63",
-        "displayName": "Chat with the king of the jungle.",
         "amount": "0",
         "reward": 0,
         "position": 63,
@@ -1458,7 +1441,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task64",
-        "displayName": "Give a book-loving Villager their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 64,
@@ -1469,7 +1451,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task65",
-        "displayName": "Spend time with a Villager.",
         "amount": "0",
         "reward": 0,
         "position": 65,
@@ -1477,7 +1458,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task66",
-        "displayName": "Cook a perfect appetizer.",
         "amount": "0",
         "reward": 0,
         "position": 66,
@@ -1487,7 +1467,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task67",
-        "displayName": "Fish somewhere Frosty.",
         "amount": "0",
         "reward": 0,
         "position": 67,
@@ -1495,7 +1474,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task68",
-        "displayName": "Complete Boutique challenges.",
         "amount": "0",
         "reward": 0,
         "position": 68,
@@ -1503,7 +1481,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task69",
-        "displayName": "Serve customers at Tiana's Palace.",
         "amount": "0",
         "reward": 0,
         "position": 69,
@@ -1511,7 +1488,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task70",
-        "displayName": "Chat with Belle's beau.",
         "amount": "0",
         "reward": 0,
         "position": 70,
@@ -1522,7 +1498,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task71",
-        "displayName": "Dig up a root vegetable with many eyes.",
         "amount": "0",
         "reward": 0,
         "position": 71,
@@ -1530,7 +1505,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task72",
-        "displayName": "Mine for white gems.",
         "amount": "0",
         "reward": 0,
         "position": 72,
@@ -1544,7 +1518,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task73",
-        "displayName": "Tackle royal tasks.",
         "amount": "0",
         "reward": 0,
         "position": 73,
@@ -1552,7 +1525,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task74",
-        "displayName": "Open up fresh Memories.",
         "amount": "0",
         "reward": 0,
         "position": 74,
@@ -1562,7 +1534,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task75",
-        "displayName": "Give a curious Villager their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 75,
@@ -1571,7 +1542,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task76",
-        "displayName": "Cook a perfect dessert.",
         "amount": "0",
         "reward": 0,
         "position": 76,
@@ -1579,7 +1549,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task77",
-        "displayName": "Fish somewhere Forgotten.",
         "amount": "0",
         "reward": 0,
         "position": 77,
@@ -1587,7 +1556,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task78",
-        "displayName": "Enter a DreamSnaps contest.",
         "amount": "0",
         "reward": 0,
         "position": 78,
@@ -1595,7 +1563,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task79",
-        "displayName": "Serve customers at Tiana's Palace.",
         "amount": "0",
         "reward": 0,
         "position": 79,
@@ -1603,7 +1570,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task80",
-        "displayName": "Chat with a curious young Villager.",
         "amount": "0",
         "reward": 0,
         "position": 80,
@@ -1612,7 +1578,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task81",
-        "displayName": "Give some feathered Villagers their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 81,
@@ -1625,7 +1590,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task82",
-        "displayName": "Open up fresh Memories.",
         "amount": "0",
         "reward": 0,
         "position": 82,
@@ -1635,7 +1599,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task83",
-        "displayName": "Feed the Squirrels their favorite food.",
         "amount": "0",
         "reward": 0,
         "position": 83,
@@ -1643,7 +1606,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task84",
-        "displayName": "Mine for square gems.",
         "amount": "0",
         "reward": 0,
         "position": 84,
@@ -1651,7 +1613,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task85",
-        "displayName": "Give a little robot their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 85,
@@ -1660,7 +1621,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task86",
-        "displayName": "Enter a DreamSnaps contest.",
         "amount": "0",
         "reward": 0,
         "position": 86,
@@ -1668,7 +1628,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task87",
-        "displayName": "Serve some hungry customers.",
         "amount": "0",
         "reward": 0,
         "position": 87,
@@ -1682,7 +1641,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task88",
-        "displayName": "Spend time with a Villager.",
         "amount": "0",
         "reward": 0,
         "position": 88,
@@ -1690,7 +1648,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task89",
-        "displayName": "Collect some shoreline shellfish.",
         "amount": "0",
         "reward": 0,
         "position": 89,
@@ -1698,7 +1655,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task90",
-        "displayName": "Give gifts to a blonde.",
         "amount": "0",
         "reward": 0,
         "position": 90,
@@ -1707,7 +1663,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task91",
-        "displayName": "Craft large miraculous elixirs.",
         "amount": "0",
         "reward": 0,
         "position": 91,
@@ -1715,7 +1670,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task92",
-        "displayName": "Open up fresh Memories.",
         "amount": "0",
         "reward": 0,
         "position": 92,
@@ -1725,7 +1679,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task93",
-        "displayName": "Feed the Sea Turtles their favorite food.",
         "amount": "0",
         "reward": 0,
         "position": 93,
@@ -1733,7 +1686,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task94",
-        "displayName": "Mine for oval gems.",
         "amount": "0",
         "reward": 0,
         "position": 94,
@@ -1741,7 +1693,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task95",
-        "displayName": "Give residents of Halloween Town their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 95,
@@ -1756,7 +1707,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task96",
-        "displayName": "Complete Boutique challenges.",
         "amount": "0",
         "reward": 0,
         "position": 96,
@@ -1764,7 +1714,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task97",
-        "displayName": "Serve some hungry customers.",
         "amount": "0",
         "reward": 0,
         "position": 97,
@@ -1778,7 +1727,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task98",
-        "displayName": "Spend time with a Villager.",
         "amount": "0",
         "reward": 0,
         "position": 98,
@@ -1786,7 +1734,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task99",
-        "displayName": "Cast around for seafood.",
         "amount": "0",
         "reward": 0,
         "position": 99,
@@ -1794,7 +1741,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task100",
-        "displayName": "Give Hades or Maui their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 100,
@@ -1809,7 +1755,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task101",
-        "displayName": "Open up fresh Memories.",
         "amount": "0",
         "reward": 0,
         "position": 101,
@@ -1819,7 +1764,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task102",
-        "displayName": "Craft any Training Manual.",
         "amount": "0",
         "reward": 0,
         "position": 102,
@@ -1834,7 +1778,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task103",
-        "displayName": "Feed the Sunbirds their favorite food.",
         "amount": "0",
         "reward": 0,
         "position": 103,
@@ -1842,7 +1785,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task104",
-        "displayName": "Mine for something shiny.",
         "amount": "0",
         "reward": 0,
         "position": 104,
@@ -1850,7 +1792,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task105",
-        "displayName": "Give any restaurateur in the Valley their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 105,
@@ -1865,7 +1806,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task106",
-        "displayName": "Enter a DreamSnaps contest.",
         "amount": "0",
         "reward": 0,
         "position": 106,
@@ -1873,7 +1813,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task107",
-        "displayName": "Serve some hungry customers.",
         "amount": "0",
         "reward": 0,
         "position": 107,
@@ -1887,7 +1826,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task108",
-        "displayName": "Spend time with a Villager.",
         "amount": "0",
         "reward": 0,
         "position": 108,
@@ -1895,7 +1833,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task109",
-        "displayName": "Catch fish in gold ripples.",
         "amount": "0",
         "reward": 0,
         "position": 109,
@@ -1903,7 +1840,6 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task110",
-        "displayName": "Give visitors from the Alice in Wonderland Realm their favorite gifts.",
         "amount": "0",
         "reward": 0,
         "position": 110,
