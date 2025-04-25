@@ -650,6 +650,12 @@
     {
       "name": "White Rose Spade Tree",
       "collection": "dreamlightValley"
+    },
+    {
+      "name": "Wonderland Bed",
+      "collection": "dreamlightValley",
+      "source": "Alice Level 2",
+      "sourceCategory": ["friendship"]
     }
   ],
   "clothing": [
