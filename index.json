@@ -64,7 +64,9 @@
         "1.12.7",
         "1.12.8",
         "1.13.0",
-        "1.13.1"
+        "1.13.1",
+        "1.13.2",
+        "1.14.0"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -93,9 +95,7 @@
         "1.12.7",
         "1.12.8",
         "1.13.0",
-        "1.13.1",
-        "1.13.2",
-        "1.14.0"
+        "1.13.1"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
