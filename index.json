@@ -621,6 +621,27 @@
       "style": ["modern", "elegant", "futuristic"],
       "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
+    },
+    {
+      "name": "Elegant Red Chesterfield",
+      "universe": "thePrincessAndTheFrog",
+      "furnitureZones": ["livingRoom", "study"],
+      "style": ["elegant"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Whimsical Wheelbarrow",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Fairy Garden Table",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "White Rose Spade Tree",
+      "collection": "dreamlightValley"
     }
   ],
   "clothing": [
@@ -744,6 +765,10 @@
       "source": "Garden of Whimsy Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
       "collection": "unknown"
+    },
+    {
+      "name": "Court of Hearts Crown",
+      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
