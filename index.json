@@ -27,7 +27,7 @@
     {
       "lastUpdated": "2025-04-25",
       "message": "The new app update is coming soon. Please join our Discord to stay up to date.",
-      "version": ["1.13.2"],
+      "version": [""],
       "platform": "ios",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -103,7 +103,10 @@
         "1.12.7",
         "1.12.8",
         "1.13.0",
-        "1.13.1"
+        "1.13.1",
+        "1.13.2",
+        "1.14.0",
+        "1.14.1"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
