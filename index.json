@@ -170,7 +170,14 @@
       "name": "Croquet Start",
       "universe": "aliceInWonderland",
       "categories": ["unknown"],
-      "furnitureZones": ["bedroom", "diningRoom", "livingRoom", "outdoors", "recRoom", "study"],
+      "furnitureZones": [
+        "bedroom",
+        "diningRoom",
+        "livingRoom",
+        "outdoors",
+        "recRoom",
+        "study"
+      ],
       "style": ["casual", "cute"],
       "source": "Found in a chest in Alice's Realm",
       "sourceCategory": ["other"]
@@ -659,6 +666,7 @@
     },
     {
       "name": "Elegant Red Chesterfield Chair",
+      "categories": ["seating"],
       "universe": "thePrincessAndTheFrog",
       "furnitureZones": ["livingRoom", "study"],
       "style": ["elegant"],
@@ -677,10 +685,17 @@
     {
       "name": "Heart-Patterned Wallpaper",
       "universe": "aliceInWonderland",
+      "style": ["cute", "traditional"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     },
     {
       "name": "Lily Pad",
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     },
     {
@@ -693,10 +708,10 @@
     },
     {
       "name": "Rabbit Wall Clock",
-    "furnitureZones": ["study", "livingRoom", "diningRoom"],
-    "style": ["cute", "traditional"],
-    "source": "scroogesStore",
-    "sourceCategory": ["scroogesStore"],
+      "furnitureZones": ["study", "livingRoom", "diningRoom"],
+      "style": ["cute", "traditional"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
     },
     {
@@ -709,6 +724,12 @@
     },
     {
       "name": "Talkative Doorknob Door",
+      "universe": "aliceInWonderland",
+      "categories": ["trimmings", "doors", "wall"],
+      "furnitureZones": ["study", "bedroom", "kitchen"],
+      "style": ["rustic", "bold", "quirky"],
+      "source": "Alice Level 5",
+      "sourceCategory": ["friendship"],
       "collection": "dreamlightValley"
     },
     {
@@ -731,7 +752,7 @@
       "style": ["cute"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Red and Gold Wall Clock",
@@ -748,8 +769,120 @@
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
+    },
+    {
+      "name": "Alice Tea Party Table",
+      "categories": ["tables"],
+      "furnitureZones": ["diningRoom", "outdoors"],
+      "style": ["elegant", "casual"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Backwards Clock",
+      "furnitureZones": ["study", "livingRoom", "kitchen"],
+      "style": ["rustic", "quirky"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Black Croquet Card",
+      "categories": ["decor", "art"],
+      "furnitureZones": ["livingRoom", "recRoom", "outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Bright Round Teapot",
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Hatter Table and Lamp",
+      "universe": "aliceInWonderland",
+      "categories": ["decor", "lighting"],
+      "furnitureZones": ["livingRoom", "bedroom", "study"],
+      "style": ["cute", "quirky", "rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Memorable Blue Teapot",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Modular Giant Playing Cards",
+      "furnitureZones": ["bedroom", "livingRoom", "outdoors"],
+      "style": ["cute", "bold"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Mome Rath Living Path",
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Red Croquet Card",
+      "categories": ["decor", "art"],
+      "furnitureZones": ["livingRoom", "recRoom", "outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Warped Cabinets",
+      "furnitureZones": ["diningRoom", "study", "livingRoom"],
+      "style": ["quirky", "bold"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "White Rose Heart Tree",
+      "categories": ["decor", "foliage"],
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Wonderland Maze Portal",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Royal Red Armchair",
+      "categories": ["essentials", "seating"],
+      "furnitureZones": ["livingRoom", "study", "bedroom"],
+      "style": ["bold", "elegant"],
+      "source": "Alice Level 8",
+      "sourceCategory": ["friendship"],
+      "collection": "dreamlightValley"
     }
-
   ],
   "clothing": [
     {
@@ -879,6 +1012,60 @@
     },
     {
       "name": "Leafy Fairy Shoes",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Whimsical Wonderland Dress",
+      "style": ["traditional", "cute", "quirky"],
+      "source": "Alice Level 10 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mushroom Bubble Shorts",
+      "style": ["cute", "bold"],
+      "source": "Moonstone Pack Bundle",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mushroom Cap Hat",
+      "style": ["cute", "bold", "quirky"],
+      "source": "Moonstone Pack Bundle",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mushroom Knee-High Socks",
+      "style": ["cute", "bold"],
+      "source": "Moonstone Pack Bundle",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mushroom Leg Warmer Shoes",
+      "style": ["bold"],
+      "source": "Moonstone Pack Bundle",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mushroom Peasant Top",
+      "style": ["bold"],
+      "source": "Moonstone Pack Bundle",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Desert Bloom Slip-Ons",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Desert Bloom Slip-Ons",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Diamond in the Rough Loafers",
       "collection": "dreamlightValley"
     }
   ],
