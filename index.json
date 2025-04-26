@@ -1133,14 +1133,14 @@
         "id": "GardenOfWhimsy2025_Task07",
         "amount": "5 min",
         "reward": 10,
-        "position": 7,
+        "position": 8,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task08",
         "amount": "5",
         "reward": 15,
-        "position": 8,
+        "position": 7,
         "description": [
           { "name": "PixarFest2023_Task07", "category": "unknown" }
         ]
