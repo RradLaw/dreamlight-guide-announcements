@@ -1445,8 +1445,7 @@
           {
             "name": "Topaz",
             "category": "gem"
-          },
-          { "name": "Shiny Topaz", "category": "gem" }
+          }
         ]
       },
       {
@@ -1519,7 +1518,7 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task52",
-        "amount": "50",
+        "amount": "10",
         "reward": 10,
         "position": 52,
         "description": [
@@ -1589,7 +1588,7 @@
         "id": "GardenOfWhimsy2025_Task60",
         "amount": "2",
         "reward": 15,
-        "position": 60,
+        "position": 61,
         "description": [
           {
             "name": "Halloween2022_Task36",
@@ -1606,7 +1605,7 @@
         "id": "GardenOfWhimsy2025_Task61",
         "amount": "20",
         "reward": 10,
-        "position": 61,
+        "position": 62,
         "description": [
           {
             "name": "Amethyst",
@@ -1622,14 +1621,14 @@
         "id": "GardenOfWhimsy2025_Task62",
         "amount": "10",
         "reward": 20,
-        "position": 62,
+        "position": 63,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task63",
-        "amount": "20",
+        "amount": "2",
         "reward": 10,
-        "position": 63,
+        "position": 60,
         "discuss": true,
         "description": [{ "name": "LionKing!Simba", "category": "character" }]
       },
@@ -1637,7 +1636,7 @@
         "id": "GardenOfWhimsy2025_Task64",
         "amount": "4",
         "reward": 10,
-        "position": 64,
+        "position": 65,
         "gift": true,
         "description": [
           { "name": "BeautyBeast!Belle", "category": "character" }
@@ -1647,7 +1646,7 @@
         "id": "GardenOfWhimsy2025_Task65",
         "amount": "4",
         "reward": 20,
-        "position": 65,
+        "position": 64,
         "description": []
       },
       {
@@ -1771,7 +1770,8 @@
         "reward": 15,
         "position": 80,
         "discuss": true,
-        "description": []
+        "description": [
+          {"name": "Alice!Alice", "category": "character"}]
       },
       {
         "id": "GardenOfWhimsy2025_Task81",
@@ -1799,14 +1799,23 @@
         "amount": "5",
         "reward": 20,
         "position": 83,
-        "description": []
+        "description": [
+          { "name": "Peanut", "category": "ingredient" }
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task84",
         "amount": "10",
         "reward": 25,
         "position": 84,
-        "description": []
+        "description": [
+          { "name": "Amethyst", "category": "gem" },
+          { "name": "Emerald", "category": "gem" },
+          { "name": "Ruby", "category": "gem" },
+          { "name": "Topaz", "category": "gem" },
+          { "name": "Spinel", "category": "gem" },
+          { "name": "Sapphire", "category": "gem" }
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task85",
@@ -1818,15 +1827,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task86",
-        "amount": "0",
-        "reward": 0,
+        "amount": "1",
+        "reward": 15,
         "position": 86,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task87",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 87,
         "description": [
           {
@@ -1838,32 +1847,41 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task88",
-        "amount": "0",
-        "reward": 0,
+        "amount": "30 mins",
+        "reward": 20,
         "position": 88,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task89",
-        "amount": "0",
-        "reward": 0,
+        "amount": "25",
+        "reward": 25,
         "position": 89,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task90",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 20,
         "position": 90,
         "gift": true,
-        "description": []
+        "description": [
+          { "name": "Frozen!Elsa", "category": "character" },
+          { "name": "Frozen!Kristoff", "category": "character" },
+          { "name": "Tangled!Rapunzel", "category": "character" }
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task91",
         "amount": "0",
         "reward": 0,
         "position": 91,
-        "description": []
+        "description": [
+          { "name": "Even More Miraculous Fishing Bait", "category": "crafting" },
+          { "name": "Even More Miraculous Growth Elixir", "category": "crafting" },
+          { "name": "Even More Miraculous Pickaxe Polish", "category": "crafting" },
+          { "name": "Even More Miraculous Shovel Varnish", "category": "crafting" }
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task92",
@@ -1879,14 +1897,22 @@
         "amount": "0",
         "reward": 0,
         "position": 93,
-        "description": []
+        "description": [
+          { "name": "Seaweed", "category": "fish" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task94",
         "amount": "0",
         "reward": 0,
         "position": 94,
-        "description": []
+        "description": [
+          { "name": "Aquamarine", "category": "gem" },
+          { "name": "Citrine", "category": "gem" },
+          { "name": "Garnet", "category": "gem" },
+          { "name": "Peridot", "category": "gem" },
+          { "name": "Tourmaline", "category": "gem" },
+          { "name": "Blue Zircon", "category": "gem" }
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task95",
@@ -1954,7 +1980,7 @@
         "id": "GardenOfWhimsy2025_Task101",
         "amount": "0",
         "reward": 0,
-        "position": 101,
+        "position": 102,
         "description": [
           { "name": "Find memory orbs from doing tasks", "category": "unknown" }
         ]
@@ -1963,7 +1989,7 @@
         "id": "GardenOfWhimsy2025_Task102",
         "amount": "0",
         "reward": 0,
-        "position": 102,
+        "position": 101,
         "description": [
           { "name": "Digging Training Manual", "category": "crafting" },
           { "name": "Fishing Training Manual", "category": "crafting" },
@@ -1978,7 +2004,9 @@
         "amount": "0",
         "reward": 0,
         "position": 103,
-        "description": []
+        "description": [
+        {"name": "flowers", "category": "unknown"}
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task104",
