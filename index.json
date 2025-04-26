@@ -1873,8 +1873,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task91",
-        "amount": "0",
-        "reward": 0,
+        "amount": "3",
+        "reward": 20,
         "position": 91,
         "description": [
           { "name": "Even More Miraculous Fishing Bait", "category": "crafting" },
@@ -1885,8 +1885,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task92",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 15,
         "position": 92,
         "description": [
           { "name": "Find memory orbs from doing tasks", "category": "unknown" }
@@ -1894,16 +1894,16 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task93",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 5,
         "position": 93,
         "description": [
           { "name": "Seaweed", "category": "fish" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task94",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 25,
         "position": 94,
         "description": [
           { "name": "Aquamarine", "category": "gem" },
@@ -1916,8 +1916,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task95",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 95,
         "gift": true,
         "description": [
@@ -1930,15 +1930,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task96",
-        "amount": "0",
-        "reward": 0,
+        "amount": "2",
+        "reward": 15,
         "position": 96,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task97",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 97,
         "description": [
           {
@@ -1950,22 +1950,22 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task98",
-        "amount": "0",
-        "reward": 0,
+        "amount": "30 mins",
+        "reward": 20,
         "position": 98,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task99",
-        "amount": "0",
-        "reward": 0,
+        "amount": "20",
+        "reward": 25,
         "position": 99,
         "description": [{ "name": "CatchXSeafood", "category": "unknown" }]
       },
       {
         "id": "GardenOfWhimsy2025_Task100",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 100,
         "gift": true,
         "description": [
@@ -1978,8 +1978,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task101",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 15,
         "position": 102,
         "description": [
           { "name": "Find memory orbs from doing tasks", "category": "unknown" }
@@ -1987,8 +1987,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task102",
-        "amount": "0",
-        "reward": 0,
+        "amount": "3",
+        "reward": 20,
         "position": 101,
         "description": [
           { "name": "Digging Training Manual", "category": "crafting" },
@@ -2001,8 +2001,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task103",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "position": 103,
         "description": [
         {"name": "flowers", "category": "unknown"}
@@ -2010,15 +2010,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task104",
-        "amount": "0",
-        "reward": 0,
+        "amount": "5",
+        "reward": 25,
         "position": 104,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task105",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 105,
         "gift": true,
         "description": [
@@ -2031,15 +2031,15 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task106",
-        "amount": "0",
-        "reward": 0,
+        "amount": "1",
+        "reward": 15,
         "position": 106,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task107",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 20,
         "position": 107,
         "description": [
           {
@@ -2051,22 +2051,22 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task108",
-        "amount": "0",
-        "reward": 0,
+        "amount": "30 mins",
+        "reward": 20,
         "position": 108,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task109",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 25,
         "position": 109,
         "description": []
       },
       {
         "id": "GardenOfWhimsy2025_Task110",
-        "amount": "0",
-        "reward": 0,
+        "amount": "10",
+        "reward": 30,
         "position": 110,
         "gift": true,
         "description": [
