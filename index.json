@@ -1608,6 +1608,10 @@
           {
             "name": "Amethyst",
             "category": "gem"
+          },
+          {
+            "name": "Alexandrite",
+            "category": "gem"
           }
         ]
       },
@@ -1628,7 +1632,7 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task64",
-        "amount": "15",
+        "amount": "4",
         "reward": 10,
         "position": 64,
         "gift": true,
@@ -1700,7 +1704,7 @@
             "name": "Diamond",
             "category": "gem"
           },
-          { "name": "Shiny Diamond", "category": "gem" }
+          { "name": "Opal", "category": "gem" }
         ]
       },
       {
@@ -1725,7 +1729,10 @@
         "reward": 20,
         "position": 75,
         "gift": true,
-        "description": []
+        "description": [
+
+      {"name": "Alice!Alice", "category": "character"}
+        ]
       },
       {
         "id": "GardenOfWhimsy2025_Task76",
