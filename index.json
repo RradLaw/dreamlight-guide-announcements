@@ -213,16 +213,16 @@
 
       "source": "Garden of Whimsy Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Mallet Bag",
       "universe": "aliceInWonderland",
       "categories": ["unknown"],
-      "furnitureZones": [],
-
-      "source": "Found in a chest in Alice's Realm",
-      "sourceCategory": ["other"]
+      "furnitureZones": ["outdoors", "kitchen", "livingRoom", "recRoom", "study"],
+      "style": ["sporty", "cute"],
+      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
+      "sourceCategory": ["other", "scroogesStore"]
     },
     {
       "name": "White Rose Spade Tree",
@@ -259,10 +259,9 @@
       "universe": "aliceInWonderland",
       "categories": ["unknown"],
       "furnitureZones": [],
-
       "source": "Garden of Whimsy Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Teatime Fountain",
@@ -824,7 +823,7 @@
       "style": ["cute"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Modular Giant Playing Cards",
@@ -884,6 +883,10 @@
       "style": ["bold", "elegant"],
       "source": "Alice Level 8",
       "sourceCategory": ["friendship"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Yule Goat",
       "collection": "dreamlightValley"
     }
   ],
@@ -951,7 +954,7 @@
       "universe": "aliceInWonderland",
       "source": "Garden of Whimsy Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Court of Hearts Crown",
@@ -1069,6 +1072,11 @@
     },
     {
       "name": "Diamond in the Rough Loafers",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Basic Sweater",
+      "sourceCategory": ["other", "limitedTimeTag"],
       "collection": "dreamlightValley"
     }
   ],
@@ -1273,7 +1281,8 @@
           { "name": "Aquamarine", "category": "gem" },
           { "name": "Sapphire", "category": "gem" },
           { "name": "Blue Zircon", "category": "gem" },
-          { "name": "Star Sapphire", "category": "gem" }
+          { "name": "Star Sapphire", "category": "gem" },
+          { "name": "Pure Ice", "category": "gem" }
         ]
       },
       {
@@ -1457,7 +1466,7 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task44",
-        "amount": "5",
+        "amount": "15",
         "reward": 20,
         "position": 44,
         "description": []
@@ -1823,7 +1832,10 @@
         "reward": 20,
         "position": 85,
         "gift": true,
-        "description": [{ "name": "WallE!WallE", "category": "character" }]
+        "description": [
+          { "name": "WallE!WallE", "category": "character" },
+          { "name": "WallE!EVE", "category": "character" }
+      ]
       },
       {
         "id": "GardenOfWhimsy2025_Task86",
