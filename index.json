@@ -1628,8 +1628,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task62",
-        "amount": "10",
-        "reward": 20,
+        "amount": "20",
+        "reward": 10,
         "position": 63,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
       },
@@ -1906,8 +1906,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task93",
-        "amount": "20",
-        "reward": 5,
+        "amount": "5",
+        "reward": 20,
         "position": 93,
         "description": [
           { "name": "Seaweed", "category": "fish" }]
