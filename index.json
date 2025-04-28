@@ -74,7 +74,8 @@
         "1.13.0",
         "1.13.1",
         "1.13.2",
-        "1.14.0"
+        "1.14.0",
+        "1.14.1"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -198,6 +199,16 @@
       "furnitureZones": ["study", "livingRoom", "bedroom", "recRoom"],
       "source": "Alice Level 2 Quest",
       "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Brick Corner Post",
+      "universe": "nonDisneyRelated",
+      "categories": ["misc"],
+      "style": ["modern", "elegant"],
+      "source": "scroogesStore",
+      "furnitureZones": ["outdoors"],
+      "sourceCategory": ["scroogesStore"],
       "collection": "untracked"
     }
   ],
