@@ -210,6 +210,90 @@
       "furnitureZones": ["outdoors"],
       "sourceCategory": ["scroogesStore"],
       "collection": "untracked"
+    },
+    {
+      "name": "Backwards Clock",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Blooming Gazebo",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Fairy Garden Chair",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Red Rose Spade Tree",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Singing Pansy Flower",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Pink Print Wallpaper",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Giant Daffodil",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Bass Marigolds",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Giant Trumpet Flowers",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Harlequin Hearts Flooring",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Blooming Banner",
+      "collection": "dreamlightValley"
+    },
+    { 
+      "name": "Elegant Mahogany Table", 
+      "collection": "untracked" 
+    },
+    { 
+      "name": "Large Wooden Tub", 
+      "collection": "untracked" 
+    },
+    { 
+      "name": "Shadow Theater", 
+      "collection": "untracked" 
+    },
+    { 
+      "name": "Weapons Rack", 
+      "collection": "untracked" 
+    },
+    { 
+      "name": "Leafy Beanbag", 
+      "collection": "untracked" 
+    },
+    { 
+      "name": "Oogie Boogie Sign", 
+      "collection": "untracked" 
+    },
+    { 
+      "name": "Red Croquet Card", 
+      "collection": "dreamlightValley" 
+    },
+    { 
+      "name": "Heart-Patterned Wallpaper",
+      "collection": "dreamlightValley" 
+    },
+    { 
+      "name": "Teacup Lights",
+      "collection": "dreamlightValley" 
+    },
+    { 
+      "name": "Teacup Desk Lamp",
+      "collection": "dreamlightValley" 
     }
   ],
   "clothing": [
@@ -224,6 +308,95 @@
     {
       "name": "Basic Sweater",
       "sourceCategory": ["other", "limitedTimeTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Leafy Fairy Skirt",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Whimsical Hatter Top",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Leafy Fairy Top",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Hatter Costume Hat",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Court of Hearts Gown",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Padmé Amidala's Lakeside Gown",
+      "category": "dresses",
+      "universe": "starWars",
+      "style": ["futuristic", "elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Padmé Amidala's Lakeside Hairstyle",
+      "category": "hairstyles",
+      "universe": "starWars",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Padmé Amidala's Lakeside Shoes",
+      "category": "shoes",
+      "universe": "starWars",
+      "style": ["elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Anakin Skywalker's Lightsaber",
+      "category": "accessories",
+      "universe": "general",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Anakin Skywalker's Jedi Robe",
+      "category": "costumes",
+      "universe": "starWars",
+      "style": ["futuristic", "elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Anakin Skywalker's Jedi Cloak",
+      "category": "back",
+      "universe": "starWars",
+      "style": ["elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Anakin Skywalker's Jedi Padawan Hairstyle",
+      "category": "hairstyles",
+      "universe": "starWars",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Anakin Skywalker's Jedi Boots",
+      "category": "shoes",
+      "universe": "starWars",
+      "style": ["elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
     }
   ],
@@ -427,6 +600,29 @@
         ]
       },
       {
+        "id": "GardenOfWhimsy2025_Task32",
+        "description": [
+          {
+            "name": "Garnet",
+            "category": "gem"
+          },
+          {
+            "name": "Ruby",
+            "category": "gem"
+          }
+        ]
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task61",
+        "amount": "20"
+      },
+      {
+        "id": "GardenOfWhimsy2025_Task62",
+        "amount": "10",
+        "position": 62,
+        "reward": 20
+      },
+      {
         "id": "GardenOfWhimsy2025_Task63",
         "amount": "2",
         "reward": 10,
@@ -437,7 +633,7 @@
       {
         "id": "GardenOfWhimsy2025_Task64",
         "amount": "4",
-        "reward": 10,
+        "reward": 20,
         "position": 65,
         "gift": true,
         "description": [
@@ -446,8 +642,8 @@
       },
       {
         "id": "GardenOfWhimsy2025_Task65",
-        "amount": "4",
-        "reward": 20,
+        "amount": "15 mins",
+        "reward": 10,
         "position": 64,
         "description": []
       },
