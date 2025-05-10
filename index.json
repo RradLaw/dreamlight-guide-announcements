@@ -75,7 +75,8 @@
         "1.13.1",
         "1.13.2",
         "1.14.0",
-        "1.14.1"
+        "1.14.1",
+        "1.14.2"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -107,7 +108,8 @@
         "1.13.1",
         "1.13.2",
         "1.14.0",
-        "1.14.1"
+        "1.14.1",
+        "1.14.2"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
@@ -115,288 +117,75 @@
   ],
   "furniture": [
     {
-      "name": "Memorable Blue Teapot",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Teatime Bird Feeder",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mallet Bag",
-      "universe": "aliceInWonderland",
-      "categories": ["unknown"],
+      "name": "Surreal Cabinet",
+      "style": ["bold", "cute"],
       "furnitureZones": [
-        "outdoors",
-        "kitchen",
-        "livingRoom",
-        "recRoom",
-        "study"
+        "bedroom", "study"
       ],
-      "style": ["sporty", "cute"],
-      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
-      "sourceCategory": ["other", "scroogesStore"]
+      "collection": "dreamlightValley",
+      "source": "Cheshire Cat Level 2",
+      "sourceCategory": ["friendship"]
     },
     {
-      "name": "Giant Whistle Flowers",
-      "collection": "dreamlightValley"
+      "name": "Cheshire Cat Wallpaper",
+      "collection": "dreamlightValley",
+      "source": "Cheshire Cat Level 5",
+      "sourceCategory": ["friendship"]
     },
-    {
-      "name": "Up Direction Sign",
-      "furnitureZones": ["outdoors"],
-      "style": ["rustic"],
-      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
-      "sourceCategory": ["other", "scroogesStore"]
-    },
-    {
-      "name": "Down Direction Sign",
-      "furnitureZones": ["outdoors"],
-      "style": ["rustic"],
-      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
-      "sourceCategory": ["other", "scroogesStore"]
-    },
-    {
-      "name": "\"Wrong Way\" Direction Sign",
-      "furnitureZones": ["outdoors"],
-      "style": ["rustic"],
-      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
-      "sourceCategory": ["other", "scroogesStore"]
-    },
-    {
-      "name": "Croquet Start",
-      "source": "Found in a chest in Alice's Realm or Scrooge's Store",
-      "sourceCategory": ["other", "scroogesStore"]
-    },
-    {
-      "name": "Yule Goat",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Lily Pad",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Bright Round Teapot",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Lovely Dice",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Amoozing Pattern",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Tiana's House Wallpaper",
-      "universe": "nonDisneyRelated"
-    },
-    {
-      "name": "Literary Pop-Up Book",
-      "universe": "aliceInWonderland",
-      "categories": ["decor"],
-      "style": ["cute", "bold"],
-      "furnitureZones": ["study", "livingRoom", "bedroom", "recRoom"],
-      "source": "Alice Level 2 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Brick Corner Post",
-      "universe": "nonDisneyRelated",
-      "categories": ["misc"],
-      "style": ["modern", "elegant"],
-      "source": "scroogesStore",
-      "furnitureZones": ["outdoors"],
-      "sourceCategory": ["scroogesStore"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Backwards Clock",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Blooming Gazebo",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Fairy Garden Chair",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Red Rose Spade Tree",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Singing Pansy Flower",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Pink Print Wallpaper",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Giant Daffodil",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Bass Marigolds",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Giant Trumpet Flowers",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Harlequin Hearts Flooring",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Blooming Banner",
-      "collection": "dreamlightValley"
-    },
-    { 
-      "name": "Elegant Mahogany Table", 
-      "collection": "untracked" 
-    },
-    { 
-      "name": "Large Wooden Tub", 
-      "collection": "untracked" 
-    },
-    { 
-      "name": "Shadow Theater", 
-      "collection": "untracked" 
-    },
-    { 
-      "name": "Weapons Rack", 
-      "collection": "untracked" 
-    },
-    { 
-      "name": "Leafy Beanbag", 
-      "collection": "untracked" 
-    },
-    { 
-      "name": "Oogie Boogie Sign", 
-      "collection": "untracked" 
-    },
-    { 
-      "name": "Red Croquet Card", 
-      "collection": "dreamlightValley" 
-    },
-    { 
-      "name": "Heart-Patterned Wallpaper",
-      "collection": "dreamlightValley" 
-    },
-    { 
-      "name": "Teacup Lights",
-      "collection": "dreamlightValley" 
-    },
-    { 
-      "name": "Teacup Desk Lamp",
-      "collection": "dreamlightValley" 
-    }
+    {"name": "Rabbit Wall Clock", "collection": "dreamlightValley"},
+  {"name": "Purple Blooming Banner", "collection": "dreamlightValley"},
+  {
+    "name": "Rabbit Rocking Chair",
+    "universe": "aliceInWonderland",
+    "categories": ["essentials", "seating"],
+    "furnitureZones": ["livingRoom", "recRoom", "study"],
+    "style": ["traditional", "cute"],
+    "source": "'Clean Your Room' Task",
+    "sourceCategory": ["achievements"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Twisting Rabbit Mirror",
+    "universe": "aliceInWonderland",
+    "categories": ["decor", "art", "wall"],
+    "furnitureZones": ["bedroom", "livingRoom", "bathroom"],
+    "style": ["bold", "quirky"],
+    "source": "'Calmer of Chaos' Task",
+    "sourceCategory": ["achievements"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Absurd Cabinet",
+    "universe": "aliceInWonderland",
+    "categories": ["decor"],
+    "furnitureZones": ["livingRoom", "study", "recRoom", "bedroom"],
+    "style": ["bold", "cute", "elegant"],
+    "source": "Cheshire Cat Level 8",
+    "sourceCategory": ["friendship"],
+    "collection": "dreamlightValley"
+  }
   ],
   "clothing": [
     {
-      "name": "Whimsical Hatter Vest",
+      "name": "Monochrome Court of Hearts Gown",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Cheshire Cat Jacket",
       "category": "coats",
       "universe": "aliceInWonderland",
-      "source": "Garden of Whimsy Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "style": ["cute", "quirky", "bold"],
+      "source": "Cheshire Cat Level 10 Quest",
+      "sourceCategory": ["quest"],
       "collection": "dreamlightValley"
     },
     {
-      "name": "Basic Sweater",
-      "sourceCategory": ["other", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Leafy Fairy Skirt",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Whimsical Hatter Top",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Leafy Fairy Top",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Hatter Costume Hat",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Court of Hearts Gown",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Padmé Amidala's Lakeside Gown",
-      "category": "dresses",
-      "universe": "starWars",
-      "style": ["futuristic", "elegant"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Padmé Amidala's Lakeside Hairstyle",
-      "category": "hairstyles",
-      "universe": "starWars",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Padmé Amidala's Lakeside Shoes",
-      "category": "shoes",
-      "universe": "starWars",
-      "style": ["elegant"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Anakin Skywalker's Lightsaber",
-      "category": "accessories",
-      "universe": "general",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Anakin Skywalker's Jedi Robe",
-      "category": "costumes",
-      "universe": "starWars",
-      "style": ["futuristic", "elegant"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Anakin Skywalker's Jedi Cloak",
-      "category": "back",
-      "universe": "starWars",
-      "style": ["elegant"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Anakin Skywalker's Jedi Padawan Hairstyle",
-      "category": "hairstyles",
-      "universe": "starWars",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Anakin Skywalker's Jedi Boots",
-      "category": "shoes",
-      "universe": "starWars",
-      "style": ["elegant"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
+      "name": "Cheshire Cat Gloves",
+      "category": "gloves",
+      "universe": "aliceInWonderland",
+      "style": ["cute", "quirky", "bold"],
+      "source": "Cheshire Cat Level 10 Quest",
+      "sourceCategory": ["quest"],
       "collection": "dreamlightValley"
     }
   ],
@@ -405,441 +194,7 @@
     "startDate": "2025-04-23",
     "endDate": "2025-06-12",
     "tasks": [
-      {
-        "id": "GardenOfWhimsy2025_Task24",
-        "amount": "15 min",
-        "reward": 10,
-        "position": 24,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task86",
-        "amount": "1",
-        "reward": 15,
-        "position": 86,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task87",
-        "amount": "10",
-        "reward": 20,
-        "position": 87,
-        "description": [
-          {
-            "name": "Parks2022_Task27",
-            "category": "unknown"
-          },
-          { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task89",
-        "amount": "25",
-        "reward": 25,
-        "position": 89,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task90",
-        "amount": "20",
-        "reward": 20,
-        "position": 90,
-        "gift": true,
-        "description": [
-          { "name": "Frozen!Elsa", "category": "character" },
-          { "name": "Frozen!Kristoff", "category": "character" },
-          { "name": "Tangled!Rapunzel", "category": "character" }
-        ]
-      },
-
-      {
-        "id": "GardenOfWhimsy2025_Task104",
-        "amount": "5",
-        "reward": 25,
-        "position": 104,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task105",
-        "amount": "10",
-        "reward": 20,
-        "position": 105,
-        "gift": true,
-        "description": [
-          {
-            "name": "Ratatouille!Remy",
-            "category": "character"
-          },
-          { "name": "PrincessFrog!Tiana", "category": "character" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task106",
-        "amount": "1",
-        "reward": 15,
-        "position": 106,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task107",
-        "amount": "10",
-        "reward": 20,
-        "position": 107,
-        "description": [
-          {
-            "name": "Parks2022_Task27",
-            "category": "unknown"
-          },
-          { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task108",
-        "amount": "30 mins",
-        "reward": 20,
-        "position": 108,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task109",
-        "amount": "10",
-        "reward": 25,
-        "position": 109,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task110",
-        "amount": "10",
-        "reward": 30,
-        "position": 110,
-        "gift": true,
-        "description": [
-          {
-            "name": "Alice!Alice",
-            "category": "character"
-          },
-          { "name": "Alice!CheshireCat", "category": "character" }
-        ]
-      },
-
-      {
-        "id": "GardenOfWhimsy2025_Task60",
-        "amount": "2",
-        "reward": 15,
-        "position": 61,
-        "description": [
-          {
-            "name": "Halloween2022_Task36",
-            "category": "unknown"
-          },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task61",
-        "amount": "20",
-        "reward": 10,
-        "position": 62,
-        "description": [
-          {
-            "name": "Amethyst",
-            "category": "gem"
-          },
-          {
-            "name": "Alexandrite",
-            "category": "gem"
-          }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task62",
-        "amount": "20",
-        "reward": 10,
-        "position": 63,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task72",
-        "amount": "10",
-        "reward": 20,
-        "position": 72,
-        "description": [
-          {
-            "name": "Diamond",
-            "category": "gem"
-          },
-          { "name": "Opal", "category": "gem" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task75",
-        "amount": "5",
-        "reward": 20,
-        "position": 75,
-        "gift": true,
-        "description": [{ "name": "Alice!Alice", "category": "character" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task42",
-        "amount": "10",
-        "reward": 20,
-        "position": 42,
-        "description": [
-          {
-            "name": "Topaz",
-            "category": "gem"
-          },
-          {
-            "name": "Citrine",
-            "category": "gem"
-          }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task32",
-        "description": [
-          {
-            "name": "Garnet",
-            "category": "gem"
-          },
-          {
-            "name": "Ruby",
-            "category": "gem"
-          }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task61",
-        "amount": "20"
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task62",
-        "amount": "10",
-        "position": 62,
-        "reward": 20
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task63",
-        "amount": "2",
-        "reward": 10,
-        "position": 60,
-        "discuss": true,
-        "description": [{ "name": "LionKing!Simba", "category": "character" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task64",
-        "amount": "4",
-        "reward": 20,
-        "position": 65,
-        "gift": true,
-        "description": [
-          { "name": "BeautyBeast!Belle", "category": "character" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task65",
-        "amount": "15 mins",
-        "reward": 10,
-        "position": 64,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task80",
-        "amount": "2",
-        "reward": 15,
-        "position": 80,
-        "discuss": true,
-        "description": [{ "name": "Alice!Alice", "category": "character" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task83",
-        "amount": "5",
-        "reward": 20,
-        "position": 83,
-        "description": [{ "name": "Peanut", "category": "ingredient" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task84",
-        "amount": "10",
-        "reward": 25,
-        "position": 84,
-        "description": [
-          { "name": "Amethyst", "category": "gem" },
-          { "name": "Emerald", "category": "gem" },
-          { "name": "Ruby", "category": "gem" },
-          { "name": "Topaz", "category": "gem" },
-          { "name": "Spinel", "category": "gem" },
-          { "name": "Sapphire", "category": "gem" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task88",
-        "amount": "30 mins",
-        "reward": 20,
-        "position": 88,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task91",
-        "amount": "3",
-        "reward": 20,
-        "position": 91,
-        "description": [
-          {
-            "name": "Even More Miraculous Fishing Bait",
-            "category": "crafting"
-          },
-          {
-            "name": "Even More Miraculous Growth Elixir",
-            "category": "crafting"
-          },
-          {
-            "name": "Even More Miraculous Pickaxe Polish",
-            "category": "crafting"
-          },
-          {
-            "name": "Even More Miraculous Shovel Varnish",
-            "category": "crafting"
-          }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task92",
-        "amount": "5",
-        "reward": 15,
-        "position": 92,
-        "description": [
-          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task93",
-        "amount": "5",
-        "reward": 20,
-        "position": 93,
-        "description": [{ "name": "Seaweed", "category": "fish" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task94",
-        "amount": "20",
-        "reward": 25,
-        "position": 94,
-        "description": [
-          { "name": "Aquamarine", "category": "gem" },
-          { "name": "Citrine", "category": "gem" },
-          { "name": "Garnet", "category": "gem" },
-          { "name": "Peridot", "category": "gem" },
-          { "name": "Tourmaline", "category": "gem" },
-          { "name": "Blue Zircon", "category": "gem" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task101",
-        "amount": "5",
-        "reward": 15,
-        "position": 102,
-        "description": [
-          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task102",
-        "amount": "3",
-        "reward": 20,
-        "position": 101,
-        "description": [
-          { "name": "Digging Training Manual", "category": "crafting" },
-          { "name": "Fishing Training Manual", "category": "crafting" },
-          { "name": "Gardening Training Manual", "category": "crafting" },
-          { "name": "Foraging Training Manual", "category": "crafting" },
-          { "name": "Mining Training Manual", "category": "crafting" },
-          { "name": "Timebending Training Manual", "category": "crafting" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task103",
-        "amount": "5",
-        "reward": 20,
-        "position": 103,
-        "description": [{ "name": "flowers", "category": "unknown" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task95",
-        "amount": "10",
-        "reward": 20,
-        "position": 95,
-        "gift": true,
-        "description": [
-          {
-            "name": "Nightmare!JackSkellington",
-            "category": "character"
-          },
-          { "name": "Nightmare!Sally", "category": "character" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task96",
-        "amount": "2",
-        "reward": 15,
-        "position": 96,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task97",
-        "amount": "10",
-        "reward": 20,
-        "position": 97,
-        "description": [
-          {
-            "name": "Parks2022_Task27",
-            "category": "unknown"
-          },
-          { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task98",
-        "amount": "30 mins",
-        "reward": 20,
-        "position": 98,
-        "description": []
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task99",
-        "amount": "20",
-        "reward": 25,
-        "position": 99,
-        "description": [{ "name": "CatchXSeafood", "category": "unknown" }]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task100",
-        "amount": "10",
-        "reward": 20,
-        "position": 100,
-        "gift": true,
-        "description": [
-          {
-            "name": "Hercules!Hades",
-            "category": "character"
-          },
-          { "name": "Moana!Maui", "category": "character" }
-        ]
-      },
-      {
-        "id": "GardenOfWhimsy2025_Task85",
-        "amount": "10",
-        "reward": 20,
-        "position": 85,
-        "gift": true,
-        "description": [
-          { "name": "WallE!WallE", "category": "character" },
-          { "name": "WallE!EVE", "category": "character" }
-        ]
-      }
+      
     ]
   }
 }
