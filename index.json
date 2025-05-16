@@ -163,7 +163,197 @@
     "source": "Cheshire Cat Level 8",
     "sourceCategory": ["friendship"],
     "collection": "dreamlightValley"
-  }
+  },
+  {
+    "name": "Singing Pansy Flower",
+    "universe": "aliceInWonderland",
+    "categories": ["decor", "foliage"],
+    "furnitureZones": ["outdoors"],
+    "style": ["quirky"],
+    "source": "Garden of Whimsy Star Path",
+    "sourceCategory": ["starPath", "limitedTimeTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+
+    "name": "Purple Whimsical Wheelbarrow",
+    "universe": "disneyFairies",
+    "categories": ["decor", "misc"],
+    "furnitureZones": ["outdoors"],
+    "style": ["cute", "rustic"],
+    "source": "Garden of Whimsy Star Path Bonus Rewards",
+    "sourceCategory": ["starPathPremium", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Pink Fairy Garden Chair",
+    "universe": "disneyFairies",
+    "categories": ["decor", "seating"],
+    "furnitureZones": ["livingRoom", "diningRoom", "outdoors"],
+    "style": ["casual", "rustic"],
+    "source": "Garden of Whimsy Star Path Bonus Rewards",
+    "sourceCategory": ["starPathPremium", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Dinah Companion House",
+    "universe": "aliceInWonderland",
+    "categories": ["misc"],
+    "furnitureZones": ["outdoors"],
+    "style": ["cute"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Hatter Lounge Couch",
+    "universe": "aliceInWonderland",
+    "categories": ["seating", "misc"],
+    "furnitureZones": [
+      "livingRoom",
+      "outdoors",
+      "recRoom",
+      "study"
+    ],
+    "style": ["cute", "rustic", "quirky"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Hatter Lamp",
+    "universe": "aliceInWonderland",
+    "categories": ["lighting", "misc"],
+    "furnitureZones": ["livingRoom", "study", "recRoom", "bedroom"],
+    "style": ["cute", "rustic"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Hatter Coffee Table",
+    "universe": "aliceInWonderland",
+    "categories": ["tables"],
+    "furnitureZones": ["bedroom", "livingRoom", "study"],
+    "style": ["rustic", "cute"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Hatter Area Rug",
+    "universe": "aliceInWonderland",
+    "categories": ["rugs", "misc"],
+    "furnitureZones": [
+      "bedroom",
+      "diningRoom",
+      "livingRoom",
+      "recRoom",
+      "study"
+    ],
+    "style": ["cute", "elegant"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Madame Leota Table",
+    "universe": "disney",
+    "categories": ["decor"],
+    "style": ["quirky", "rustic", "halloween"],
+    "furnitureZones": ["bedroom", "livingRoom", "study"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"]
+  },
+  {
+    "name": "Rabbit Vanity",
+    "universe": "aliceInWonderland",
+    "categories": ["essentials", "tables", "utilities"],
+    "furnitureZones": ["bedroom"],
+    "style": ["cute", "traditional"],
+    "source": "'Jungle Bungles' Task",
+    "sourceCategory": ["quest"],
+    "collection": "dreamlightValley"
+  },
+  {
+    "name": "Puff Air Balloon",
+    "universe": "disneyFairies",
+    "categories": ["decor"],
+    "furnitureZones": ["outdoors"],
+    "style": ["elegant", "cute"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  {
+  "name": "Purple Blooming Gazebo",
+  "collection": "dreamlightValley"
+  },
+  {
+    "name": "Tinkerer's Lamp",
+    "universe": "disneyFairies",
+    "categories": ["decor", "lighting"],
+    "furnitureZones": ["bedroom", "livingRoom", "outdoors", "study"],
+    "style": ["cute"],
+    "source": "itemShop",
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  },
+  
+
+    {
+      "name": "Leafy Canopy Bed",
+      "universe": "disneyFairies",
+      "categories": ["beds", "essentials"],
+      "furnitureZones": ["bedroom", "outdoors"],
+      "style": ["rustic", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Fungi Fireplace",
+      "universe": "disneyFairies",
+      "categories": ["decor", "wall"],
+      "furnitureZones": ["kitchen", "livingRoom", "diningRoom"],
+      "style": ["rustic", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Thread Spool Chair",
+      "universe": "disneyFairies",
+      "categories": ["essentials", "seating"],
+      "furnitureZones": [
+        "diningRoom",
+        "bedroom",
+        "livingRoom",
+        "outdoors",
+        "recRoom",
+        "study"
+      ],
+      "style": ["rustic", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+      {
+        "name": "Tinkerer's Table",
+        "universe": "disneyFairies",
+        "categories": ["tables", "essentials"],
+        "furnitureZones": [
+          "diningRoom",
+          "livingRoom",
+          "outdoors",
+          "study"
+        ],
+        "style": ["cute"],
+        "source": "itemShop",
+        "sourceCategory": ["itemShop", "premiumTag"],
+        "collection": "dreamlightValley"
+      }
+  
   ],
   "clothing": [
     {
@@ -187,7 +377,63 @@
       "source": "Cheshire Cat Level 10 Quest",
       "sourceCategory": ["quest"],
       "collection": "dreamlightValley"
-    }
+    },
+    {
+
+    "name": "Black Court of Hearts Crown",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Caterpillar Jacket",
+      "category": "costumes",
+      "universe": "aliceInWonderland",
+      "style": ["quirky"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Right Rose Eyepatch",
+      "sourceCategory": ["scroogesStore", "itemShop", "premiumTag"],
+      "source": "Item Shop (Previously in Scrooge's Store)"
+    },
+    {
+      "name": "Golden Clarion Crown",
+      "category": "hats",
+      "universe": "disneyFairies",
+      "source": "itemShop",
+      "style": ["bold"],
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Golden Clarion Dress",
+      "category": "dresses",
+      "universe": "disneyFairies",
+      "source": "itemShop",
+      "style": ["bold"],
+      "sourceCategory": ["itemShop", "premiumTag"]
+    },
+    {
+      "name": "Golden Clarion Wings",
+      "category": "back",
+      "universe": "disneyFairies",
+      "source": "itemShop",
+      "glider": true,
+      "style": ["bold"],
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+
+  {
+    "name": "Golden Clarion Dress",
+    "category": "dresses",
+    "universe": "disneyFairies",
+    "source": "itemShop",
+    "style": ["bold"],
+    "sourceCategory": ["itemShop", "premiumTag"],
+    "collection": "dreamlightValley"
+  }
   ],
   "starPath": {
     "name": "GardenOfWhimsy2025",
