@@ -364,6 +364,14 @@
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
+    },
+
+
+
+
+    {
+      "name": "Red Rose Heart Tree",
+      "collection": "dreamlightValley"
     }
   ],
   "clothing": [
