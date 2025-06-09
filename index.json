@@ -139,6 +139,15 @@
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
+    },
+    {
+      "name": "Blue Delftware Dress",
+      "category": "costumes",
+      "universe": "aliceInWonderland",
+      "style": ["elegant", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
