@@ -776,14 +776,6 @@
       ]
       },
       {
-      "position": 1,
-      "id": "AdventuresInNeverland2025_Task01",
-      "displayName": "Uproot Night Thorns.",
-      "amount": "10",
-      "reward": 10,
-      "description": []
-      },
-      {
       "position": 2,
       "id": "AdventuresInNeverland2025_Task02",
       "displayName": "Find Gems with your Pickaxe.",
@@ -1310,7 +1302,7 @@
       "displayName": "Feed the Foxes their favorite food.",
       "amount": "",
       "reward": 0,
-      "description": [{ "name": "white sturgeon", "category": "fish" }]
+      "description": [{ "name": "White Sturgeon", "category": "fish" }]
       },
       {
       "position": 62,
@@ -1485,7 +1477,7 @@
       "displayName": "Talk with a Villager who leads the Lost Boys.",
       "amount": "",
       "reward": 0,
-      "description": []
+      "description": [{ "name": "PeterPan!PeterPan", "category": "character" }]
       }
     ]
   }
