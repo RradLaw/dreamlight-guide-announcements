@@ -763,6 +763,7 @@
       {
         "position": 1,
         "id": "AdventuresInNeverland2025_Task01",
+        "displayName": "Uproot Night Thorns.",
         "amount": "10",
         "reward": 10,
         "description": [
@@ -858,7 +859,7 @@
         "id": "AdventuresInNeverland2025_Task11",
         "amount": "3",
         "reward": 10,
-        "description": [{ "name": "carrots", "category": "ingredient" }]
+        "description": [{ "name": "Carrot", "category": "ingredient" }]
       },
       {
         "position": 12,
@@ -1017,7 +1018,7 @@
         "id": "AdventuresInNeverland2025_Task31",
         "amount": "",
         "reward": 0,
-        "description": [{ "name": "blueberries", "category": "ingredient" }]
+        "description": [{ "name": "Blueberry", "category": "ingredient" }]
       },
       {
         "position": 32,
