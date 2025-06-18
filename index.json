@@ -1477,7 +1477,7 @@
       "displayName": "Talk with a Villager who leads the Lost Boys.",
       "amount": "",
       "reward": 0,
-      "description": [{ "name": "PeterPan!PeterPan", "category": "character" }]
+      "description": [{ "name": "Peter Pan", "category": "character" }]
       }
     ]
   }
