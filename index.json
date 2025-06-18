@@ -128,7 +128,543 @@
     },
     {
       "name": "Cheshire Cat Wallpaper",
-      "universe": "aliceInWonderland"
+      "universe": "aliceInWonderland",
+      "update": "before patch"
+    },
+    {
+      "name": "Talkative Doorknob Door",
+      "displayName": "Door Knob Door"
+    },
+    {
+      "name": "Seashell Stage",
+      "universe": "theLittleMermaid",
+      "categories": ["unknown"],
+
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Coral Bubble Machine",
+      "universe": "theLittleMermaid",
+      "categories": ["unknown"],
+
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Coral Reef Archway",
+      "universe": "theLittleMermaid",
+      "categories": ["unknown"],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Coral Reef Gazebo",
+      "universe": "theLittleMermaid",
+      "categories": ["unknown"],
+
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Natural Coral Reef Sculpture",
+      "universe": "theLittleMermaid",
+      "categories": ["unknown"],
+
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Max's Houseboat",
+      "universe": "theLittleMermaid",
+      "categories": ["misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold", "casual", "rustic"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Nautical Fireplace",
+      "universe": "theLittleMermaid",
+      "categories": ["utilities", "decor", "wall"],
+      "furnitureZones": ["livingRoom", "bedroom"],
+      "style": ["bold", "casual", "elegant"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Nautical Four-Poster Bed",
+      "universe": "theLittleMermaid",
+      "categories": ["beds", "essentials"],
+      "furnitureZones": ["bedroom"],
+      "style": ["bold", "casual", "elegant"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Nautical Cabinet",
+      "universe": "theLittleMermaid",
+      "categories": ["essentials"],
+      "furnitureZones": ["livingRoom", "bedroom"],
+      "style": ["casual", "bold", "elegant"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Nautical Floor Rug",
+      "universe": "theLittleMermaid",
+      "categories": ["decor"],
+      "furnitureZones": ["livingRoom", "bedroom"],
+      "style": ["casual", "bold", "rustic"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Nautical Wall Sconce",
+      "universe": "theLittleMermaid",
+      "categories": ["wall", "decor", "lighting"],
+      "furnitureZones": ["bedroom", "livingRoom"],
+      "style": ["bold", "casual", "rustic"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Captain's Log Window",
+      "universe": "theLittleMermaid",
+      "categories": ["windows", "wall", "trimmings"],
+      "furnitureZones": ["bedroom", "livingRoom"],
+      "style": ["casual", "rustic", "bold"],
+      "source": "Bundle_Max",
+      "sourceCategory": ["dreamBundle", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Small Natural Coral Reef Sculpture",
+      "universe": "theLittleMermaid",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Chair",
+      "universe": "piratesOfTheCaribbean",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Chandelier",
+      "universe": "piratesOfTheCaribbean",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Cooking Station",
+      "universe": "piratesOfTheCaribbean",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Crafting Station",
+      "universe": "piratesOfTheCaribbean",
+      "categories": ["essentials"],
+      "furnitureZones": ["outdoors", "recRoom"],
+      "style": ["rustic", "quirky"],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Table",
+      "universe": "piratesOfTheCaribbean",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Wheel",
+      "universe": "piratesOfTheCaribbean",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Incrediphone",
+      "universe": "theIncredibles",
+      "categories": ["unknown"],
+      "furnitureZones": ["livingRoom", "bedroom"],
+      "style": ["modern", "bold", "sporty"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Casita Wall — Long",
+      "universe": "encanto",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic", "traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Casita Wall",
+      "universe": "encanto",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic", "traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Casita Wall Corner",
+      "universe": "encanto",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic", "traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Casita Archway",
+      "universe": "encanto",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic", "traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Casita Wall End",
+      "universe": "encanto",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["rustic", "traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Cartography Drafting Desk",
+      "universe": "peterPan",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Dinghy Bed",
+      "universe": "peterPan",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Hooked Lamp",
+      "universe": "peterPan",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Pirate Ship Deck Flooring",
+      "universe": "nonDisneyRelated",
+      "categories": ["floors"],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Wood Plank Wall",
+      "universe": "peterPan",
+      "categories": ["wallpaper"],
+      "style": ["rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Pirate Ship Wallpaper",
+      "universe": "nonDisneyRelated",
+      "categories": ["wallpaper"],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Brilliant Rainbow",
+      "universe": "peterPan",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Fishing Trinkets Light Fixture",
+      "universe": "peterPan",
+      "categories": ["unknown"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Never Land Waterfall",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land Pond",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Bank Corner",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Bank Corner Bridge",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Log Bank Corner",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Exterior Bank Corner",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Stone Corner",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Left Bank Corner",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Right Bank Corner",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Plant Bank",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Straight Bank",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Small Straight Bank",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Large Water Pool",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Lily Pad Rocks",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Lily Pad Logs",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Water Pool",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Water Square",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Large Water",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Water",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land River — Small Water",
+      "universe": "peterPan",
+      "categories": ["landscaping"],
+      "furnitureZones": ["outdoors"],
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Island Refreshment Stand",
+      "universe": "nonDisneyRelated",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors"],
+      "style": ["traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     }
   ],
   "clothing": [
@@ -147,7 +683,76 @@
       "style": ["elegant", "cute"],
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
+      "collection": "dreamlightValley",
+      "update": "before patch"
+    },
+    {
+      "name": "Handheld Dug Popcorn Bucket",
+      "displayName": "Handheld Dug Pupcorn Bucket"
+    },
+    {
+      "name": "Coral Crown",
+      "universe": "theLittleMermaid",
+      "category": "hats",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Coral Mermaid Headband",
+      "universe": "theLittleMermaid",
+      "category": "hats",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Mermaid Tail Pants",
+      "universe": "theLittleMermaid",
+      "category": "pants",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Seashell Backpack",
+      "universe": "theLittleMermaid",
+      "category": "back",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Coral Branch Bracelet",
+      "universe": "theLittleMermaid",
+      "category": "bracelets",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Ocean Wave Gown",
+      "universe": "theLittleMermaid",
+      "category": "dresses",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Buccaneer Ensemble",
+      "universe": "piratesOfTheCaribbean",
+      "category": "costumes",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Lost Boy Skunk Onesie",
+      "universe": "peterPan",
+      "category": "costumes",
+      "source": "\"Adventures in Never Land\" Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "unknown"
     }
   ],
   "starPath": {
@@ -162,723 +767,645 @@
         "reward": 10,
         "description": [
           { "name": "Halloween2022_Task36", "category": "unknown" },
-          { "name": "Expansion01!RemoveXDreamlightCracks", "category": "unknown" },
+          {
+            "name": "Expansion01!RemoveXDreamlightCracks",
+            "category": "unknown"
+          },
           { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
         ]
       },
       {
-      "position": 1,
-      "id": "AdventuresInNeverland2025_Task01",
-      "amount": "10",
-      "reward": 10,
-      "description": []
-      },
-      {
-      "position": 2,
-      "id": "AdventuresInNeverland2025_Task02",
-      "amount": "5",
-      "reward": 20,
-      "description": []
-      },
-      {
-      "position": 3,
-      "id": "AdventuresInNeverland2025_Task03",
-      "amount": "5",
-      "reward": 10,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 4,
-      "id": "AdventuresInNeverland2025_Task04",
-      "amount": "3",
-      "reward": 10,
-      "description": []
-      },
-      {
-      "position": 5,
-      "id": "AdventuresInNeverland2025_Task05",
-      "amount": "3",
-      "reward": 20,
-      "gift": true,
-      "description": []
-      },
-      {
-      "position": 6,
-      "id": "AdventuresInNeverland2025_Task06",
-      "amount": "5",
-      "reward": 10,
-      "description": [
-        { "name": "Cook3StarMeal_Description", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 8,
-      "id": "AdventuresInNeverland2025_Task07",
-      "amount": "5",
-      "reward": 15,
-      "description": []
-      },
-      {
-      "position": 7,
-      "id": "AdventuresInNeverland2025_Task08",
-      "amount": "5",
-      "reward": 20,
-      "description": [
-        { "name": "PixarFest2023_Task07", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 9,
-      "id": "AdventuresInNeverland2025_Task09",
-      "amount": "3",
-      "reward": 20,
-      "description": [
-        { "name": "Parks2022_Task27", "category": "unknown" },
-        { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 10,
-      "id": "AdventuresInNeverland2025_Task10",
-      "amount": "3",
-      "reward": 15,
-      "discuss": true,
-      "description": [
-        { "name": "D1002022_Task04", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 11,
-      "id": "AdventuresInNeverland2025_Task11",
-      "amount": "3",
-      "reward": 10,
-      "description": [
-        { "name": "carrots", "category": "ingredient" }
-      ]
-      },
-      {
-      "position": 12,
-      "id": "AdventuresInNeverland2025_Task12",
-      "amount": "10",
-      "reward": 20,
-      "description": [
-        { "name": "PixarFest2023_Task12", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 13,
-      "id": "AdventuresInNeverland2025_Task13",
-      "amount": "10",
-      "reward": 10,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 14,
-      "id": "AdventuresInNeverland2025_Task14",
-      "amount": "5",
-      "reward": 10,
-      "description": [
-        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 15,
-      "id": "AdventuresInNeverland2025_Task15",
-      "amount": "4",
-      "reward": 20,
-      "gift": true,
-      "description": [
-        { "name": "SwordInStone!Merlin", "category": "character" }
-      ]
-      },
-      {
-      "position": 16,
-      "id": "AdventuresInNeverland2025_Task16",
-      "amount": "10",
-      "reward": 10,
-      "description": [
-        { "name": "Cook4StarMeal_Description", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 17,
-      "id": "AdventuresInNeverland2025_Task17",
-      "amount": "10",
-      "reward": 20,
-      "description": [
-        { "name": "CatchXMeadowFishes", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 18,
-      "id": "AdventuresInNeverland2025_Task18",
-      "amount": "1",
-      "reward": 15,
-      "description": []
-      },
-      {
-      "position": 19,
-      "id": "AdventuresInNeverland2025_Task19",
-      "amount": "5",
-      "reward": 20,
-      "description": [
-        { "name": "Parks2022_Task27", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 20,
-      "id": "AdventuresInNeverland2025_Task20",
-      "amount": "2",
-      "reward": 15,
-      "discuss": true,
-      "description": [
-        { "name": "Mickey!Mickey", "category": "character" }
-      ]
-      },
-      {
-      "position": 21,
-      "id": "AdventuresInNeverland2025_Task49",
-      "amount": "3",
-      "reward": 10,
-      "description": [
-        { "name": "Seaweed", "category": "fish" }
-      ]
-      },
-      {
-      "position": 22,
-      "id": "AdventuresInNeverland2025_Task22",
-      "amount": "10",
-      "reward": 20,
-      "description": [
-        { "name": "Aquamarine", "category": "gem" },
-        { "name": "Sapphire", "category": "gem" },
-        { "name": "Blue Zircon", "category": "gem" },
-        { "name": "Star Sapphire", "category": "gem" }
-      ]
-      },
-      {
-      "position": 23,
-      "id": "AdventuresInNeverland2025_Task23",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 24,
-      "id": "AdventuresInNeverland2025_Task24",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 25,
-      "id": "AdventuresInNeverland2025_Task25",
-      "amount": "",
-      "reward": 0,
-      "gift": true,
-      "description": [
-        { "name": "Mickey!Goofy", "category": "character" }
-      ]
-      },
-      {
-      "position": 26,
-      "id": "AdventuresInNeverland2025_Task26",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 27,
-      "id": "AdventuresInNeverland2025_Task27",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "CatchXBeachFishes", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 28,
-      "id": "AdventuresInNeverland2025_Task28",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 29,
-      "id": "AdventuresInNeverland2025_Task29",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Parks2022_Task27", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 30,
-      "id": "AdventuresInNeverland2025_Task30",
-      "amount": "",
-      "reward": 0,
-      "discuss": true,
-      "description": [
-        { "name": "Encanto!Mirabel", "category": "character" }
-      ]
-      },
-      {
-      "position": 31,
-      "id": "AdventuresInNeverland2025_Task31",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "blueberries", "category": "ingredient" }
-      ]
-      },
-      {
-      "position": 32,
-      "id": "AdventuresInNeverland2025_Task32",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Garnet", "category": "gem" },
-        { "name": "Ruby", "category": "gem" }
-      ]
-      },
-      {
-      "position": 33,
-      "id": "AdventuresInNeverland2025_Task33",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 34,
-      "id": "AdventuresInNeverland2025_Task34",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 35,
-      "id": "AdventuresInNeverland2025_Task35",
-      "amount": "",
-      "reward": 0,
-      "gift": true,
-      "description": [
-        { "name": "Ralph!Vanellope", "category": "character" }
-      ]
-      },
-      {
-      "position": 36,
-      "id": "AdventuresInNeverland2025_Task36",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Cook 4-star or higher Appetizers", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 37,
-      "id": "AdventuresInNeverland2025_Task37",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "CatchXForestFishes", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 38,
-      "id": "AdventuresInNeverland2025_Task38",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 39,
-      "id": "AdventuresInNeverland2025_Task39",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Parks2022_Task27", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 40,
-      "id": "AdventuresInNeverland2025_Task40",
-      "amount": "",
-      "reward": 0,
-      "discuss": true,
-      "description": [
-        { "name": "PrincessFrog!Tiana", "category": "character" }
-      ]
-      },
-      {
-      "position": 41,
-      "id": "AdventuresInNeverland2025_Task41",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "lobsters", "category": "fish" }
-      ]
-      },
-      {
-      "position": 42,
-      "id": "AdventuresInNeverland2025_Task42",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Topaz", "category": "gem" },
-        { "name": "Citrine", "category": "gem" }
-      ]
-      },
-      {
-      "position": 43,
-      "id": "AdventuresInNeverland2025_Task43",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 44,
-      "id": "AdventuresInNeverland2025_Task44",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 45,
-      "id": "AdventuresInNeverland2025_Task45",
-      "amount": "",
-      "reward": 0,
-      "gift": true,
-      "description": [
-        { "name": "Mickey!Donald", "category": "character" }
-      ]
-      },
-      {
-      "position": 46,
-      "id": "AdventuresInNeverland2025_Task46",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Cook 4-star or higher Desserts", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 47,
-      "id": "AdventuresInNeverland2025_Task47",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Glade of Trust", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 48,
-      "id": "AdventuresInNeverland2025_Task48",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 49,
-      "id": "AdventuresInNeverland2025_Task21",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "TianaRestaurant", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 50,
-      "id": "AdventuresInNeverland2025_Task50",
-      "amount": "",
-      "reward": 0,
-      "discuss": true,
-      "description": [
-        { "name": "Mickey!Minnie", "category": "character" }
-      ]
-      },
-      {
-      "position": 51,
-      "id": "AdventuresInNeverland2025_Task51",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "flowers", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 52,
-      "id": "AdventuresInNeverland2025_Task52",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Peridot", "category": "gem" },
-        { "name": "Emerald", "category": "gem" },
-        { "name": "Jade", "category": "gem" }
-      ]
-      },
-      {
-      "position": 53,
-      "id": "AdventuresInNeverland2025_Task53",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 54,
-      "id": "AdventuresInNeverland2025_Task54",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 55,
-      "id": "AdventuresInNeverland2025_Task55",
-      "amount": "",
-      "reward": 0,
-      "gift": true,
-      "description": [
-        { "name": "Tangled!MotherGothel", "category": "character" }
-      ]
-      },
-      {
-      "position": 56,
-      "id": "AdventuresInNeverland2025_Task56",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Cook 5-Star Entrées", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 57,
-      "id": "AdventuresInNeverland2025_Task57",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Sunlit Plateau", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 58,
-      "id": "AdventuresInNeverland2025_Task58",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 59,
-      "id": "AdventuresInNeverland2025_Task59",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "TianaRestaurant", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 61,
-      "id": "AdventuresInNeverland2025_Task60",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "white sturgeon", "category": "fish" }
-      ]
-      },
-      {
-      "position": 62,
-      "id": "AdventuresInNeverland2025_Task61",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Amethyst", "category": "gem" },
-        { "name": "Alexandrite", "category": "gem" }
-      ]
-      },
-      {
-      "position": 63,
-      "id": "AdventuresInNeverland2025_Task62",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 60,
-      "id": "AdventuresInNeverland2025_Task63",
-      "amount": "",
-      "reward": 0,
-      "discuss": true,
-      "description": [
-        { "name": "LionKing!Scar", "category": "character" }
-      ]
-      },
-      {
-      "position": 65,
-      "id": "AdventuresInNeverland2025_Task64",
-      "amount": "",
-      "reward": 0,
-      "gift": true,
-      "description": [
-        { "name": "Frozen!Olaf", "category": "character" }
-      ]
-      },
-      {
-      "position": 64,
-      "id": "AdventuresInNeverland2025_Task65",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 66,
-      "id": "AdventuresInNeverland2025_Task66",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Cook 5-Star Appetizers", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 67,
-      "id": "AdventuresInNeverland2025_Task67",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Frosted Heights", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 68,
-      "id": "AdventuresInNeverland2025_Task68",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 69,
-      "id": "AdventuresInNeverland2025_Task69",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "TianaRestaurant", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 70,
-      "id": "AdventuresInNeverland2025_Task70",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Moana!Moana", "category": "character" }
-      ]
-      },
-      {
-      "position": 71,
-      "id": "AdventuresInNeverland2025_Task71",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "5-star meals", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 72,
-      "id": "AdventuresInNeverland2025_Task72",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Diamond", "category": "gem" },
-        { "name": "Opal", "category": "gem" }
-      ]
-      },
-      {
-      "position": 73,
-      "id": "AdventuresInNeverland2025_Task73",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "D1002022_Task11", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 74,
-      "id": "AdventuresInNeverland2025_Task74",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 75,
-      "id": "AdventuresInNeverland2025_Task75",
-      "amount": "",
-      "reward": 0,
-      "gift": true,
-      "description": [
-        { "name": "Nightmare!JackSkellington", "category": "character" }
-      ]
-      },
-      {
-      "position": 76,
-      "id": "AdventuresInNeverland2025_Task76",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "TBD2024_Task46", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 77,
-      "id": "AdventuresInNeverland2025_Task77",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "Forgotten Lands", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 78,
-      "id": "AdventuresInNeverland2025_Task78",
-      "amount": "",
-      "reward": 0,
-      "description": []
-      },
-      {
-      "position": 79,
-      "id": "AdventuresInNeverland2025_Task79",
-      "amount": "",
-      "reward": 0,
-      "description": [
-        { "name": "TianaRestaurant", "category": "unknown" }
-      ]
-      },
-      {
-      "position": 80,
-      "id": "AdventuresInNeverland2025_Task80",
-      "amount": "",
-      "reward": 0,
-      "description": []
+        "position": 1,
+        "id": "AdventuresInNeverland2025_Task01",
+        "amount": "10",
+        "reward": 10,
+        "description": []
+      },
+      {
+        "position": 2,
+        "id": "AdventuresInNeverland2025_Task02",
+        "amount": "5",
+        "reward": 20,
+        "description": []
+      },
+      {
+        "position": 3,
+        "id": "AdventuresInNeverland2025_Task03",
+        "amount": "5",
+        "reward": 10,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 4,
+        "id": "AdventuresInNeverland2025_Task04",
+        "amount": "3",
+        "reward": 10,
+        "description": []
+      },
+      {
+        "position": 5,
+        "id": "AdventuresInNeverland2025_Task05",
+        "amount": "3",
+        "reward": 20,
+        "gift": true,
+        "description": []
+      },
+      {
+        "position": 6,
+        "id": "AdventuresInNeverland2025_Task06",
+        "amount": "5",
+        "reward": 10,
+        "description": [
+          { "name": "Cook3StarMeal_Description", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 8,
+        "id": "AdventuresInNeverland2025_Task07",
+        "amount": "5",
+        "reward": 15,
+        "description": []
+      },
+      {
+        "position": 7,
+        "id": "AdventuresInNeverland2025_Task08",
+        "amount": "5",
+        "reward": 20,
+        "description": [
+          { "name": "PixarFest2023_Task07", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 9,
+        "id": "AdventuresInNeverland2025_Task09",
+        "amount": "3",
+        "reward": 20,
+        "description": [
+          { "name": "Parks2022_Task27", "category": "unknown" },
+          { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 10,
+        "id": "AdventuresInNeverland2025_Task10",
+        "amount": "3",
+        "reward": 15,
+        "discuss": true,
+        "description": [{ "name": "D1002022_Task04", "category": "unknown" }]
+      },
+      {
+        "position": 11,
+        "id": "AdventuresInNeverland2025_Task11",
+        "amount": "3",
+        "reward": 10,
+        "description": [{ "name": "carrots", "category": "ingredient" }]
+      },
+      {
+        "position": 12,
+        "id": "AdventuresInNeverland2025_Task12",
+        "amount": "10",
+        "reward": 20,
+        "description": [
+          { "name": "PixarFest2023_Task12", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 13,
+        "id": "AdventuresInNeverland2025_Task13",
+        "amount": "10",
+        "reward": 10,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 14,
+        "id": "AdventuresInNeverland2025_Task14",
+        "amount": "5",
+        "reward": 10,
+        "description": [
+          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 15,
+        "id": "AdventuresInNeverland2025_Task15",
+        "amount": "4",
+        "reward": 20,
+        "gift": true,
+        "description": [
+          { "name": "SwordInStone!Merlin", "category": "character" }
+        ]
+      },
+      {
+        "position": 16,
+        "id": "AdventuresInNeverland2025_Task16",
+        "amount": "10",
+        "reward": 10,
+        "description": [
+          { "name": "Cook4StarMeal_Description", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 17,
+        "id": "AdventuresInNeverland2025_Task17",
+        "amount": "10",
+        "reward": 20,
+        "description": [{ "name": "CatchXMeadowFishes", "category": "unknown" }]
+      },
+      {
+        "position": 18,
+        "id": "AdventuresInNeverland2025_Task18",
+        "amount": "1",
+        "reward": 15,
+        "description": []
+      },
+      {
+        "position": 19,
+        "id": "AdventuresInNeverland2025_Task19",
+        "amount": "5",
+        "reward": 20,
+        "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
+      },
+      {
+        "position": 20,
+        "id": "AdventuresInNeverland2025_Task20",
+        "amount": "2",
+        "reward": 15,
+        "discuss": true,
+        "description": [{ "name": "Mickey!Mickey", "category": "character" }]
+      },
+      {
+        "position": 21,
+        "id": "AdventuresInNeverland2025_Task49",
+        "amount": "3",
+        "reward": 10,
+        "description": [{ "name": "Seaweed", "category": "fish" }]
+      },
+      {
+        "position": 22,
+        "id": "AdventuresInNeverland2025_Task22",
+        "amount": "10",
+        "reward": 20,
+        "description": [
+          { "name": "Aquamarine", "category": "gem" },
+          { "name": "Sapphire", "category": "gem" },
+          { "name": "Blue Zircon", "category": "gem" },
+          { "name": "Star Sapphire", "category": "gem" }
+        ]
+      },
+      {
+        "position": 23,
+        "id": "AdventuresInNeverland2025_Task23",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 24,
+        "id": "AdventuresInNeverland2025_Task24",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 25,
+        "id": "AdventuresInNeverland2025_Task25",
+        "amount": "",
+        "reward": 0,
+        "gift": true,
+        "description": [{ "name": "Mickey!Goofy", "category": "character" }]
+      },
+      {
+        "position": 26,
+        "id": "AdventuresInNeverland2025_Task26",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 27,
+        "id": "AdventuresInNeverland2025_Task27",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "CatchXBeachFishes", "category": "unknown" }]
+      },
+      {
+        "position": 28,
+        "id": "AdventuresInNeverland2025_Task28",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 29,
+        "id": "AdventuresInNeverland2025_Task29",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
+      },
+      {
+        "position": 30,
+        "id": "AdventuresInNeverland2025_Task30",
+        "amount": "",
+        "reward": 0,
+        "discuss": true,
+        "description": [{ "name": "Encanto!Mirabel", "category": "character" }]
+      },
+      {
+        "position": 31,
+        "id": "AdventuresInNeverland2025_Task31",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "blueberries", "category": "ingredient" }]
+      },
+      {
+        "position": 32,
+        "id": "AdventuresInNeverland2025_Task32",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Garnet", "category": "gem" },
+          { "name": "Ruby", "category": "gem" }
+        ]
+      },
+      {
+        "position": 33,
+        "id": "AdventuresInNeverland2025_Task33",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 34,
+        "id": "AdventuresInNeverland2025_Task34",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 35,
+        "id": "AdventuresInNeverland2025_Task35",
+        "amount": "",
+        "reward": 0,
+        "gift": true,
+        "description": [{ "name": "Ralph!Vanellope", "category": "character" }]
+      },
+      {
+        "position": 36,
+        "id": "AdventuresInNeverland2025_Task36",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Cook 4-star or higher Appetizers", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 37,
+        "id": "AdventuresInNeverland2025_Task37",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "CatchXForestFishes", "category": "unknown" }]
+      },
+      {
+        "position": 38,
+        "id": "AdventuresInNeverland2025_Task38",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 39,
+        "id": "AdventuresInNeverland2025_Task39",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
+      },
+      {
+        "position": 40,
+        "id": "AdventuresInNeverland2025_Task40",
+        "amount": "",
+        "reward": 0,
+        "discuss": true,
+        "description": [
+          { "name": "PrincessFrog!Tiana", "category": "character" }
+        ]
+      },
+      {
+        "position": 41,
+        "id": "AdventuresInNeverland2025_Task41",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "lobsters", "category": "fish" }]
+      },
+      {
+        "position": 42,
+        "id": "AdventuresInNeverland2025_Task42",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Topaz", "category": "gem" },
+          { "name": "Citrine", "category": "gem" }
+        ]
+      },
+      {
+        "position": 43,
+        "id": "AdventuresInNeverland2025_Task43",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 44,
+        "id": "AdventuresInNeverland2025_Task44",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 45,
+        "id": "AdventuresInNeverland2025_Task45",
+        "amount": "",
+        "reward": 0,
+        "gift": true,
+        "description": [{ "name": "Mickey!Donald", "category": "character" }]
+      },
+      {
+        "position": 46,
+        "id": "AdventuresInNeverland2025_Task46",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Cook 4-star or higher Desserts", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 47,
+        "id": "AdventuresInNeverland2025_Task47",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Glade of Trust", "category": "unknown" }]
+      },
+      {
+        "position": 48,
+        "id": "AdventuresInNeverland2025_Task48",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 49,
+        "id": "AdventuresInNeverland2025_Task21",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+        "position": 50,
+        "id": "AdventuresInNeverland2025_Task50",
+        "amount": "",
+        "reward": 0,
+        "discuss": true,
+        "description": [{ "name": "Mickey!Minnie", "category": "character" }]
+      },
+      {
+        "position": 51,
+        "id": "AdventuresInNeverland2025_Task51",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "flowers", "category": "unknown" }]
+      },
+      {
+        "position": 52,
+        "id": "AdventuresInNeverland2025_Task52",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Peridot", "category": "gem" },
+          { "name": "Emerald", "category": "gem" },
+          { "name": "Jade", "category": "gem" }
+        ]
+      },
+      {
+        "position": 53,
+        "id": "AdventuresInNeverland2025_Task53",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 54,
+        "id": "AdventuresInNeverland2025_Task54",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 55,
+        "id": "AdventuresInNeverland2025_Task55",
+        "amount": "",
+        "reward": 0,
+        "gift": true,
+        "description": [
+          { "name": "Tangled!MotherGothel", "category": "character" }
+        ]
+      },
+      {
+        "position": 56,
+        "id": "AdventuresInNeverland2025_Task56",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Cook 5-Star Entrées", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 57,
+        "id": "AdventuresInNeverland2025_Task57",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Sunlit Plateau", "category": "unknown" }]
+      },
+      {
+        "position": 58,
+        "id": "AdventuresInNeverland2025_Task58",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 59,
+        "id": "AdventuresInNeverland2025_Task59",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+        "position": 61,
+        "id": "AdventuresInNeverland2025_Task60",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "white sturgeon", "category": "fish" }]
+      },
+      {
+        "position": 62,
+        "id": "AdventuresInNeverland2025_Task61",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Amethyst", "category": "gem" },
+          { "name": "Alexandrite", "category": "gem" }
+        ]
+      },
+      {
+        "position": 63,
+        "id": "AdventuresInNeverland2025_Task62",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 60,
+        "id": "AdventuresInNeverland2025_Task63",
+        "amount": "",
+        "reward": 0,
+        "discuss": true,
+        "description": [{ "name": "LionKing!Scar", "category": "character" }]
+      },
+      {
+        "position": 65,
+        "id": "AdventuresInNeverland2025_Task64",
+        "amount": "",
+        "reward": 0,
+        "gift": true,
+        "description": [{ "name": "Frozen!Olaf", "category": "character" }]
+      },
+      {
+        "position": 64,
+        "id": "AdventuresInNeverland2025_Task65",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 66,
+        "id": "AdventuresInNeverland2025_Task66",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Cook 5-Star Appetizers", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 67,
+        "id": "AdventuresInNeverland2025_Task67",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Frosted Heights", "category": "unknown" }]
+      },
+      {
+        "position": 68,
+        "id": "AdventuresInNeverland2025_Task68",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 69,
+        "id": "AdventuresInNeverland2025_Task69",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+        "position": 70,
+        "id": "AdventuresInNeverland2025_Task70",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Moana!Moana", "category": "character" }]
+      },
+      {
+        "position": 71,
+        "id": "AdventuresInNeverland2025_Task71",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "5-star meals", "category": "unknown" }]
+      },
+      {
+        "position": 72,
+        "id": "AdventuresInNeverland2025_Task72",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Diamond", "category": "gem" },
+          { "name": "Opal", "category": "gem" }
+        ]
+      },
+      {
+        "position": 73,
+        "id": "AdventuresInNeverland2025_Task73",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+        "position": 74,
+        "id": "AdventuresInNeverland2025_Task74",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 75,
+        "id": "AdventuresInNeverland2025_Task75",
+        "amount": "",
+        "reward": 0,
+        "gift": true,
+        "description": [
+          { "name": "Nightmare!JackSkellington", "category": "character" }
+        ]
+      },
+      {
+        "position": 76,
+        "id": "AdventuresInNeverland2025_Task76",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
+      },
+      {
+        "position": 77,
+        "id": "AdventuresInNeverland2025_Task77",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
+      },
+      {
+        "position": 78,
+        "id": "AdventuresInNeverland2025_Task78",
+        "amount": "",
+        "reward": 0,
+        "description": []
+      },
+      {
+        "position": 79,
+        "id": "AdventuresInNeverland2025_Task79",
+        "amount": "",
+        "reward": 0,
+        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+        "position": 80,
+        "id": "AdventuresInNeverland2025_Task80",
+        "amount": "",
+        "reward": 0,
+        "description": []
       }
     ]
-    
   }
 }
