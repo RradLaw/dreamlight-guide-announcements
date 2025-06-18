@@ -761,651 +761,731 @@
     "endDate": "2025-07-31",
     "tasks": [
       {
-        "position": 1,
-        "id": "AdventuresInNeverland2025_Task01",
-        "displayName": "Uproot Night Thorns.",
-        "amount": "10",
-        "reward": 10,
-        "description": [
-          { "name": "Halloween2022_Task36", "category": "unknown" },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 1,
-        "id": "AdventuresInNeverland2025_Task01",
-        "amount": "10",
-        "reward": 10,
-        "description": []
-      },
-      {
-        "position": 2,
-        "id": "AdventuresInNeverland2025_Task02",
-        "amount": "5",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 3,
-        "id": "AdventuresInNeverland2025_Task03",
-        "amount": "5",
-        "reward": 10,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 4,
-        "id": "AdventuresInNeverland2025_Task04",
-        "amount": "3",
-        "reward": 10,
-        "description": []
-      },
-      {
-        "position": 5,
-        "id": "AdventuresInNeverland2025_Task05",
-        "amount": "3",
-        "reward": 20,
-        "gift": true,
-        "description": []
-      },
-      {
-        "position": 6,
-        "id": "AdventuresInNeverland2025_Task06",
-        "amount": "5",
-        "reward": 10,
-        "description": [
-          { "name": "Cook3StarMeal_Description", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 8,
-        "id": "AdventuresInNeverland2025_Task07",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 7,
-        "id": "AdventuresInNeverland2025_Task08",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "PixarFest2023_Task07", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 9,
-        "id": "AdventuresInNeverland2025_Task09",
-        "amount": "3",
-        "reward": 20,
-        "description": [
-          { "name": "Parks2022_Task27", "category": "unknown" },
-          { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 10,
-        "id": "AdventuresInNeverland2025_Task10",
-        "amount": "3",
-        "reward": 15,
-        "discuss": true,
-        "description": [{ "name": "D1002022_Task04", "category": "unknown" }]
-      },
-      {
-        "position": 11,
-        "id": "AdventuresInNeverland2025_Task11",
-        "amount": "3",
-        "reward": 10,
-        "description": [{ "name": "Carrot", "category": "ingredient" }]
-      },
-      {
-        "position": 12,
-        "id": "AdventuresInNeverland2025_Task12",
-        "amount": "10",
-        "reward": 20,
-        "description": [
-          { "name": "PixarFest2023_Task12", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 13,
-        "id": "AdventuresInNeverland2025_Task13",
-        "amount": "10",
-        "reward": 10,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 14,
-        "id": "AdventuresInNeverland2025_Task14",
-        "amount": "5",
-        "reward": 10,
-        "description": [
-          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 15,
-        "id": "AdventuresInNeverland2025_Task15",
-        "amount": "4",
-        "reward": 20,
-        "gift": true,
-        "description": [
-          { "name": "SwordInStone!Merlin", "category": "character" }
-        ]
-      },
-      {
-        "position": 16,
-        "id": "AdventuresInNeverland2025_Task16",
-        "amount": "10",
-        "reward": 10,
-        "description": [
-          { "name": "Cook4StarMeal_Description", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 17,
-        "id": "AdventuresInNeverland2025_Task17",
-        "amount": "10",
-        "reward": 20,
-        "description": [{ "name": "CatchXMeadowFishes", "category": "unknown" }]
-      },
-      {
-        "position": 18,
-        "id": "AdventuresInNeverland2025_Task18",
-        "amount": "1",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 19,
-        "id": "AdventuresInNeverland2025_Task19",
-        "amount": "5",
-        "reward": 20,
-        "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
-      },
-      {
-        "position": 20,
-        "id": "AdventuresInNeverland2025_Task20",
-        "amount": "2",
-        "reward": 15,
-        "discuss": true,
-        "description": [{ "name": "Mickey!Mickey", "category": "character" }]
-      },
-      {
-        "position": 21,
-        "id": "AdventuresInNeverland2025_Task49",
-        "amount": "3",
-        "reward": 10,
-        "description": [{ "name": "Seaweed", "category": "fish" }]
-      },
-      {
-        "position": 22,
-        "id": "AdventuresInNeverland2025_Task22",
-        "amount": "10",
-        "reward": 20,
-        "description": [
-          { "name": "Aquamarine", "category": "gem" },
-          { "name": "Sapphire", "category": "gem" },
-          { "name": "Blue Zircon", "category": "gem" },
-          { "name": "Star Sapphire", "category": "gem" }
-        ]
-      },
-      {
-        "position": 23,
-        "id": "AdventuresInNeverland2025_Task23",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 24,
-        "id": "AdventuresInNeverland2025_Task24",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 25,
-        "id": "AdventuresInNeverland2025_Task25",
-        "amount": "",
-        "reward": 0,
-        "gift": true,
-        "description": [{ "name": "Mickey!Goofy", "category": "character" }]
-      },
-      {
-        "position": 26,
-        "id": "AdventuresInNeverland2025_Task26",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 27,
-        "id": "AdventuresInNeverland2025_Task27",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "CatchXBeachFishes", "category": "unknown" }]
-      },
-      {
-        "position": 28,
-        "id": "AdventuresInNeverland2025_Task28",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 29,
-        "id": "AdventuresInNeverland2025_Task29",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
-      },
-      {
-        "position": 30,
-        "id": "AdventuresInNeverland2025_Task30",
-        "amount": "",
-        "reward": 0,
-        "discuss": true,
-        "description": [{ "name": "Encanto!Mirabel", "category": "character" }]
-      },
-      {
-        "position": 31,
-        "id": "AdventuresInNeverland2025_Task31",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Blueberry", "category": "ingredient" }]
-      },
-      {
-        "position": 32,
-        "id": "AdventuresInNeverland2025_Task32",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Garnet", "category": "gem" },
-          { "name": "Ruby", "category": "gem" }
-        ]
-      },
-      {
-        "position": 33,
-        "id": "AdventuresInNeverland2025_Task33",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 34,
-        "id": "AdventuresInNeverland2025_Task34",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 35,
-        "id": "AdventuresInNeverland2025_Task35",
-        "amount": "",
-        "reward": 0,
-        "gift": true,
-        "description": [{ "name": "Ralph!Vanellope", "category": "character" }]
-      },
-      {
-        "position": 36,
-        "id": "AdventuresInNeverland2025_Task36",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Cook 4-star or higher Appetizers", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 37,
-        "id": "AdventuresInNeverland2025_Task37",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "CatchXForestFishes", "category": "unknown" }]
-      },
-      {
-        "position": 38,
-        "id": "AdventuresInNeverland2025_Task38",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 39,
-        "id": "AdventuresInNeverland2025_Task39",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
-      },
-      {
-        "position": 40,
-        "id": "AdventuresInNeverland2025_Task40",
-        "amount": "",
-        "reward": 0,
-        "discuss": true,
-        "description": [
-          { "name": "PrincessFrog!Tiana", "category": "character" }
-        ]
-      },
-      {
-        "position": 41,
-        "id": "AdventuresInNeverland2025_Task41",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "lobsters", "category": "fish" }]
-      },
-      {
-        "position": 42,
-        "id": "AdventuresInNeverland2025_Task42",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Topaz", "category": "gem" },
-          { "name": "Citrine", "category": "gem" }
-        ]
-      },
-      {
-        "position": 43,
-        "id": "AdventuresInNeverland2025_Task43",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 44,
-        "id": "AdventuresInNeverland2025_Task44",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 45,
-        "id": "AdventuresInNeverland2025_Task45",
-        "amount": "",
-        "reward": 0,
-        "gift": true,
-        "description": [{ "name": "Mickey!Donald", "category": "character" }]
-      },
-      {
-        "position": 46,
-        "id": "AdventuresInNeverland2025_Task46",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Cook 4-star or higher Desserts", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 47,
-        "id": "AdventuresInNeverland2025_Task47",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Glade of Trust", "category": "unknown" }]
-      },
-      {
-        "position": 48,
-        "id": "AdventuresInNeverland2025_Task48",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 49,
-        "id": "AdventuresInNeverland2025_Task21",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
-      },
-      {
-        "position": 50,
-        "id": "AdventuresInNeverland2025_Task50",
-        "amount": "",
-        "reward": 0,
-        "discuss": true,
-        "description": [{ "name": "Mickey!Minnie", "category": "character" }]
-      },
-      {
-        "position": 51,
-        "id": "AdventuresInNeverland2025_Task51",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "flowers", "category": "unknown" }]
-      },
-      {
-        "position": 52,
-        "id": "AdventuresInNeverland2025_Task52",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Peridot", "category": "gem" },
-          { "name": "Emerald", "category": "gem" },
-          { "name": "Jade", "category": "gem" }
-        ]
-      },
-      {
-        "position": 53,
-        "id": "AdventuresInNeverland2025_Task53",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 54,
-        "id": "AdventuresInNeverland2025_Task54",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 55,
-        "id": "AdventuresInNeverland2025_Task55",
-        "amount": "",
-        "reward": 0,
-        "gift": true,
-        "description": [
-          { "name": "Tangled!MotherGothel", "category": "character" }
-        ]
-      },
-      {
-        "position": 56,
-        "id": "AdventuresInNeverland2025_Task56",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Cook 5-Star Entrées", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 57,
-        "id": "AdventuresInNeverland2025_Task57",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Sunlit Plateau", "category": "unknown" }]
-      },
-      {
-        "position": 58,
-        "id": "AdventuresInNeverland2025_Task58",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 59,
-        "id": "AdventuresInNeverland2025_Task59",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
-      },
-      {
-        "position": 61,
-        "id": "AdventuresInNeverland2025_Task60",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "white sturgeon", "category": "fish" }]
-      },
-      {
-        "position": 62,
-        "id": "AdventuresInNeverland2025_Task61",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Amethyst", "category": "gem" },
-          { "name": "Alexandrite", "category": "gem" }
-        ]
-      },
-      {
-        "position": 63,
-        "id": "AdventuresInNeverland2025_Task62",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 60,
-        "id": "AdventuresInNeverland2025_Task63",
-        "amount": "",
-        "reward": 0,
-        "discuss": true,
-        "description": [{ "name": "LionKing!Scar", "category": "character" }]
-      },
-      {
-        "position": 65,
-        "id": "AdventuresInNeverland2025_Task64",
-        "amount": "",
-        "reward": 0,
-        "gift": true,
-        "description": [{ "name": "Frozen!Olaf", "category": "character" }]
-      },
-      {
-        "position": 64,
-        "id": "AdventuresInNeverland2025_Task65",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 66,
-        "id": "AdventuresInNeverland2025_Task66",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Cook 5-Star Appetizers", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 67,
-        "id": "AdventuresInNeverland2025_Task67",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Frosted Heights", "category": "unknown" }]
-      },
-      {
-        "position": 68,
-        "id": "AdventuresInNeverland2025_Task68",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 69,
-        "id": "AdventuresInNeverland2025_Task69",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
-      },
-      {
-        "position": 70,
-        "id": "AdventuresInNeverland2025_Task70",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Moana!Moana", "category": "character" }]
-      },
-      {
-        "position": 71,
-        "id": "AdventuresInNeverland2025_Task71",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "5-star meals", "category": "unknown" }]
-      },
-      {
-        "position": 72,
-        "id": "AdventuresInNeverland2025_Task72",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Diamond", "category": "gem" },
-          { "name": "Opal", "category": "gem" }
-        ]
-      },
-      {
-        "position": 73,
-        "id": "AdventuresInNeverland2025_Task73",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 74,
-        "id": "AdventuresInNeverland2025_Task74",
-        "amount": "",
-        "reward": 0,
-        "description": [
-          { "name": "Find memory orbs from doing tasks", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 75,
-        "id": "AdventuresInNeverland2025_Task75",
-        "amount": "",
-        "reward": 0,
-        "gift": true,
-        "description": [
-          { "name": "Nightmare!JackSkellington", "category": "character" }
-        ]
-      },
-      {
-        "position": 76,
-        "id": "AdventuresInNeverland2025_Task76",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
-      },
-      {
-        "position": 77,
-        "id": "AdventuresInNeverland2025_Task77",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
-      },
-      {
-        "position": 78,
-        "id": "AdventuresInNeverland2025_Task78",
-        "amount": "",
-        "reward": 0,
-        "description": []
-      },
-      {
-        "position": 79,
-        "id": "AdventuresInNeverland2025_Task79",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
-      },
-      {
-        "position": 80,
-        "id": "AdventuresInNeverland2025_Task80",
-        "amount": "",
-        "reward": 0,
-        "description": []
+      "position": 1,
+      "id": "AdventuresInNeverland2025_Task01",
+      "displayName": "Uproot Night Thorns.",
+      "amount": "10",
+      "reward": 10,
+      "description": [
+        { "name": "Halloween2022_Task36", "category": "unknown" },
+        {
+        "name": "Expansion01!RemoveXDreamlightCracks",
+        "category": "unknown"
+        },
+        { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 1,
+      "id": "AdventuresInNeverland2025_Task01",
+      "displayName": "Uproot Night Thorns.",
+      "amount": "10",
+      "reward": 10,
+      "description": []
+      },
+      {
+      "position": 2,
+      "id": "AdventuresInNeverland2025_Task02",
+      "displayName": "Find Gems with your Pickaxe.",
+      "amount": "5",
+      "reward": 20,
+      "description": []
+      },
+      {
+      "position": 3,
+      "id": "AdventuresInNeverland2025_Task03",
+      "displayName": "Tackle royal tasks.",
+      "amount": "5",
+      "reward": 10,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 4,
+      "id": "AdventuresInNeverland2025_Task04",
+      "displayName": "Get crafty!",
+      "amount": "3",
+      "reward": 10,
+      "description": []
+      },
+      {
+      "position": 5,
+      "id": "AdventuresInNeverland2025_Task05",
+      "displayName": "Give a Villager their favorite gifts.",
+      "amount": "3",
+      "reward": 20,
+      "gift": true,
+      "description": []
+      },
+      {
+      "position": 6,
+      "id": "AdventuresInNeverland2025_Task06",
+      "displayName": "Whip up a 3-star meal.",
+      "amount": "5",
+      "reward": 10,
+      "description": [
+        { "name": "Cook3StarMeal_Description", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 8,
+      "id": "AdventuresInNeverland2025_Task07",
+      "displayName": "Spend time with a Villager.",
+      "amount": "5",
+      "reward": 15,
+      "description": []
+      },
+      {
+      "position": 7,
+      "id": "AdventuresInNeverland2025_Task08",
+      "displayName": "Go fish!",
+      "amount": "5",
+      "reward": 20,
+      "description": [
+        { "name": "PixarFest2023_Task07", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 9,
+      "id": "AdventuresInNeverland2025_Task09",
+      "displayName": "Work a shift at either restaurant.",
+      "amount": "3",
+      "reward": 20,
+      "description": [
+        { "name": "Parks2022_Task27", "category": "unknown" },
+        { "name": "FrostAndFairies2024_Task97", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 10,
+      "id": "AdventuresInNeverland2025_Task10",
+      "displayName": "Make small talk.",
+      "amount": "3",
+      "reward": 15,
+      "discuss": true,
+      "description": [{ "name": "D1002022_Task04", "category": "unknown" }]
+      },
+      {
+      "position": 11,
+      "id": "AdventuresInNeverland2025_Task11",
+      "displayName": "Feed the Rabbits their favorite food.",
+      "amount": "3",
+      "reward": 10,
+      "description": [{ "name": "Carrot", "category": "ingredient" }]
+      },
+      {
+      "position": 12,
+      "id": "AdventuresInNeverland2025_Task12",
+      "displayName": "Mine precious gems with a Royal Tool.",
+      "amount": "10",
+      "reward": 20,
+      "description": [
+        { "name": "PixarFest2023_Task12", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 13,
+      "id": "AdventuresInNeverland2025_Task13",
+      "displayName": "Finish some Dreamlight Duties.",
+      "amount": "10",
+      "reward": 10,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 14,
+      "id": "AdventuresInNeverland2025_Task14",
+      "displayName": "Find Memories.",
+      "amount": "5",
+      "reward": 10,
+      "description": [
+        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 15,
+      "id": "AdventuresInNeverland2025_Task15",
+      "displayName": "Impress a wizard with something he loves.",
+      "amount": "4",
+      "reward": 20,
+      "gift": true,
+      "description": [
+        { "name": "SwordInStone!Merlin", "category": "character" }
+      ]
+      },
+      {
+      "position": 16,
+      "id": "AdventuresInNeverland2025_Task16",
+      "displayName": "Cook any 4-star meal.",
+      "amount": "10",
+      "reward": 10,
+      "description": [
+        { "name": "Cook4StarMeal_Description", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 17,
+      "id": "AdventuresInNeverland2025_Task17",
+      "displayName": "Catch fish somewhere Peaceful.",
+      "amount": "10",
+      "reward": 20,
+      "description": [{ "name": "CatchXMeadowFishes", "category": "unknown" }]
+      },
+      {
+      "position": 18,
+      "id": "AdventuresInNeverland2025_Task18",
+      "displayName": "Enter a DreamSnaps contest.",
+      "amount": "1",
+      "reward": 15,
+      "description": []
+      },
+      {
+      "position": 19,
+      "id": "AdventuresInNeverland2025_Task19",
+      "displayName": "Serve customers in Chez Remy.",
+      "amount": "5",
+      "reward": 20,
+      "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
+      },
+      {
+      "position": 20,
+      "id": "AdventuresInNeverland2025_Task20",
+      "displayName": "Chat with Mickey Mouse.",
+      "amount": "2",
+      "reward": 15,
+      "discuss": true,
+      "description": [{ "name": "Mickey!Mickey", "category": "character" }]
+      },
+      {
+      "position": 21,
+      "id": "AdventuresInNeverland2025_Task49",
+      "displayName": "Feed the Turtles their favorite food.",
+      "amount": "3",
+      "reward": 10,
+      "description": [{ "name": "Seaweed", "category": "fish" }]
+      },
+      {
+      "position": 22,
+      "id": "AdventuresInNeverland2025_Task22",
+      "displayName": "Mine for blue gems.",
+      "amount": "10",
+      "reward": 20,
+      "description": [
+        { "name": "Aquamarine", "category": "gem" },
+        { "name": "Sapphire", "category": "gem" },
+        { "name": "Blue Zircon", "category": "gem" },
+        { "name": "Star Sapphire", "category": "gem" }
+      ]
+      },
+      {
+      "position": 23,
+      "id": "AdventuresInNeverland2025_Task23",
+      "displayName": "Cross items off your Royal To-Do List.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 24,
+      "id": "AdventuresInNeverland2025_Task24",
+      "displayName": "Spend time with a Villager.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 25,
+      "id": "AdventuresInNeverland2025_Task25",
+      "displayName": "Give a clumsy Villager his favorites.",
+      "amount": "",
+      "reward": 0,
+      "gift": true,
+      "description": [{ "name": "Mickey!Goofy", "category": "character" }]
+      },
+      {
+      "position": 26,
+      "id": "AdventuresInNeverland2025_Task26",
+      "displayName": "Cook a fairly fancy dinner.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 27,
+      "id": "AdventuresInNeverland2025_Task27",
+      "displayName": "Catch fish somewhere Dazzling.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "CatchXBeachFishes", "category": "unknown" }]
+      },
+      {
+      "position": 28,
+      "id": "AdventuresInNeverland2025_Task28",
+      "displayName": "Complete Boutique challenges.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 29,
+      "id": "AdventuresInNeverland2025_Task29",
+      "displayName": "Serve customers in Chez Remy.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
+      },
+      {
+      "position": 30,
+      "id": "AdventuresInNeverland2025_Task30",
+      "displayName": "Chat with a member of the Madrigal Family.",
+      "amount": "",
+      "reward": 0,
+      "discuss": true,
+      "description": [{ "name": "Encanto!Mirabel", "category": "character" }]
+      },
+      {
+      "position": 31,
+      "id": "AdventuresInNeverland2025_Task31",
+      "displayName": "Feed the Raccoons their favorite food.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Blueberry", "category": "ingredient" }]
+      },
+      {
+      "position": 32,
+      "id": "AdventuresInNeverland2025_Task32",
+      "displayName": "Mine for red gems.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Garnet", "category": "gem" },
+        { "name": "Ruby", "category": "gem" }
+      ]
+      },
+      {
+      "position": 33,
+      "id": "AdventuresInNeverland2025_Task33",
+      "displayName": "Polish off some royal work.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 34,
+      "id": "AdventuresInNeverland2025_Task34",
+      "displayName": "Open up fresh Memories.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 35,
+      "id": "AdventuresInNeverland2025_Task35",
+      "displayName": "Give a speedy and sugary princess her favorites.",
+      "amount": "",
+      "reward": 0,
+      "gift": true,
+      "description": [{ "name": "Ralph!Vanellope", "category": "character" }]
+      },
+      {
+      "position": 36,
+      "id": "AdventuresInNeverland2025_Task36",
+      "displayName": "Cook a fairly fancy appetizer.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Cook 4-star or higher Appetizers", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 37,
+      "id": "AdventuresInNeverland2025_Task37",
+      "displayName": "Catch fish somewhere Valorous.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "CatchXForestFishes", "category": "unknown" }]
+      },
+      {
+      "position": 38,
+      "id": "AdventuresInNeverland2025_Task38",
+      "displayName": "Submit entries to DreamSnaps.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 39,
+      "id": "AdventuresInNeverland2025_Task39",
+      "displayName": "Serve customers in Chez Remy.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Parks2022_Task27", "category": "unknown" }]
+      },
+      {
+      "position": 40,
+      "id": "AdventuresInNeverland2025_Task40",
+      "displayName": "Chat with a Princess and restaurateur.",
+      "amount": "",
+      "reward": 0,
+      "discuss": true,
+      "description": [
+        { "name": "PrincessFrog!Tiana", "category": "character" }
+      ]
+      },
+      {
+      "position": 41,
+      "id": "AdventuresInNeverland2025_Task41",
+      "displayName": "Feed the Crocodiles their favorite food.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "lobsters", "category": "fish" }]
+      },
+      {
+      "position": 42,
+      "id": "AdventuresInNeverland2025_Task42",
+      "displayName": "Mine for yellow gems.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Topaz", "category": "gem" },
+        { "name": "Citrine", "category": "gem" }
+      ]
+      },
+      {
+      "position": 43,
+      "id": "AdventuresInNeverland2025_Task43",
+      "displayName": "Complete some Royal Work.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 44,
+      "id": "AdventuresInNeverland2025_Task44",
+      "displayName": "Spend time with a Villager.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 45,
+      "id": "AdventuresInNeverland2025_Task45",
+      "displayName": "Calm a Villager's tantrums with their favorite gifts.",
+      "amount": "",
+      "reward": 0,
+      "gift": true,
+      "description": [{ "name": "Mickey!Donald", "category": "character" }]
+      },
+      {
+      "position": 46,
+      "id": "AdventuresInNeverland2025_Task46",
+      "displayName": "Cook a fairly fancy dessert.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Cook 4-star or higher Desserts", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 47,
+      "id": "AdventuresInNeverland2025_Task47",
+      "displayName": "Catch fish somewhere Trustworthy.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Glade of Trust", "category": "unknown" }]
+      },
+      {
+      "position": 48,
+      "id": "AdventuresInNeverland2025_Task48",
+      "displayName": "Complete Boutique challenges.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 49,
+      "id": "AdventuresInNeverland2025_Task21",
+      "displayName": "Serve customers at Tiana's Palace.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+      "position": 50,
+      "id": "AdventuresInNeverland2025_Task50",
+      "displayName": "Chat with Mickey Mouse's sweetheart.",
+      "amount": "",
+      "reward": 0,
+      "discuss": true,
+      "description": [{ "name": "Mickey!Minnie", "category": "character" }]
+      },
+      {
+      "position": 51,
+      "id": "AdventuresInNeverland2025_Task51",
+      "displayName": "Feed the Sunbirds their favorite food.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "flowers", "category": "unknown" }]
+      },
+      {
+      "position": 52,
+      "id": "AdventuresInNeverland2025_Task52",
+      "displayName": "Mine for green gems.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Peridot", "category": "gem" },
+        { "name": "Emerald", "category": "gem" },
+        { "name": "Jade", "category": "gem" }
+      ]
+      },
+      {
+      "position": 53,
+      "id": "AdventuresInNeverland2025_Task53",
+      "displayName": "Wrap up some royal tasks.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 54,
+      "id": "AdventuresInNeverland2025_Task54",
+      "displayName": "Open up fresh Memories.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 55,
+      "id": "AdventuresInNeverland2025_Task55",
+      "displayName": "Flatter the woman in the willow with gifts.",
+      "amount": "",
+      "reward": 0,
+      "gift": true,
+      "description": [
+        { "name": "Tangled!MotherGothel", "category": "character" }
+      ]
+      },
+      {
+      "position": 56,
+      "id": "AdventuresInNeverland2025_Task56",
+      "displayName": "Cook a perfect entrée.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Cook 5-Star Entrées", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 57,
+      "id": "AdventuresInNeverland2025_Task57",
+      "displayName": "Fish somewhere that's always Sunlit.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Sunlit Plateau", "category": "unknown" }]
+      },
+      {
+      "position": 58,
+      "id": "AdventuresInNeverland2025_Task58",
+      "displayName": "Enter a DreamSnaps contest.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 59,
+      "id": "AdventuresInNeverland2025_Task59",
+      "displayName": "Serve customers at Tiana's Palace.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+      "position": 61,
+      "id": "AdventuresInNeverland2025_Task60",
+      "displayName": "Feed the Foxes their favorite food.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "white sturgeon", "category": "fish" }]
+      },
+      {
+      "position": 62,
+      "id": "AdventuresInNeverland2025_Task61",
+      "displayName": "Mine for purple gems.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Amethyst", "category": "gem" },
+        { "name": "Alexandrite", "category": "gem" }
+      ]
+      },
+      {
+      "position": 63,
+      "id": "AdventuresInNeverland2025_Task62",
+      "displayName": "Tackle royal tasks.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 60,
+      "id": "AdventuresInNeverland2025_Task63",
+      "displayName": "Chat with a Villager who demands the lion's share.",
+      "amount": "",
+      "reward": 0,
+      "discuss": true,
+      "description": [{ "name": "LionKing!Scar", "category": "character" }]
+      },
+      {
+      "position": 65,
+      "id": "AdventuresInNeverland2025_Task64",
+      "displayName": "Melt an unmelting snowman with his favorite gifts.",
+      "amount": "",
+      "reward": 0,
+      "gift": true,
+      "description": [{ "name": "Frozen!Olaf", "category": "character" }]
+      },
+      {
+      "position": 64,
+      "id": "AdventuresInNeverland2025_Task65",
+      "displayName": "Spend time with a Villager.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 66,
+      "id": "AdventuresInNeverland2025_Task66",
+      "displayName": "Cook a perfect appetizer.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Cook 5-Star Appetizers", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 67,
+      "id": "AdventuresInNeverland2025_Task67",
+      "displayName": "Fish somewhere Frosty.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Frosted Heights", "category": "unknown" }]
+      },
+      {
+      "position": 68,
+      "id": "AdventuresInNeverland2025_Task68",
+      "displayName": "Complete Boutique challenges.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 69,
+      "id": "AdventuresInNeverland2025_Task69",
+      "displayName": "Serve customers at Tiana's Palace.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+      "position": 70,
+      "id": "AdventuresInNeverland2025_Task70",
+      "displayName": "Chat with a sea-faring prince.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Moana!Moana", "category": "character" }]
+      },
+      {
+      "position": 71,
+      "id": "AdventuresInNeverland2025_Task71",
+      "displayName": "Feed the Ravens their favorite food.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "5-star meals", "category": "unknown" }]
+      },
+      {
+      "position": 72,
+      "id": "AdventuresInNeverland2025_Task72",
+      "displayName": "Mine for white gems.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Diamond", "category": "gem" },
+        { "name": "Opal", "category": "gem" }
+      ]
+      },
+      {
+      "position": 73,
+      "id": "AdventuresInNeverland2025_Task73",
+      "displayName": "Tackle royal tasks.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
+      },
+      {
+      "position": 74,
+      "id": "AdventuresInNeverland2025_Task74",
+      "displayName": "Open up fresh Memories.",
+      "amount": "",
+      "reward": 0,
+      "description": [
+        { "name": "Find memory orbs from doing tasks", "category": "unknown" }
+      ]
+      },
+      {
+      "position": 75,
+      "id": "AdventuresInNeverland2025_Task75",
+      "displayName": "Give the king of the Pumpkins his favorite gifts.",
+      "amount": "",
+      "reward": 0,
+      "gift": true,
+      "description": [
+        { "name": "Nightmare!JackSkellington", "category": "character" }
+      ]
+      },
+      {
+      "position": 76,
+      "id": "AdventuresInNeverland2025_Task76",
+      "displayName": "Cook a perfect dessert.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
+      },
+      {
+      "position": 77,
+      "id": "AdventuresInNeverland2025_Task77",
+      "displayName": "Fish somewhere Forgotten.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
+      },
+      {
+      "position": 78,
+      "id": "AdventuresInNeverland2025_Task78",
+      "displayName": "Enter a DreamSnaps contest.",
+      "amount": "",
+      "reward": 0,
+      "description": []
+      },
+      {
+      "position": 79,
+      "id": "AdventuresInNeverland2025_Task79",
+      "displayName": "Serve customers at Tiana's Palace.",
+      "amount": "",
+      "reward": 0,
+      "description": [{ "name": "TianaRestaurant", "category": "unknown" }]
+      },
+      {
+      "position": 80,
+      "id": "AdventuresInNeverland2025_Task80",
+      "displayName": "Talk with a Villager who leads the Lost Boys.",
+      "amount": "",
+      "reward": 0,
+      "description": []
       }
     ]
   }
