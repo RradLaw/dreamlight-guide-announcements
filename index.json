@@ -237,6 +237,12 @@
       "source": "Peter Pan Level 8",
       "sourceCategory": ["friendship"],
       "collection": "unknown"
+    },
+    {
+      "name": "Gleam Celebration Banner",
+      "source": "Use code DDVPRIDE25",
+      "sourceCategory": ["other"],
+      "collection": "dreamlightValley"
     }
   ],
   "clothing": [
@@ -310,6 +316,18 @@
     },
     {
       "name": "Lost Boy Skunk Onesie",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Joy and Rainbows Umbrella",
+      "source": "Use code DDVPRIDE25",
+      "sourceCategory": ["other"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Joy and Rainbows Sweater",
+      "source": "Use code DDVPRIDE25",
+      "sourceCategory": ["other", "limitedTimeTag"],
       "collection": "dreamlightValley"
     }
   ],
