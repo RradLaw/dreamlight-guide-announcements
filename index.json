@@ -335,6 +335,29 @@
     "name": "AdventuresInNeverland2025",
     "startDate": "2025-06-18",
     "endDate": "2025-07-31",
-    "tasks": []
+    "tasks": [
+      {
+        "position": 70,
+        "id": "AdventuresInNeverland2025_Task70",
+        "amount": "",
+        "reward": 0,
+        "description": [
+          { "name": "LilMermaid!PrinceEric", "category": "character" }
+        ]
+      },
+      {
+        "position": 22,
+        "id": "AdventuresInNeverland2025_Task22",
+        "amount": "10",
+        "reward": 20,
+        "description": [
+          { "name": "Aquamarine", "category": "gem" },
+          { "name": "Sapphire", "category": "gem" },
+          { "name": "Blue Zircon", "category": "gem" },
+          { "name": "Star Sapphire", "category": "gem" },
+          { "name": "Pure Ice", "category": "gem" }
+        ]
+      }
+    ]
   }
 }
