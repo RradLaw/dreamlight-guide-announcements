@@ -81,7 +81,8 @@
         "1.14.4",
         "1.14.5",
         "1.14.6",
-        "1.15.0"
+        "1.15.0",
+        "1.15.1"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -119,218 +120,15 @@
         "1.14.4",
         "1.14.5",
         "1.14.6",
-        "1.15.0"
+        "1.15.0",
+        "1.15.1"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
     }
   ],
-  "furniture": [
-    {
-      "name": "Pirate Ship Wallpaper",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Pirate Dinghy Bed",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Natural Coral Reef Sculpture",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Nefarious Table",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Pirate Ship Deck Flooring",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Hooked Lamp",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Seashell Stage",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Tree House Ladder Door",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mythical Cloud Throne",
-      "source": "Level 5 reward from Baby Pegasus",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Golden Agrabah Mirror",
-      "collection": "dreamlightValley",
-      "source": "Magic Carpet Level 5 Reward",
-      "sourceCategory": ["friendship"]
-    },
-
-    {
-      "name": "Golden Balance",
-      "universe": "theSwordInTheStone",
-      "categories": ["art"],
-      "style": ["quirky", "professional"],
-      "source": "scroogesStore",
-      "sourceCategory": ["scroogesStore"]
-    },
-    {
-      "name": "Nefarious Chandelier",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "The Forgotten Level 2",
-      "sourceCategory": ["friendship"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Nefarious Table",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "The Forgotten Level 8",
-      "sourceCategory": ["friendship"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Nefarious Night Thorn Rug",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "The Forgotten Level 5",
-      "sourceCategory": ["friendship"]
-    },
-    {
-      "name": "Tree House Ladder Door",
-      "universe": "peterPan",
-      "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "Peter Pan Level 2",
-      "sourceCategory": ["friendship"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Darling Play Tent",
-      "universe": "peterPan",
-      "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "Peter Pan Level 5",
-      "sourceCategory": ["friendship"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Underground Hideout Alcove",
-      "universe": "peterPan",
-      "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "Peter Pan Level 8",
-      "sourceCategory": ["friendship"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Gleam Celebration Banner",
-      "source": "Use code DDVPRIDE25",
-      "sourceCategory": ["other"],
-      "collection": "dreamlightValley"
-    }
-  ],
-  "clothing": [
-    {
-      "name": "Mermaid Fantasy Asymmetrical Skirt",
-      "universe": "general",
-      "category": "skirts",
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mermaid Fantasy Bracelet",
-      "universe": "general",
-      "category": "bracelets",
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mermaid Fantasy Sideswept Hair",
-      "universe": "general",
-      "category": "hairstyles",
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mermaid Fantasy Heels",
-      "universe": "general",
-      "category": "shoes",
-      "style": ["professional"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mermaid Fantasy Asymmetrical Top",
-      "universe": "general",
-      "category": "tops",
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-
-    {
-      "name": "Never Land Adventure Outfit",
-      "universe": "peterPan",
-      "category": "costumes",
-      "style": [],
-      "source": "Peter Pan Level 10 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Shadow Wings",
-      "universe": "general",
-      "category": "back",
-      "style": [],
-      "source": "The Forgotten Level 10 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Buccaneer Ensemble",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Lost Boy Skunk Onesie",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Joy and Rainbows Umbrella",
-      "source": "Use code DDVPRIDE25",
-      "sourceCategory": ["other"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Joy and Rainbows Sweater",
-      "source": "Use code DDVPRIDE25",
-      "sourceCategory": ["other", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    }
-  ],
+  "furniture": [],
+  "clothing": [],
   "starPath": {
     "name": "AdventuresInNeverland2025",
     "startDate": "2025-06-18",
