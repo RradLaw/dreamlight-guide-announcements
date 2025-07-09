@@ -209,7 +209,56 @@
     {
       "name": "Pan Flute",
       "collection": "dreamlightValley"
-    }
+    },
+    {
+      "name": "Painted Cottage Chest — Medium",
+      "universe": "sleepingBeauty",
+      "categories": ["unknown"],
+      "furnitureZones": ["bedroom", "livingRoom", "outdoors"],
+      "style": ["rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
+    {
+      "name": "Painted Cottage Chest — Large",
+      "universe": "sleepingBeauty",
+      "categories": ["unknown"],
+      "furnitureZones": ["bedroom", "livingRoom", "outdoors"],
+      "style": ["rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
+    {
+      "name": "Painted Cottage Door",
+      "universe": "sleepingBeauty",
+      "categories": ["unknown"],
+      "furnitureZones": ["kitchen"],
+      "style": ["rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
+    {
+      "name": "Floral Cottage Print",
+      "universe": "sleepingBeauty",
+      "categories": ["floors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
+  {
+    "name": "Hideout Swing",
+    "universe": "nonDisneyRelated",
+    "categories": ["unknown"],
+    "furnitureZones": ["livingRoom", "recRoom"],
+    "style": ["rustic"],
+    "source": "scroogesStore",
+    "sourceCategory": ["scroogesStore"],
+    "collection": "dreamlightValley"
+  }
   ],
   "clothing": [
     {
@@ -299,6 +348,78 @@
       "collection": "dreamlightValley",
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"]
+    },
+
+    {
+      "name": "Steadfast Heart Cloak",
+      "universe": "sleepingBeauty",
+      "category": "back",
+      "style": ["elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Steadfast Heart Gown",
+      "universe": "sleepingBeauty",
+      "category": "dresses",
+      "style": ["traditional", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Briar Rose Helmet",
+      "universe": "sleepingBeauty",
+      "category": "hats",
+      "style": ["traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Steadfast Heart Boots",
+      "universe": "sleepingBeauty",
+      "category": "shoes",
+      "style": ["bold", "elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Jagged Mantle Cloak",
+      "universe": "sleepingBeauty",
+      "category": "back",
+      "style": ["bold", "elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Twisted Thorn Gown",
+      "universe": "sleepingBeauty",
+      "category": "dresses",
+      "style": ["bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mistress of All Evil Staff",
+      "universe": "sleepingBeauty",
+      "category": "accessories",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Twisted Thorn Boots",
+      "universe": "sleepingBeauty",
+      "category": "shoes",
+      "style": ["bold", "elegant"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
