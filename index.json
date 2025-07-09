@@ -9,14 +9,6 @@
       "link": "https://discord.gg/4kb4PRq7z8"
     },
     {
-      "lastUpdated": "2025-02-26",
-      "message": "The new update is on it's way! Currently waiting for Google to approve the update we uploaded 5 hours after the game update.",
-      "version": [""],
-      "platform": "android",
-      "storeLink": "",
-      "link": "https://discord.gg/4kb4PRq7z8"
-    },
-    {
       "lastUpdated": "2024-10-07",
       "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
       "version": [""],
@@ -25,7 +17,7 @@
       "link": "https://discord.gg/4kb4PRq7z8"
     },
     {
-      "lastUpdated": "2025-04-25",
+      "lastUpdated": "2025-07-09",
       "message": "The new app update is coming soon. Please join our Discord to stay up to date.",
       "version": [""],
       "platform": "ios",
@@ -35,7 +27,7 @@
     {
       "lastUpdated": "2024-10-07",
       "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-      "version": [""],
+      "version": ["1.15.2"],
       "platform": "android",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -43,7 +35,7 @@
     {
       "lastUpdated": "2025-02-26",
       "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-      "version": [""],
+      "version": ["1.15.2"],
       "platform": "ios",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -127,8 +119,188 @@
       "storeLink": "https://apps.apple.com/app/id6444711557"
     }
   ],
-  "furniture": [],
-  "clothing": [],
+  "furniture": [
+    {
+      "name": "Tree House Bunk Bed",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Underground Hideout Alcove",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Nefarious Chandelier",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Green Hideout Rug",
+      "furnitureZones": ["bathroom", "bedroom", "diningRoom", "livingRoom"],
+      "style": ["traditional"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Ship Bed",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Valley Pirates' Treasure",
+      "universe": "peterPan",
+      "categories": ["utilities", "doors"],
+      "furnitureZones": ["livingRoom", "outdoors"],
+      "style": ["rustic"],
+      "source": "Peter Pan Level 10 Quest - Furniture Pouch inside chest",
+      "sourceCategory": ["quest"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Tree House Ladder",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Floating Floral Inflatable",
+      "universe": "disneyFairies",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors"],
+      "style": ["casual", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Under the Sea Drums",
+      "universe": "theLittleMermaid",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "bedroom", "livingRoom"],
+      "style": ["quirky", "bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Under the Sea Tuba",
+      "universe": "theLittleMermaid",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "bedroom", "livingRoom"],
+      "style": ["quirky", "bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Under the Sea Harp",
+      "universe": "theLittleMermaid",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "bedroom", "livingRoom"],
+      "style": ["quirky", "bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Under the Sea Pipe Organ",
+      "universe": "theLittleMermaid",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "bedroom", "livingRoom"],
+      "style": ["quirky", "bold"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Pan Flute",
+      "collection": "dreamlightValley"
+    }
+  ],
+  "clothing": [
+    {
+      "name": "Coral Branch Bracelet",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Coral Crown",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mermaid Tail Pants",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Seashell Backpack",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Ocean Wave Gown",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Never Land Adventure Outfit",
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Sunflower Wings",
+      "universe": "general",
+      "category": "back",
+      "source": "itemShop",
+      "style": ["cute", "modern"],
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "glider": true,
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Sunflower Dress",
+      "universe": "general",
+      "category": "dresses",
+      "source": "itemShop",
+      "style": ["cute", "modern"],
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Sunflower Headband",
+      "universe": "general",
+      "category": "hats",
+      "source": "itemShop",
+      "style": ["cute", "modern"],
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Stylish Sailor Top",
+      "universe": "general",
+      "category": "tops",
+      "style": ["casual", "elegant"],
+      "collection": "dreamlightValley",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"]
+    },
+    {
+      "name": "Stylish Sailor Pants",
+      "universe": "general",
+      "category": "pants",
+      "style": ["elegant", "traditional"],
+      "collection": "dreamlightValley",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"]
+    },
+    {
+      "name": "Stylish Sailor Hat",
+      "universe": "general",
+      "category": "hats",
+      "style": ["quirky", "bold"],
+      "collection": "dreamlightValley",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"]
+    },
+    {
+      "name": "Stylish Sailor Shoes",
+      "universe": "general",
+      "category": "shoes",
+      "style": ["elegant", "modern", "bold"],
+      "collection": "dreamlightValley",
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"]
+    }
+  ],
   "starPath": {
     "name": "AdventuresInNeverland2025",
     "startDate": "2025-06-18",
