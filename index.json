@@ -442,7 +442,7 @@
       "style": ["elegant"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "storybookVale"
     },
     {
       "name": "Box of Croissants",
@@ -468,11 +468,17 @@
       "name": "Crimson Banquet Chair",
       "universe": "sleepingBeauty",
       "categories": ["unknown"],
-      "furnitureZones": [],
-      "style": [],
+      "furnitureZones": [
+        "kitchen",
+        "diningRoom",
+        "study",
+        "outdoors",
+        "livingRoom"
+      ],
+      "style": ["rustic"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "storybookVale"
     },
     {
       "name": "Divine Marble Column",
@@ -702,17 +708,17 @@
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
-  },
-  {
-    "name": "Painted Cottage — Downstairs",
-    "universe": "sleepingBeauty",
-    "categories": ["trimmings", "wall", "doors"],
-    "furnitureZones": ["bedroom", "livingRoom", "study", "recRoom"],
-    "style": ["rustic"],
-    "source": "scroogesStore",
-    "sourceCategory": ["scroogesStore"],
-    "collection": "storybookVale"
-  },
+    },
+    {
+      "name": "Painted Cottage — Downstairs",
+      "universe": "sleepingBeauty",
+      "categories": ["trimmings", "wall", "doors"],
+      "furnitureZones": ["bedroom", "livingRoom", "study", "recRoom"],
+      "style": ["rustic"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
     {
       "name": "Painted Cottage Chest — Small",
       "universe": "sleepingBeauty",
@@ -722,17 +728,17 @@
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "storybookVale"
-  },
-  {
-    "name": "Pastel Stained Glass Window",
-    "universe": "nonDisneyRelated",
-    "categories": ["trimmings", "wall", "windows"],
-    "furnitureZones": ["livingRoom", "study"],
-    "style": ["elegant", "traditional"],
-    "source": "scroogesStore",
-    "sourceCategory": ["scroogesStore"],
-    "collection": "storybookVale"
-  },
+    },
+    {
+      "name": "Pastel Stained Glass Window",
+      "universe": "nonDisneyRelated",
+      "categories": ["trimmings", "wall", "windows"],
+      "furnitureZones": ["livingRoom", "study"],
+      "style": ["elegant", "traditional"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
     {
       "name": "Regal Golden Torch",
       "universe": "sleepingBeauty",
@@ -742,17 +748,17 @@
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "storybookVale"
-  },
-  {
-    "name": "Rustic Cottage Bed",
-    "universe": "sleepingBeauty",
-    "categories": ["beds"],
-    "furnitureZones": ["bedroom"],
-    "style": ["rustic", "bold"],
-    "source": "scroogesStore",
-    "sourceCategory": ["scroogesStore"],
-    "collection": "storybookVale"
-  },
+    },
+    {
+      "name": "Rustic Cottage Bed",
+      "universe": "sleepingBeauty",
+      "categories": ["beds"],
+      "furnitureZones": ["bedroom"],
+      "style": ["rustic", "bold"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "storybookVale"
+    },
     {
       "name": "Rustic Cottage Beam",
       "universe": "sleepingBeauty",
@@ -761,7 +767,7 @@
       "style": ["rustic"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "storybookVale"
     },
     {
       "name": "Rustic Cottage Rafter",
@@ -771,7 +777,7 @@
       "style": ["rustic"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "storybookVale"
     },
     {
       "name": "Rustic Cottage Stone Bed",
@@ -831,7 +837,7 @@
       "style": ["elegant", "cute"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "storybookVale"
     },
     {
       "name": "Silled Stained Glass Window",
@@ -871,7 +877,7 @@
       "style": [],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
-      "collection": "unknown"
+      "collection": "storybookVale"
     },
     {
       "name": "{DoNotTranslate}Throne_01A",
@@ -1039,47 +1045,77 @@
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "storybookVale"
-  },
-  {
-    "name": "Aurora's Princess Party Banner",
-    "universe": "nonDisneyRelated",
-    "categories": ["decor", "misc"],
-    "furnitureZones": ["outdoors"],
-    "style": ["elegant"],
-    "source": "Aurora Level 7 Quest",
-    "sourceCategory": ["quest"],
-    "collection": "dreamlightValley"
-  },
-  {
-    "name": "Bonfire Pit (2)",
-    "universe": "nonDisneyRelated",
-    "categories": ["misc"],
-    "furnitureZones": ["outdoors"],
-    "style": ["traditional"],
-    "source": "Maleficent Level 7 Quest",
-    "sourceCategory": ["quest"],
-    "collection": "storybookVale"
-  },
-  {
-    "name": "Improved Fairy Cake",
-    "universe": "sleepingBeauty",
-    "categories": ["tables"],
-    "furnitureZones": ["diningRoom", "outdoors"],
-    "style": ["traditional", "bold"],
-    "source": "Aurora Level 2 Quest",
-    "sourceCategory": ["quest"],
-    "collection": "untracked"
-  },
-  {
-    "name": "Luxury Corvid Perch",
-    "universe": "sleepingBeauty",
-    "categories": ["misc"],
-    "furnitureZones": [],
-    "style": [],
-    "source": "Maleficent Friendship quest",
-    "sourceCategory": ["quest"],
-    "collection": "untracked"
-  }
+    },
+    {
+      "name": "Aurora's Princess Party Banner",
+      "universe": "nonDisneyRelated",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["elegant"],
+      "source": "Aurora Level 7 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Bonfire Pit (2)",
+      "universe": "nonDisneyRelated",
+      "categories": ["misc"],
+      "furnitureZones": ["outdoors"],
+      "style": ["traditional"],
+      "source": "Maleficent Level 7 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "storybookVale"
+    },
+    {
+      "name": "Improved Fairy Cake",
+      "universe": "sleepingBeauty",
+      "categories": ["tables"],
+      "furnitureZones": ["diningRoom", "outdoors"],
+      "style": ["traditional", "bold"],
+      "source": "Aurora Level 2 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Luxury Corvid Perch",
+      "universe": "sleepingBeauty",
+      "categories": ["misc"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "Maleficent Friendship quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Wooden-Slat Cafe Chair",
+      "universe": "nonDisneyRelated",
+      "categories": ["seating"],
+      "furnitureZones": ["outdoors"],
+      "style": ["traditional", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Wooden-Slat Cafe Table",
+      "universe": "nonDisneyRelated",
+      "categories": ["tables"],
+      "furnitureZones": ["outdoors"],
+      "style": ["traditional", "cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Butterfly Topiary",
+      "universe": "moana",
+      "categories": ["foliage"],
+      "furnitureZones": ["outdoors"],
+      "style": ["cute", "traditional"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    }
   ],
   "clothing": [
     {
@@ -1176,7 +1212,7 @@
     {
       "name": "Dark Fairy Ensemble",
       "universe": "sleepingBeauty",
-      "category": "unknown",
+      "category": "dresses",
       "style": [],
       "source": "'The Two Flames United' Story Quest - After Maleficent Level 7 Friendship Quest",
       "sourceCategory": ["quest"],
@@ -1221,6 +1257,34 @@
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
+    },
+    {
+      "name": "Joyful Jellyfish Hat",
+      "universe": "general",
+      "category": "hats",
+      "style": ["quirky"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Joyful Jellyfish Outfit",
+      "universe": "general",
+      "category": "dresses",
+      "style": ["quirky"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+
+    {
+      "name": "Once Upon a Dream Dress",
+      "universe": "sleepingBeauty",
+      "category": "dresses",
+      "style": ["cute", "traditional"],
+      "source": "Aurora Level 10 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "storybookVale"
     }
   ],
   "starPath": {
