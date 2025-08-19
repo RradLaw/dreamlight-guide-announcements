@@ -27,7 +27,7 @@
     {
       "lastUpdated": "2024-10-07",
       "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-      "version": [""],
+      "version": ["1.15.5"],
       "platform": "android",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -35,7 +35,7 @@
     {
       "lastUpdated": "2025-02-26",
       "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-      "version": [""],
+      "version": ["1.15.5"],
       "platform": "ios",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -76,7 +76,8 @@
         "1.15.0",
         "1.15.1",
         "1.15.2",
-        "1.15.3"
+        "1.15.3",
+        "1.15.4"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -117,7 +118,8 @@
         "1.15.0",
         "1.15.1",
         "1.15.2",
-        "1.15.3"
+        "1.15.3",
+        "1.15.4"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
