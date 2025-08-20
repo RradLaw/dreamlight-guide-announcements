@@ -861,6 +861,7 @@
       {
         "position": 1,
         "id": "RetroRoadtrip2025_Task01",
+        "displayName": "Uproot Night Thorns.",
         "amount": "10",
         "reward": 15,
         "description": [
@@ -874,6 +875,7 @@
       {
         "position": 2,
         "id": "RetroRoadtrip2025_Task02",
+        "displayName": "Practice MINE-fulness.",
         "amount": "5",
         "reward": 15,
         "description": []
@@ -881,6 +883,7 @@
       {
         "position": 3,
         "id": "RetroRoadtrip2025_Task03",
+        "displayName": "Tackle royal tasks.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -888,6 +891,7 @@
       {
         "position": 4,
         "id": "RetroRoadtrip2025_Task04",
+        "displayName": "Get crafty!",
         "amount": "3",
         "reward": 15,
         "description": []
@@ -895,6 +899,7 @@
       {
         "position": 5,
         "id": "RetroRoadtrip2025_Task06",
+        "displayName": "Whip up a 1-star meal.",
         "amount": "5",
         "reward": 20,
         "description": []
@@ -902,6 +907,7 @@
       {
         "position": 6,
         "id": "RetroRoadtrip2025_Task08",
+        "displayName": "Go fish!",
         "amount": "5",
         "reward": 15,
         "description": []
@@ -909,6 +915,7 @@
       {
         "position": 7,
         "id": "RetroRoadtrip2025_Task07",
+        "displayName": "Earn 5,000 Dreamlight.",
         "amount": "5k",
         "reward": 20,
         "description": []
@@ -916,6 +923,7 @@
       {
         "position": 8,
         "id": "RetroRoadtrip2025_Task09",
+        "displayName": "Dig anywhere in the Valley.",
         "amount": "15",
         "reward": 15,
         "description": []
@@ -923,6 +931,7 @@
       {
         "position": 9,
         "id": "RetroRoadtrip2025_Task10",
+        "displayName": "Pick the fruit that put Snow White to sleep.",
         "amount": "25",
         "reward": 20,
         "description": [{ "name": "Apple", "category": "ingredient" }]
@@ -930,6 +939,7 @@
       {
         "position": 10,
         "id": "RetroRoadtrip2025_Task12",
+        "displayName": "Mine precious gems with a Royal Tool.",
         "amount": "10",
         "reward": 20,
         "description": [
@@ -939,6 +949,7 @@
       {
         "position": 11,
         "id": "RetroRoadtrip2025_Task13",
+        "displayName": "Tackle royal tasks.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -946,6 +957,7 @@
       {
         "position": 12,
         "id": "RetroRoadtrip2025_Task14",
+        "displayName": "Sell Gems.",
         "amount": "5",
         "reward": 15,
         "description": []
@@ -953,6 +965,7 @@
       {
         "position": 13,
         "id": "RetroRoadtrip2025_Task16",
+        "displayName": "Cook any 2-star meal.",
         "amount": "10",
         "reward": 20,
         "description": []
@@ -960,6 +973,7 @@
       {
         "position": 14,
         "id": "RetroRoadtrip2025_Task17",
+        "displayName": "Catch fish somewhere Peaceful.",
         "amount": "10",
         "reward": 15,
         "description": [{ "name": "CatchXMeadowFishes", "category": "unknown" }]
@@ -967,6 +981,7 @@
       {
         "position": 15,
         "id": "RetroRoadtrip2025_Task15",
+        "displayName": "Pet your critter companion.",
         "amount": "5",
         "reward": 15,
         "description": []
@@ -974,6 +989,7 @@
       {
         "position": 16,
         "id": "RetroRoadtrip2025_Task18",
+        "displayName": "Gain 10,000 Star Coins.",
         "amount": "10k",
         "reward": 15,
         "description": []
@@ -981,6 +997,7 @@
       {
         "position": 17,
         "id": "RetroRoadtrip2025_Task49",
+        "displayName": "Uproot Night Thorns.",
         "amount": "10",
         "reward": 15,
         "description": [
@@ -994,6 +1011,7 @@
       {
         "position": 18,
         "id": "RetroRoadtrip2025_Task22",
+        "displayName": "Mine for blue gems.",
         "amount": "10",
         "reward": 20,
         "description": [
@@ -1007,6 +1025,7 @@
       {
         "position": 19,
         "id": "RetroRoadtrip2025_Task23",
+        "displayName": "Tackle royal tasks.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -1014,6 +1033,7 @@
       {
         "position": 20,
         "id": "RetroRoadtrip2025_Task24",
+        "displayName": "Dig for pottery material.",
         "amount": "20",
         "reward": 15,
         "description": [{ "name": "Clay", "category": "foraging" }]
@@ -1021,6 +1041,7 @@
       {
         "position": 21,
         "id": "RetroRoadtrip2025_Task26",
+        "displayName": "Cook a fairly fancy dinner.",
         "amount": "10",
         "reward": 20,
         "description": [
@@ -1030,6 +1051,7 @@
       {
         "position": 22,
         "id": "RetroRoadtrip2025_Task27",
+        "displayName": "Catch fish somewhere Dazzling.",
         "amount": "10",
         "reward": 15,
         "description": [{ "name": "CatchXBeachFishes", "category": "unknown" }]
@@ -1037,6 +1059,7 @@
       {
         "position": 23,
         "id": "RetroRoadtrip2025_Task25",
+        "displayName": "Sell seaweed.",
         "amount": "5",
         "reward": 15,
         "description": [{ "name": "Seaweed", "category": "fish" }]
@@ -1044,6 +1067,7 @@
       {
         "position": 24,
         "id": "RetroRoadtrip2025_Task28",
+        "displayName": "Complete Boutique challenges.",
         "amount": "1",
         "reward": 25,
         "description": []
@@ -1051,6 +1075,7 @@
       {
         "position": 25,
         "id": "RetroRoadtrip2025_Task32",
+        "displayName": "Mine for red gems.",
         "amount": "5",
         "reward": 20,
         "description": [
@@ -1062,6 +1087,7 @@
       {
         "position": 26,
         "id": "RetroRoadtrip2025_Task33",
+        "displayName": "Polish off some royal work.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -1069,6 +1095,7 @@
       {
         "position": 27,
         "id": "RetroRoadtrip2025_Task34",
+        "displayName": "Harvest Different Fruits.",
         "amount": "5",
         "reward": 15,
         "description": []
@@ -1076,6 +1103,7 @@
       {
         "position": 28,
         "id": "RetroRoadtrip2025_Task35",
+        "displayName": "Pick blue Flowers.",
         "amount": "20",
         "reward": 15,
         "description": []
@@ -1083,6 +1111,7 @@
       {
         "position": 29,
         "id": "RetroRoadtrip2025_Task36",
+        "displayName": "Cook a fairly fancy appetizer.",
         "amount": "5",
         "reward": 20,
         "description": [
@@ -1092,6 +1121,7 @@
       {
         "position": 30,
         "id": "RetroRoadtrip2025_Task37",
+        "displayName": "Catch fish somewhere Valorous.",
         "amount": "10",
         "reward": 15,
         "description": [{ "name": "CatchXForestFishes", "category": "unknown" }]
@@ -1099,6 +1129,7 @@
       {
         "position": 31,
         "id": "RetroRoadtrip2025_Task38",
+        "displayName": "Sell items.",
         "amount": "20",
         "reward": 15,
         "description": []
@@ -1106,6 +1137,7 @@
       {
         "position": 32,
         "id": "RetroRoadtrip2025_Task39",
+        "displayName": "Earn 20,000 Star Coins.",
         "amount": "20k",
         "reward": 25,
         "description": []
@@ -1113,6 +1145,7 @@
       {
         "position": 33,
         "id": "RetroRoadtrip2025_Task44",
+        "displayName": "Uproot Night Thorns.",
         "amount": "10",
         "reward": 15,
         "description": [
@@ -1126,6 +1159,7 @@
       {
         "position": 34,
         "id": "RetroRoadtrip2025_Task42",
+        "displayName": "Mine for yellow gems.",
         "amount": "5",
         "reward": 20,
         "description": [
@@ -1136,6 +1170,7 @@
       {
         "position": 35,
         "id": "RetroRoadtrip2025_Task43",
+        "displayName": "Complete some Royal Work.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -1143,6 +1178,7 @@
       {
         "position": 36,
         "id": "RetroRoadtrip2025_Task31",
+        "displayName": "Sell Fruit.",
         "amount": "15",
         "reward": 15,
         "description": []
@@ -1150,6 +1186,7 @@
       {
         "position": 37,
         "id": "RetroRoadtrip2025_Task45",
+        "displayName": "Buy Seeds from the Forgotten Lands.",
         "amount": "50",
         "reward": 20,
         "description": []
@@ -1157,6 +1194,7 @@
       {
         "position": 38,
         "id": "RetroRoadtrip2025_Task46",
+        "displayName": "Cook a fairly fancy dessert.",
         "amount": "3",
         "reward": 20,
         "description": [
@@ -1166,6 +1204,7 @@
       {
         "position": 39,
         "id": "RetroRoadtrip2025_Task47",
+        "displayName": "Catch fish somewhere Trustworthy.",
         "amount": "10",
         "reward": 15,
         "description": [{ "name": "Glade of Trust", "category": "unknown" }]
@@ -1173,6 +1212,7 @@
       {
         "position": 40,
         "id": "RetroRoadtrip2025_Task48",
+        "displayName": "Earn 7,500 Dreamlight.",
         "amount": "7.5k",
         "reward": 20,
         "description": []
@@ -1180,6 +1220,7 @@
       {
         "position": 41,
         "id": "RetroRoadtrip2025_Task21",
+        "displayName": "Harvest something white and fluffy.",
         "amount": "15",
         "reward": 15,
         "description": [{ "name": "Cotton", "category": "foraging" }]
@@ -1187,6 +1228,7 @@
       {
         "position": 42,
         "id": "RetroRoadtrip2025_Task52",
+        "displayName": "Mine for green gems.",
         "amount": "5",
         "reward": 20,
         "description": [
@@ -1198,6 +1240,7 @@
       {
         "position": 43,
         "id": "RetroRoadtrip2025_Task53",
+        "displayName": "Wrap up some royal tasks.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -1205,6 +1248,7 @@
       {
         "position": 44,
         "id": "RetroRoadtrip2025_Task54",
+        "displayName": "Craft a potion you can really \"dig.\"",
         "amount": "1",
         "reward": 25,
         "description": [
@@ -1218,6 +1262,7 @@
       {
         "position": 45,
         "id": "RetroRoadtrip2025_Task55",
+        "displayName": "Take a picture of Scrooge's Store.",
         "amount": "1",
         "reward": 15,
         "description": []
@@ -1225,6 +1270,7 @@
       {
         "position": 46,
         "id": "RetroRoadtrip2025_Task56",
+        "displayName": "Open up fresh Memories.",
         "amount": "5",
         "reward": 20,
         "description": []
@@ -1232,6 +1278,7 @@
       {
         "position": 47,
         "id": "RetroRoadtrip2025_Task57",
+        "displayName": "Fish somewhere that's always Sunlit.",
         "amount": "10",
         "reward": 15,
         "description": [{ "name": "Sunlit Plateau", "category": "unknown" }]
@@ -1239,6 +1286,7 @@
       {
         "position": 48,
         "id": "RetroRoadtrip2025_Task60",
+        "displayName": "Uproot Night Thorns.",
         "amount": "10",
         "reward": 15,
         "description": [
@@ -1252,6 +1300,7 @@
       {
         "position": 49,
         "id": "RetroRoadtrip2025_Task61",
+        "displayName": "Mine for purple gems.",
         "amount": "5",
         "reward": 15,
         "description": [{ "name": "Amethyst", "category": "gem" }]
@@ -1259,6 +1308,7 @@
       {
         "position": 50,
         "id": "RetroRoadtrip2025_Task62",
+        "displayName": "Tackle royal tasks.",
         "amount": "3",
         "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -1266,6 +1316,7 @@
       {
         "position": 51,
         "id": "RetroRoadtrip2025_Task65",
+        "displayName": "Sell Fish.",
         "amount": "20",
         "reward": 15,
         "description": []
@@ -1273,6 +1324,7 @@
       {
         "position": 52,
         "id": "RetroRoadtrip2025_Task64",
+        "displayName": "Talk with a joyful Emotion.",
         "amount": "1",
         "reward": 15,
         "discuss": true,
@@ -1281,6 +1333,7 @@
       {
         "position": 53,
         "id": "RetroRoadtrip2025_Task66",
+        "displayName": "Cook a perfect appetizer.",
         "amount": "3",
         "reward": 20,
         "description": [
@@ -1290,6 +1343,7 @@
       {
         "position": 54,
         "id": "RetroRoadtrip2025_Task67",
+        "displayName": "Fish somewhere Frosty.",
         "amount": "",
         "reward": 0,
         "description": [{ "name": "Frosted Heights", "category": "unknown" }]
@@ -1297,6 +1351,7 @@
       {
         "position": 55,
         "id": "RetroRoadtrip2025_Task68",
+        "displayName": "Spend time with a joyful Emotion.",
         "amount": "",
         "reward": 0,
         "description": [{ "name": "InsideOut!Joy", "category": "character" }]
@@ -1304,6 +1359,7 @@
       {
         "position": 56,
         "id": "RetroRoadtrip2025_Task69",
+        "displayName": "Dig up a root vegetable with many eyes.",
         "amount": "",
         "reward": 0,
         "description": [{ "name": "Potato", "category": "ingredient" }]
@@ -1311,6 +1367,7 @@
       {
         "position": 57,
         "id": "RetroRoadtrip2025_Task72",
+        "displayName": "Mine for white gems.",
         "amount": "",
         "reward": 0,
         "description": [
@@ -1321,6 +1378,7 @@
       {
         "position": 58,
         "id": "RetroRoadtrip2025_Task73",
+        "displayName": "Tackle royal tasks.",
         "amount": "",
         "reward": 0,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
@@ -1328,6 +1386,7 @@
       {
         "position": 59,
         "id": "RetroRoadtrip2025_Task74",
+        "displayName": "Talk with a sorrowful Emotion.",
         "amount": "",
         "reward": 0,
         "discuss": true,
@@ -1338,6 +1397,7 @@
       {
         "position": 60,
         "id": "RetroRoadtrip2025_Task75",
+        "displayName": "Craft any refinement item.",
         "amount": "",
         "reward": 0,
         "description": []
@@ -1345,6 +1405,7 @@
       {
         "position": 61,
         "id": "RetroRoadtrip2025_Task76",
+        "displayName": "Cook a perfect dessert.",
         "amount": "",
         "reward": 0,
         "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
@@ -1352,6 +1413,7 @@
       {
         "position": 62,
         "id": "RetroRoadtrip2025_Task77",
+        "displayName": "Fish somewhere Forgotten.",
         "amount": "",
         "reward": 0,
         "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
@@ -1359,6 +1421,7 @@
       {
         "position": 63,
         "id": "RetroRoadtrip2025_Task78",
+        "displayName": "Spend time with a sorrowful Emotion.",
         "amount": "",
         "reward": 0,
         "description": [
@@ -1368,6 +1431,7 @@
       {
         "position": 64,
         "id": "RetroRoadtrip2025_Task79",
+        "displayName": "Mine for square gems.",
         "amount": "",
         "reward": 0,
         "description": [
@@ -1382,6 +1446,7 @@
       {
         "position": 65,
         "id": "RetroRoadtrip2025_Task80",
+        "displayName": "Collect some shoreline shellfish.",
         "amount": "",
         "reward": 0,
         "description": []
