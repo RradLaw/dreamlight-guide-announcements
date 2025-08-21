@@ -514,7 +514,7 @@
     },
     {
       "name": "Headquarters Wallpaper",
-      "universe": "nonDisneyRelated",
+      "universe": "insideOut",
       "categories": ["wallpaper"],
       "source": "",
       "sourceCategory": ["unknown"],
@@ -522,7 +522,7 @@
     },
     {
       "name": "Headquarters Carpet",
-      "universe": "nonDisneyRelated",
+      "universe": "insideOut",
       "categories": ["floors"],
       "source": "",
       "sourceCategory": ["unknown"],
