@@ -348,25 +348,25 @@
       "name": "Wooden Orchard Chair",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Orchard Lavender Vase",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Wooden Orchard Table",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Basic Plush Bear",
@@ -436,7 +436,7 @@
       "name": "Headquarters Wallpaper",
       "universe": "insideOut",
       "categories": ["wallpaper"],
-      "style": "bold",
+      "style": ["bold"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "dreamlightValley"
@@ -445,7 +445,7 @@
       "name": "Headquarters Carpet",
       "universe": "insideOut",
       "categories": ["floors"],
-      "style": "bold",
+      "style": ["bold"],
       "source": "scroogesStore",
       "sourceCategory": ["scroogesStore"],
       "collection": "dreamlightValley"
@@ -615,9 +615,9 @@
       "name": "Fog Horns Hockey Uniform",
       "universe": "insideOut",
       "category": "costumes",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "'Embrace the Blues' Special Task",
+      "sourceCategory": ["achievements"],
+      "collection": "unknown"
     },
     {
       "name": "Joyful Retro Outfit",
@@ -711,9 +711,9 @@
       "name": "Hockey Stick",
       "category": "accessories",
       "universe": "insideOut",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "'Spark Joy' Special Task",
+      "sourceCategory": ["achievements"],
+      "collection": "untracked"
     },
     {
       "name": "King Triton's Trident",
