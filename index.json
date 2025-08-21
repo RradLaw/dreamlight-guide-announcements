@@ -1361,24 +1361,24 @@
         "position": 55,
         "id": "RetroRoadtrip2025_Task68",
         "displayName": "Spend time with a joyful Emotion.",
-        "amount": "",
-        "reward": 0,
+        "amount": "20 min",
+        "reward": 30,
         "description": [{ "name": "InsideOut!Joy", "category": "character" }]
       },
       {
         "position": 56,
         "id": "RetroRoadtrip2025_Task69",
         "displayName": "Dig up a root vegetable with many eyes.",
-        "amount": "",
-        "reward": 0,
+        "amount": "15",
+        "reward": 20,
         "description": [{ "name": "Potato", "category": "ingredient" }]
       },
       {
         "position": 57,
         "id": "RetroRoadtrip2025_Task72",
         "displayName": "Mine for white gems.",
-        "amount": "",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "description": [
           { "name": "Diamond", "category": "gem" },
           { "name": "Opal", "category": "gem" }
@@ -1388,16 +1388,16 @@
         "position": 58,
         "id": "RetroRoadtrip2025_Task73",
         "displayName": "Tackle royal tasks.",
-        "amount": "",
-        "reward": 0,
+        "amount": "3",
+        "reward": 20,
         "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
       },
       {
         "position": 59,
         "id": "RetroRoadtrip2025_Task74",
         "displayName": "Talk with a sorrowful Emotion.",
-        "amount": "",
-        "reward": 0,
+        "amount": "1",
+        "reward": 15,
         "discuss": true,
         "description": [
           { "name": "InsideOut!Sadness", "category": "character" }
@@ -1407,32 +1407,32 @@
         "position": 60,
         "id": "RetroRoadtrip2025_Task75",
         "displayName": "Craft any refinement item.",
-        "amount": "",
-        "reward": 0,
+        "amount": "15",
+        "reward": 20,
         "description": []
       },
       {
         "position": 61,
         "id": "RetroRoadtrip2025_Task76",
         "displayName": "Cook a perfect dessert.",
-        "amount": "",
-        "reward": 0,
+        "amount": "3",
+        "reward": 20,
         "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
       },
       {
         "position": 62,
         "id": "RetroRoadtrip2025_Task77",
         "displayName": "Fish somewhere Forgotten.",
-        "amount": "",
-        "reward": 0,
+        "amount": "10",
+        "reward": 15,
         "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
       },
       {
         "position": 63,
         "id": "RetroRoadtrip2025_Task78",
         "displayName": "Spend time with a sorrowful Emotion.",
-        "amount": "",
-        "reward": 0,
+        "amount": "20min",
+        "reward": 30,
         "description": [
           { "name": "InsideOut!Sadness", "category": "character" }
         ]
@@ -1441,8 +1441,8 @@
         "position": 64,
         "id": "RetroRoadtrip2025_Task79",
         "displayName": "Mine for square gems.",
-        "amount": "",
-        "reward": 0,
+        "amount": "5",
+        "reward": 20,
         "description": [
           { "name": "Amethyst", "category": "gem" },
           { "name": "Emerald", "category": "gem" },
@@ -1456,10 +1456,72 @@
         "position": 65,
         "id": "RetroRoadtrip2025_Task80",
         "displayName": "Collect some shoreline shellfish.",
-        "amount": "",
-        "reward": 0,
+        "amount": "10",
+        "reward": 15,
+        "description": []
+      },
+      {
+        "position": 66,
+        "id": "RetroRoadtrip2025_Task05",
+        "displayName": "Give the Sea Turtle critter their favorite food.",
+        "amount": "5",
+        "reward": 15,
+        "description": [
+          { "name": "Seaweed", "category": "fish" }
+        ]
+      },
+      {
+        "position": 67,
+        "id": "RetroRoadtrip2025_Task11",
+        "displayName": "Mine for oval gems.",
+        "amount": "5",
+        "reward": 20,
+        "description": [
+          { "name": "Aquamarine", "category": "gem" },
+          { "name": "Citrine", "category": "gem" },
+          { "name": "Garnet", "category": "gem" },
+          { "name": "Peridot", "category": "gem" },
+          { "name": "Tourmaline", "category": "gem" },
+          { "name": "Blue Zircon", "category": "gem" }
+        ]
+      },
+      {
+        "position": 68,
+        "id": "RetroRoadtrip2025_Task19",
+        "displayName": "Cast around for seafood.",
+        "amount": "15",
+        "reward": 20,
+        "description": [
+          { "name": "CatchXSeafood", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 69,
+        "id": "RetroRoadtrip2025_Task20",
+        "displayName": "Feed the Sunbirds their favorite food.",
+        "amount": "5",
+        "reward": 20,
+        "description": [
+          { "name": "flowers", "category": "unknown" }
+        ]
+      },
+      {
+        "position": 70,
+        "id": "RetroRoadtrip2025_Task29",
+        "displayName": "Mine for something shiny.",
+        "amount": "5",
+        "reward": 15,
+        "description": []
+      },
+      {
+        "position": 71,
+        "id": "RetroRoadtrip2025_Task30",
+        "displayName": "Catch fish in gold ripples.",
+        "amount": "5",
+        "reward": 25,
         "description": []
       }
+      
     ]
   }
 }
