@@ -215,14 +215,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Miniature Glowing Sun",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Headquarters Bunk Beds",
       "universe": "insideOut",
       "categories": ["unknown"],
@@ -516,16 +508,18 @@
       "name": "Headquarters Wallpaper",
       "universe": "insideOut",
       "categories": ["wallpaper"],
-      "source": "",
-      "sourceCategory": ["unknown"],
+      "style": "bold",
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "dreamlightValley"
     },
     {
       "name": "Headquarters Carpet",
       "universe": "insideOut",
       "categories": ["floors"],
-      "source": "",
-      "sourceCategory": ["unknown"],
+      "style": "bold",
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
       "collection": "dreamlightValley"
     },
     {
@@ -592,7 +586,17 @@
       "source": "Joy Level 2",
       "sourceCategory": ["friendship"],
       "collection": "dreamlightValley"
-    }
+    },
+  {
+    "name": "Miniature Glowing Sun",
+    "universe": "insideOut",
+    "categories": ["unknown"],
+    "furnitureZones": ["livingRoom", "study", "recRoom", "outdoors"],
+    "style": ["cute"],
+    "source": "scroogesStore",
+    "sourceCategory": ["scroogesStore"],
+    "collection": "unknown"
+  }
   ],
   "clothing": [
     {
