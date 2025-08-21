@@ -212,9 +212,9 @@
       "name": "Headquarters Window",
       "universe": "insideOut",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "Sadness Level 8",
+      "sourceCategory": ["friendship"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Headquarters Bunk Beds",
@@ -268,9 +268,9 @@
       "name": "Memory Viewer",
       "universe": "insideOut",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "Joy Level 8",
+      "sourceCategory": ["friendship"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Hopps Family Farm Stand",
@@ -549,16 +549,16 @@
       "name": "Sense of Self Lamp",
       "universe": "insideOut",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
+      "source": "Sadness Level 2",
+      "sourceCategory": ["friendship"],
       "collection": "dreamlightValley"
     },
     {
       "name": "Headquarters Book Nook",
       "universe": "insideOut",
       "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
+      "source": "Sadness Level 5",
+      "sourceCategory": ["friendship"],
       "collection": "dreamlightValley"
     },
     {
@@ -602,15 +602,16 @@
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
-    },
-    {
-      "name": "Crying Glasses",
-      "universe": "insideOut",
-      "category": "glasses",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
+  },
+  {
+    "name": "Crying Glasses",
+    "universe": "insideOut",
+    "category": "glasses",
+    "style": ["modern", "casual", "cute", "quirky"],
+    "source": "Sadness Level 2 Quest",
+    "sourceCategory": ["quest"],
+    "collection": "untracked"
+  },
     {
       "name": "Fog Horns Hockey Uniform",
       "universe": "insideOut",
@@ -623,25 +624,25 @@
       "name": "Joyful Retro Outfit",
       "universe": "insideOut",
       "category": "costumes",
-      "source": "",
+      "source": "Joy Level 10 Quest",
       "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "collection": "unknown"
     },
     {
       "name": "Joyful Retro Hat",
       "universe": "insideOut",
       "category": "hats",
-      "source": "",
+      "source": "Joy Level 10 Quest",
       "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "collection": "unknown"
     },
     {
       "name": "\"In Your Feelings\" Overalls",
       "universe": "insideOut",
       "category": "costumes",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "Sadness Level 10 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "unknown"
     },
     {
       "name": "Black Sequin Dress",
@@ -727,9 +728,9 @@
       "name": "Go Go Glow Light Stick",
       "category": "accessories",
       "universe": "general",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "Inside Out Realm Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
     },
     {
       "name": "Vintage Feels Handbag",
