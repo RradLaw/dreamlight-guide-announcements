@@ -199,22 +199,6 @@
       "collection": "unknown"
     },
     {
-      "name": "Anti-Anxiety Armchair",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Anti-Anxiety Coffee Table",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Memorable Rug",
       "universe": "insideOut",
       "categories": ["unknown"],
@@ -248,30 +232,6 @@
     },
     {
       "name": "Headquarters Book Nook",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Ceiling Fan",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Dials",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Alcove Lights",
       "universe": "insideOut",
       "categories": ["unknown"],
       "source": "",
@@ -319,22 +279,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Good Memories Jukebox",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Memory Orb Transport Cart",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Memory Transport Tube",
       "universe": "insideOut",
       "categories": ["unknown"],
@@ -344,14 +288,6 @@
     },
     {
       "name": "Memory Viewer",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Retro Couch",
       "universe": "insideOut",
       "categories": ["unknown"],
       "source": "",
@@ -423,28 +359,12 @@
       "collection": "unknown"
     },
     {
-      "name": "Red Retro Diner Bench",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
-    },
-    {
       "name": "Red Retro Diner Chair",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
       "collection": "dreamlightValley"
-    },
-    {
-      "name": "Retro Diner Table",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
     },
     {
       "name": "Flying Purple Butterflies",
@@ -559,22 +479,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Headquarters Carpet",
-      "universe": "nonDisneyRelated",
-      "categories": ["floors"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Wallpaper",
-      "universe": "nonDisneyRelated",
-      "categories": ["wallpaper"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "V8 Cafe Tiles",
       "universe": "nonDisneyRelated",
       "categories": ["floors"],
@@ -589,6 +493,105 @@
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
       "collection": "unknown"
+    },
+
+    {
+      "name": "Headquarters Retro Couch",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "",
+      "sourceCategory": ["unknown"],
+      "collection": "dreamlightValley",
+      "notes": "Post 1.16.0"
+    },
+    {
+      "name": "Headquarters Ceiling Fan",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "",
+      "sourceCategory": ["unknown"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Headquarters Wallpaper",
+      "universe": "nonDisneyRelated",
+      "categories": ["wallpaper"],
+      "source": "",
+      "sourceCategory": ["unknown"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Headquarters Carpet",
+      "universe": "nonDisneyRelated",
+      "categories": ["floors"],
+      "source": "",
+      "sourceCategory": ["unknown"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Retro Diner Table",
+      "universe": "nonDisneyRelated",
+      "categories": ["unknown"],
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Good Memories Jukebox",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Red Retro Diner Bench",
+      "universe": "nonDisneyRelated",
+      "categories": ["unknown"],
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "dreamlightValley"
+    },
+
+    {
+      "name": "Memory Orb Transport Cart",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Headquarters Alcove Lights",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["other"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Anti-Anxiety Armchair",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["other"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Anti-Anxiety Coffee Table",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["other"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Headquarters Dials",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "Joy Level 2",
+      "sourceCategory": ["friendship"],
+      "collection": "dreamlightValley"
     }
   ],
   "clothing": [
@@ -657,14 +660,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Mind Worker Helmet",
-      "universe": "insideOut",
-      "category": "hats",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "\"In Your Feelings\" Overalls",
       "universe": "insideOut",
       "category": "costumes",
@@ -708,22 +703,6 @@
       "name": "Web Witch Dress",
       "universe": "general",
       "category": "dresses",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Joyful Flower Sunglasses",
-      "universe": "general",
-      "category": "glasses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Mind Worker Gloves",
-      "universe": "general",
-      "category": "gloves",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
@@ -797,14 +776,6 @@
       "collection": "unknown"
     },
     {
-      "name": "Retro Summer Dress",
-      "universe": "general",
-      "category": "dresses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
-    },
-    {
       "name": "Green Retro Summer Dress",
       "universe": "general",
       "category": "dresses",
@@ -851,6 +822,39 @@
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
       "collection": "unknown"
+    },
+    {
+      "name": "Joyful Flower Sunglasses",
+      "universe": "general",
+      "category": "glasses",
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "dreamlightValley",
+      "notes": "Post 1.16.0"
+    },
+    {
+      "name": "Retro Summer Dress",
+      "universe": "general",
+      "category": "dresses",
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Mind Worker Gloves",
+      "universe": "general",
+      "category": "gloves",
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Mind Worker Helmet",
+      "universe": "insideOut",
+      "category": "hats",
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
     }
   ],
   "starPath": {
@@ -869,7 +873,9 @@
           {
             "name": "Expansion01!RemoveXDreamlightCracks",
             "category": "unknown"
-          }
+          },
+
+          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
         ]
       },
       {
@@ -1005,7 +1011,8 @@
           {
             "name": "Expansion01!RemoveXDreamlightCracks",
             "category": "unknown"
-          }
+          },
+          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
         ]
       },
       {
@@ -1153,7 +1160,8 @@
           {
             "name": "Expansion01!RemoveXDreamlightCracks",
             "category": "unknown"
-          }
+          },
+          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
         ]
       },
       {
@@ -1294,7 +1302,8 @@
           {
             "name": "Expansion01!RemoveXDreamlightCracks",
             "category": "unknown"
-          }
+          },
+          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
         ]
       },
       {
