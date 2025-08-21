@@ -27,7 +27,7 @@
     {
       "lastUpdated": "2024-10-07",
       "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-      "version": ["1.15.5"],
+      "version": [""],
       "platform": "android",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -35,7 +35,7 @@
     {
       "lastUpdated": "2025-02-26",
       "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-      "version": ["1.15.5"],
+      "version": [""],
       "platform": "ios",
       "storeLink": "",
       "link": "https://discord.gg/4kb4PRq7z8"
@@ -77,7 +77,8 @@
         "1.15.1",
         "1.15.2",
         "1.15.3",
-        "1.15.4"
+        "1.15.4",
+        "1.15.5"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -119,7 +120,8 @@
         "1.15.1",
         "1.15.2",
         "1.15.3",
-        "1.15.4"
+        "1.15.4",
+        "1.15.5"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
@@ -164,7 +166,7 @@
       "categories": ["unknown"],
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Retro Snack Bar",
@@ -172,7 +174,7 @@
       "categories": ["unknown"],
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Blue Retro Diner Bench",
@@ -223,14 +225,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Headquarters Book Nook",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Headquarters Doorway",
       "universe": "insideOut",
       "categories": ["unknown"],
@@ -271,23 +265,7 @@
       "collection": "unavailable"
     },
     {
-      "name": "Memory Transport Tube",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Memory Viewer",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Sense of Self Lamp",
       "universe": "insideOut",
       "categories": ["unknown"],
       "source": "",
@@ -297,14 +275,6 @@
     {
       "name": "Hopps Family Farm Stand",
       "universe": "zootopia",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Dalmatian Dog House",
-      "universe": "dalmatians",
       "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
@@ -332,7 +302,7 @@
       "categories": ["unknown"],
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Blue Convertible Couch",
@@ -344,14 +314,6 @@
     },
     {
       "name": "Retro Drive-In Sign",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Red Retro Diner Chair",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
       "source": "Retro Roadtrip Star Path",
@@ -383,22 +345,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Retro Roadtrip Luggage",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Retro Movie Ticket Booth",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Wooden Orchard Chair",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
@@ -423,28 +369,12 @@
       "collection": "unavailable"
     },
     {
-      "name": "Drive-In Movie Screen",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
-    },
-    {
       "name": "Basic Plush Bear",
       "universe": "nonDisneyRelated",
       "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
-    },
-    {
-      "name": "Basic Cinema Poster",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
     },
     {
       "name": "Imagination Land Arch",
@@ -472,29 +402,27 @@
     },
     {
       "name": "V8 Cafe Tiles",
-      "universe": "nonDisneyRelated",
+      "universe": "cars",
       "categories": ["floors"],
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
-    {
-      "name": "V8 Cafe Wallpaper",
-      "universe": "nonDisneyRelated",
-      "categories": ["wallpaper"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
-    },
-
     {
       "name": "Headquarters Retro Couch",
       "universe": "insideOut",
       "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
-      "collection": "dreamlightValley",
-      "notes": "Post 1.16.0"
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "V8 Cafe Wallpaper",
+      "universe": "cars",
+      "categories": ["wallpaper"],
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Headquarters Ceiling Fan",
@@ -546,15 +474,6 @@
       "sourceCategory": ["starPath", "limitedTimeTag"],
       "collection": "dreamlightValley"
     },
-
-    {
-      "name": "Memory Orb Transport Cart",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
     {
       "name": "Headquarters Alcove Lights",
       "universe": "insideOut",
@@ -587,16 +506,69 @@
       "sourceCategory": ["friendship"],
       "collection": "dreamlightValley"
     },
-  {
-    "name": "Miniature Glowing Sun",
-    "universe": "insideOut",
-    "categories": ["unknown"],
-    "furnitureZones": ["livingRoom", "study", "recRoom", "outdoors"],
-    "style": ["cute"],
-    "source": "scroogesStore",
-    "sourceCategory": ["scroogesStore"],
-    "collection": "unknown"
-  }
+    {
+      "name": "Miniature Glowing Sun",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "furnitureZones": ["livingRoom", "study", "recRoom", "outdoors"],
+      "style": ["cute"],
+      "source": "scroogesStore",
+      "sourceCategory": ["scroogesStore"],
+      "collection": "unknown"
+    },
+    {
+      "name": "Dalmatian Dog House",
+      "universe": "dalmatians",
+      "categories": ["unknown"],
+      "furnitureZones": ["outdoors"],
+      "style": ["cute", "bold"],
+      "source": "Level 5 reward from Companion Lucky",
+      "sourceCategory": ["companion"],
+      "collection": "dreamlightValley"
+    },
+
+    {
+      "name": "Memory Orb Transport Cart",
+      "universe": "insideOut",
+      "categories": ["decor", "misc"],
+      "source": "Found in Inside Out Realm",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Memory Transport Tube",
+      "universe": "insideOut",
+      "categories": ["decor"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "Joy Level 5",
+      "sourceCategory": ["friendship"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Sense of Self Lamp",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "",
+      "sourceCategory": ["unknown"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Headquarters Book Nook",
+      "universe": "insideOut",
+      "categories": ["unknown"],
+      "source": "",
+      "sourceCategory": ["unknown"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Drive-In Movie Screen",
+      "universe": "nonDisneyRelated",
+      "categories": ["unknown"],
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "dreamlightValley"
+    }
   ],
   "clothing": [
     {
@@ -605,7 +577,7 @@
       "category": "dresses",
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Jaunty Bow Updo",
@@ -685,7 +657,7 @@
       "category": "tops",
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Web Witch Boots",
@@ -712,42 +684,6 @@
       "collection": "unavailable"
     },
     {
-      "name": "Orchard Harvest Skirt",
-      "universe": "general",
-      "category": "skirts",
-      "style": ["rustic", "traditional"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Orchard Harvest Trousers",
-      "universe": "general",
-      "category": "shorts",
-      "style": ["rustic", "traditional"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Orchard Harvest Boots",
-      "universe": "general",
-      "category": "shoes",
-      "style": ["rustic", "traditional"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Orchard Harvest Top",
-      "universe": "general",
-      "category": "tops",
-      "style": ["rustic", "traditional"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Forest Spirit Gown",
       "universe": "general",
       "category": "dresses",
@@ -764,28 +700,12 @@
       "collection": "unavailable"
     },
     {
-      "name": "Summer Feels Shorts",
-      "universe": "general",
-      "category": "shorts",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "\"Patchy\" Travel Backpack",
       "universe": "general",
       "category": "back",
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "unknown"
-    },
-    {
-      "name": "Green Retro Summer Dress",
-      "universe": "general",
-      "category": "dresses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Hockey Stick",
@@ -802,14 +722,6 @@
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
-    },
-    {
-      "name": "Orchard Harvester",
-      "category": "accessories",
-      "universe": "general",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "untracked"
     },
     {
       "name": "Go Go Glow Light Stick",
@@ -833,8 +745,7 @@
       "category": "glasses",
       "source": "Retro Roadtrip Star Path",
       "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley",
-      "notes": "Post 1.16.0"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Retro Summer Dress",
@@ -859,6 +770,14 @@
       "source": "Found in Inside Out Realm",
       "sourceCategory": ["quest"],
       "collection": "untracked"
+    },
+    {
+      "name": "Green Retro Summer Dress",
+      "universe": "general",
+      "category": "dresses",
+      "source": "Retro Roadtrip Star Path",
+      "sourceCategory": ["starPathPremium", "premiumTag"],
+      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
@@ -1126,7 +1045,7 @@
         "amount": "5",
         "reward": 20,
         "description": [
-          { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
+          { "name": "Cook 4-star or higher Appetizers", "category": "unknown" }
         ]
       },
       {
@@ -1210,7 +1129,7 @@
         "amount": "3",
         "reward": 20,
         "description": [
-          { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
+          { "name": "Cook 5-Star Desserts", "category": "unknown" }
         ]
       },
       {
@@ -1470,9 +1389,7 @@
         "displayName": "Give the Sea Turtle critter their favorite food.",
         "amount": "5",
         "reward": 15,
-        "description": [
-          { "name": "Seaweed", "category": "fish" }
-        ]
+        "description": [{ "name": "Seaweed", "category": "fish" }]
       },
       {
         "position": 67,
@@ -1495,9 +1412,7 @@
         "displayName": "Cast around for seafood.",
         "amount": "15",
         "reward": 20,
-        "description": [
-          { "name": "CatchXSeafood", "category": "unknown" }
-        ]
+        "description": [{ "name": "CatchXSeafood", "category": "unknown" }]
       },
       {
         "position": 69,
@@ -1505,9 +1420,7 @@
         "displayName": "Feed the Sunbirds their favorite food.",
         "amount": "5",
         "reward": 20,
-        "description": [
-          { "name": "flowers", "category": "unknown" }
-        ]
+        "description": [{ "name": "flowers", "category": "unknown" }]
       },
       {
         "position": 70,
@@ -1525,7 +1438,6 @@
         "reward": 25,
         "description": []
       }
-      
     ]
   }
 }
