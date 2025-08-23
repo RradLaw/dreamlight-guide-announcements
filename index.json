@@ -78,7 +78,8 @@
         "1.15.2",
         "1.15.3",
         "1.15.4",
-        "1.15.5"
+        "1.15.5",
+        "1.16.0"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -121,7 +122,8 @@
         "1.15.2",
         "1.15.3",
         "1.15.4",
-        "1.15.5"
+        "1.15.5",
+        "1.16.0"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
@@ -130,1315 +132,236 @@
   "furniture": [
     {
       "name": "Halloween Park Gate",
-      "universe": "disney",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Sandy Dream Castle",
-      "universe": "disney",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Sandy Skull Rock",
-      "universe": "disney",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Sandy Donald's House",
-      "universe": "disney",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Cozy Cone Motel Sign",
-      "universe": "cars",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Retro Snack Bar",
-      "universe": "cars",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Blue Retro Diner Bench",
-      "universe": "cars",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
       "collection": "unknown"
     },
     {
       "name": "Blue Retro Diner Chair",
-      "universe": "cars",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
       "collection": "unknown"
     },
     {
       "name": "Blue Retro Diner Table",
-      "universe": "cars",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
       "collection": "unknown"
     },
     {
       "name": "Memorable Rug",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Headquarters Window",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Sadness Level 8",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Headquarters Bunk Beds",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Headquarters Doorway",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Red Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Yellow Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Green Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Purple Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Memory Viewer",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Joy Level 8",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Hopps Family Farm Stand",
-      "universe": "zootopia",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Autumnal Clock Tower",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Luminous Butterfly Gazebo",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Convertible Couch",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Blue Convertible Couch",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
       "collection": "unknown"
     },
     {
-      "name": "Retro Drive-In Sign",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Flying Purple Butterflies",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Flying Blue Butterflies",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Flying Orange Butterflies",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Wooden Orchard Chair",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Orchard Lavender Vase",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Wooden Orchard Table",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Basic Plush Bear",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Imagination Land Arch",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Sadness's Pillow",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Fireworks",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "V8 Cafe Tiles",
-      "universe": "cars",
-      "categories": ["floors"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Headquarters Retro Couch",
-      "universe": "insideOut",
-      "categories": ["unknown"],
       "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "V8 Cafe Wallpaper",
-      "universe": "cars",
-      "categories": ["wallpaper"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Headquarters Ceiling Fan",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Headquarters Wallpaper",
-      "universe": "insideOut",
-      "categories": ["wallpaper"],
-      "style": ["bold"],
-      "source": "scroogesStore",
-      "sourceCategory": ["scroogesStore"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Headquarters Carpet",
-      "universe": "insideOut",
-      "categories": ["floors"],
-      "style": ["bold"],
-      "source": "scroogesStore",
-      "sourceCategory": ["scroogesStore"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Retro Diner Table",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Good Memories Jukebox",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Red Retro Diner Bench",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Headquarters Alcove Lights",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["other"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Anti-Anxiety Armchair",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["other"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Anti-Anxiety Coffee Table",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["other"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Headquarters Dials",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Joy Level 2",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
+      "sourceCategory": ["unknown"]
     },
     {
       "name": "Miniature Glowing Sun",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "furnitureZones": ["livingRoom", "study", "recRoom", "outdoors"],
-      "style": ["cute"],
-      "source": "scroogesStore",
-      "sourceCategory": ["scroogesStore"],
       "collection": "unknown"
-    },
-    {
-      "name": "Dalmatian Dog House",
-      "universe": "dalmatians",
-      "categories": ["unknown"],
-      "furnitureZones": ["outdoors"],
-      "style": ["cute", "bold"],
-      "source": "Level 5 reward from Companion Lucky",
-      "sourceCategory": ["companion"],
-      "collection": "dreamlightValley"
-    },
-
-    {
-      "name": "Memory Orb Transport Cart",
-      "universe": "insideOut",
-      "categories": ["decor", "misc"],
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Memory Transport Tube",
-      "universe": "insideOut",
-      "categories": ["decor"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "Joy Level 5",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Sense of Self Lamp",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Sadness Level 2",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Headquarters Book Nook",
-      "universe": "insideOut",
-      "categories": ["unknown"],
-      "source": "Sadness Level 5",
-      "sourceCategory": ["friendship"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Drive-In Movie Screen",
-      "universe": "nonDisneyRelated",
-      "categories": ["unknown"],
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
     }
   ],
   "clothing": [
     {
-      "name": "V8 Swing Dress",
-      "universe": "cars",
-      "category": "dresses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Jaunty Bow Updo",
-      "universe": "cars",
-      "category": "hairstyles",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Isabela Costume Dress",
-      "universe": "encanto",
-      "category": "dresses",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Isabela Ballet Flats",
-      "universe": "encanto",
-      "category": "shoes",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
   },
-  {
-    "name": "Crying Glasses",
-    "universe": "insideOut",
-    "category": "glasses",
-    "style": ["modern", "casual", "cute", "quirky"],
-    "source": "Sadness Level 2 Quest",
-    "sourceCategory": ["quest"],
-    "collection": "untracked"
-  },
     {
       "name": "Fog Horns Hockey Uniform",
-      "universe": "insideOut",
-      "category": "costumes",
-      "source": "'Embrace the Blues' Special Task",
-      "sourceCategory": ["achievements"],
       "collection": "unknown"
     },
     {
       "name": "Joyful Retro Outfit",
-      "universe": "insideOut",
-      "category": "costumes",
-      "source": "Joy Level 10 Quest",
-      "sourceCategory": ["unknown"],
       "collection": "unknown"
     },
     {
       "name": "Joyful Retro Hat",
-      "universe": "insideOut",
-      "category": "hats",
-      "source": "Joy Level 10 Quest",
-      "sourceCategory": ["unknown"],
       "collection": "unknown"
     },
     {
       "name": "\"In Your Feelings\" Overalls",
-      "universe": "insideOut",
-      "category": "costumes",
-      "source": "Sadness Level 10 Quest",
-      "sourceCategory": ["quest"],
       "collection": "unknown"
     },
     {
       "name": "Black Sequin Dress",
-      "universe": "general",
-      "category": "dresses",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Camera Vacation Shirt",
-      "universe": "general",
-      "category": "tops",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
       "name": "Web Witch Boots",
-      "universe": "general",
-      "category": "shoes",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Web Witch Hat",
-      "universe": "general",
-      "category": "hats",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Web Witch Dress",
-      "universe": "general",
-      "category": "dresses",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Forest Spirit Gown",
-      "universe": "general",
-      "category": "dresses",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
       "name": "Maple Key Wings",
-      "universe": "general",
-      "category": "back",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
-    },
-    {
-      "name": "\"Patchy\" Travel Backpack",
-      "universe": "general",
-      "category": "back",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Hockey Stick",
-      "category": "accessories",
-      "universe": "insideOut",
-      "source": "'Spark Joy' Special Task",
-      "sourceCategory": ["achievements"],
-      "collection": "untracked"
     },
     {
       "name": "King Triton's Trident",
-      "category": "accessories",
-      "universe": "theLittleMermaid",
       "source": "",
       "sourceCategory": ["unknown"],
       "collection": "unavailable"
     },
     {
-      "name": "Go Go Glow Light Stick",
-      "category": "accessories",
-      "universe": "general",
-      "source": "Inside Out Realm Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
       "name": "Vintage Feels Handbag",
-      "category": "accessories",
-      "universe": "general",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
       "collection": "unknown"
-    },
-    {
-      "name": "Joyful Flower Sunglasses",
-      "universe": "general",
-      "category": "glasses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Retro Summer Dress",
-      "universe": "general",
-      "category": "dresses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Mind Worker Gloves",
-      "universe": "general",
-      "category": "gloves",
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Mind Worker Helmet",
-      "universe": "insideOut",
-      "category": "hats",
-      "source": "Found in Inside Out Realm",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Green Retro Summer Dress",
-      "universe": "general",
-      "category": "dresses",
-      "source": "Retro Roadtrip Star Path",
-      "sourceCategory": ["starPathPremium", "premiumTag"],
-      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
     "name": "RetroRoadtrip2025",
     "startDate": "2025-08-20",
     "endDate": "2025-09-30",
-    "tasks": [
-      {
-        "position": 1,
-        "id": "RetroRoadtrip2025_Task01",
-        "displayName": "Uproot Night Thorns.",
-        "amount": "10",
-        "reward": 15,
-        "description": [
-          { "name": "Halloween2022_Task36", "category": "unknown" },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 2,
-        "id": "RetroRoadtrip2025_Task02",
-        "displayName": "Practice MINE-fulness.",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 3,
-        "id": "RetroRoadtrip2025_Task03",
-        "displayName": "Tackle royal tasks.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 4,
-        "id": "RetroRoadtrip2025_Task04",
-        "displayName": "Get crafty!",
-        "amount": "3",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 5,
-        "id": "RetroRoadtrip2025_Task06",
-        "displayName": "Whip up a 1-star meal.",
-        "amount": "5",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 6,
-        "id": "RetroRoadtrip2025_Task08",
-        "displayName": "Go fish!",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 7,
-        "id": "RetroRoadtrip2025_Task07",
-        "displayName": "Earn 5,000 Dreamlight.",
-        "amount": "5k",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 8,
-        "id": "RetroRoadtrip2025_Task09",
-        "displayName": "Dig anywhere in the Valley.",
-        "amount": "15",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 9,
-        "id": "RetroRoadtrip2025_Task10",
-        "displayName": "Pick the fruit that put Snow White to sleep.",
-        "amount": "25",
-        "reward": 20,
-        "description": [{ "name": "Apple", "category": "ingredient" }]
-      },
-      {
-        "position": 10,
-        "id": "RetroRoadtrip2025_Task12",
-        "displayName": "Mine precious gems with a Royal Tool.",
-        "amount": "10",
-        "reward": 20,
-        "description": [
-          { "name": "PixarFest2023_Task12", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 11,
-        "id": "RetroRoadtrip2025_Task13",
-        "displayName": "Tackle royal tasks.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 12,
-        "id": "RetroRoadtrip2025_Task14",
-        "displayName": "Sell Gems.",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 13,
-        "id": "RetroRoadtrip2025_Task16",
-        "displayName": "Cook any 2-star meal.",
-        "amount": "10",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 14,
-        "id": "RetroRoadtrip2025_Task17",
-        "displayName": "Catch fish somewhere Peaceful.",
-        "amount": "10",
-        "reward": 15,
-        "description": [{ "name": "CatchXMeadowFishes", "category": "unknown" }]
-      },
-      {
-        "position": 15,
-        "id": "RetroRoadtrip2025_Task15",
-        "displayName": "Pet your critter companion.",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 16,
-        "id": "RetroRoadtrip2025_Task18",
-        "displayName": "Gain 10,000 Star Coins.",
-        "amount": "10k",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 17,
-        "id": "RetroRoadtrip2025_Task49",
-        "displayName": "Uproot Night Thorns.",
-        "amount": "10",
-        "reward": 15,
-        "description": [
-          { "name": "Halloween2022_Task36", "category": "unknown" },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 18,
-        "id": "RetroRoadtrip2025_Task22",
-        "displayName": "Mine for blue gems.",
-        "amount": "10",
-        "reward": 20,
-        "description": [
-          { "name": "Aquamarine", "category": "gem" },
-          { "name": "Sapphire", "category": "gem" },
-          { "name": "Blue Zircon", "category": "gem" },
-          { "name": "Star Sapphire", "category": "gem" },
-          { "name": "Pure Ice", "category": "gem" }
-        ]
-      },
-      {
-        "position": 19,
-        "id": "RetroRoadtrip2025_Task23",
-        "displayName": "Tackle royal tasks.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 20,
-        "id": "RetroRoadtrip2025_Task24",
-        "displayName": "Dig for pottery material.",
-        "amount": "20",
-        "reward": 15,
-        "description": [{ "name": "Clay", "category": "foraging" }]
-      },
-      {
-        "position": 21,
-        "id": "RetroRoadtrip2025_Task26",
-        "displayName": "Cook a fairly fancy dinner.",
-        "amount": "10",
-        "reward": 20,
-        "description": [
-          { "name": "Cook 4-star or higher Entrées", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 22,
-        "id": "RetroRoadtrip2025_Task27",
-        "displayName": "Catch fish somewhere Dazzling.",
-        "amount": "10",
-        "reward": 15,
-        "description": [{ "name": "CatchXBeachFishes", "category": "unknown" }]
-      },
-      {
-        "position": 23,
-        "id": "RetroRoadtrip2025_Task25",
-        "displayName": "Sell seaweed.",
-        "amount": "5",
-        "reward": 15,
-        "description": [{ "name": "Seaweed", "category": "fish" }]
-      },
-      {
-        "position": 24,
-        "id": "RetroRoadtrip2025_Task28",
-        "displayName": "Complete Boutique challenges.",
-        "amount": "1",
-        "reward": 25,
-        "description": []
-      },
-      {
-        "position": 25,
-        "id": "RetroRoadtrip2025_Task32",
-        "displayName": "Mine for red gems.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Garnet", "category": "gem" },
-          { "name": "Ruby", "category": "gem" },
-          { "name": "Spinel", "category": "gem" }
-        ]
-      },
-      {
-        "position": 26,
-        "id": "RetroRoadtrip2025_Task33",
-        "displayName": "Polish off some royal work.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 27,
-        "id": "RetroRoadtrip2025_Task34",
-        "displayName": "Harvest Different Fruits.",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 28,
-        "id": "RetroRoadtrip2025_Task35",
-        "displayName": "Pick blue Flowers.",
-        "amount": "20",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 29,
-        "id": "RetroRoadtrip2025_Task36",
-        "displayName": "Cook a fairly fancy appetizer.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Cook 4-star or higher Appetizers", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 30,
-        "id": "RetroRoadtrip2025_Task37",
-        "displayName": "Catch fish somewhere Valorous.",
-        "amount": "10",
-        "reward": 15,
-        "description": [{ "name": "CatchXForestFishes", "category": "unknown" }]
-      },
-      {
-        "position": 31,
-        "id": "RetroRoadtrip2025_Task38",
-        "displayName": "Sell items.",
-        "amount": "20",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 32,
-        "id": "RetroRoadtrip2025_Task39",
-        "displayName": "Earn 20,000 Star Coins.",
-        "amount": "20k",
-        "reward": 25,
-        "description": []
-      },
-      {
-        "position": 33,
-        "id": "RetroRoadtrip2025_Task44",
-        "displayName": "Uproot Night Thorns.",
-        "amount": "10",
-        "reward": 15,
-        "description": [
-          { "name": "Halloween2022_Task36", "category": "unknown" },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 34,
-        "id": "RetroRoadtrip2025_Task42",
-        "displayName": "Mine for yellow gems.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Topaz", "category": "gem" },
-          { "name": "Citrine", "category": "gem" }
-        ]
-      },
-      {
-        "position": 35,
-        "id": "RetroRoadtrip2025_Task43",
-        "displayName": "Complete some Royal Work.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 36,
-        "id": "RetroRoadtrip2025_Task31",
-        "displayName": "Sell Fruit.",
-        "amount": "15",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 37,
-        "id": "RetroRoadtrip2025_Task45",
-        "displayName": "Buy Seeds from the Forgotten Lands.",
-        "amount": "50",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 38,
-        "id": "RetroRoadtrip2025_Task46",
-        "displayName": "Cook a fairly fancy dessert.",
-        "amount": "3",
-        "reward": 20,
-        "description": [
-          { "name": "Cook 5-Star Desserts", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 39,
-        "id": "RetroRoadtrip2025_Task47",
-        "displayName": "Catch fish somewhere Trustworthy.",
-        "amount": "10",
-        "reward": 15,
-        "description": [{ "name": "Glade of Trust", "category": "unknown" }]
-      },
-      {
-        "position": 40,
-        "id": "RetroRoadtrip2025_Task48",
-        "displayName": "Earn 7,500 Dreamlight.",
-        "amount": "7.5k",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 41,
-        "id": "RetroRoadtrip2025_Task21",
-        "displayName": "Harvest something white and fluffy.",
-        "amount": "15",
-        "reward": 15,
-        "description": [{ "name": "Cotton", "category": "foraging" }]
-      },
-      {
-        "position": 42,
-        "id": "RetroRoadtrip2025_Task52",
-        "displayName": "Mine for green gems.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Peridot", "category": "gem" },
-          { "name": "Emerald", "category": "gem" },
-          { "name": "Jade", "category": "gem" }
-        ]
-      },
-      {
-        "position": 43,
-        "id": "RetroRoadtrip2025_Task53",
-        "displayName": "Wrap up some royal tasks.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 44,
-        "id": "RetroRoadtrip2025_Task54",
-        "displayName": "Craft a potion you can really \"dig.\"",
-        "amount": "1",
-        "reward": 25,
-        "description": [
-          {
-            "name": "Even More Miraculous Shovel Varnish",
-            "category": "crafting"
-          },
-          { "name": "Miracle Shovel Varnish", "category": "crafting" }
-        ]
-      },
-      {
-        "position": 45,
-        "id": "RetroRoadtrip2025_Task55",
-        "displayName": "Take a picture of Scrooge's Store.",
-        "amount": "1",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 46,
-        "id": "RetroRoadtrip2025_Task56",
-        "displayName": "Open up fresh Memories.",
-        "amount": "5",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 47,
-        "id": "RetroRoadtrip2025_Task57",
-        "displayName": "Fish somewhere that's always Sunlit.",
-        "amount": "10",
-        "reward": 15,
-        "description": [{ "name": "Sunlit Plateau", "category": "unknown" }]
-      },
-      {
-        "position": 48,
-        "id": "RetroRoadtrip2025_Task60",
-        "displayName": "Uproot Night Thorns.",
-        "amount": "10",
-        "reward": 15,
-        "description": [
-          { "name": "Halloween2022_Task36", "category": "unknown" },
-          {
-            "name": "Expansion01!RemoveXDreamlightCracks",
-            "category": "unknown"
-          },
-          { "name": "Expansion02!RemoveXInkies", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 49,
-        "id": "RetroRoadtrip2025_Task61",
-        "displayName": "Mine for purple gems.",
-        "amount": "5",
-        "reward": 15,
-        "description": [{ "name": "Amethyst", "category": "gem" }]
-      },
-      {
-        "position": 50,
-        "id": "RetroRoadtrip2025_Task62",
-        "displayName": "Tackle royal tasks.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 51,
-        "id": "RetroRoadtrip2025_Task65",
-        "displayName": "Sell Fish.",
-        "amount": "20",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 52,
-        "id": "RetroRoadtrip2025_Task64",
-        "displayName": "Talk with a joyful Emotion.",
-        "amount": "1",
-        "reward": 15,
-        "discuss": true,
-        "description": [{ "name": "InsideOut!Joy", "category": "character" }]
-      },
-      {
-        "position": 53,
-        "id": "RetroRoadtrip2025_Task66",
-        "displayName": "Cook a perfect appetizer.",
-        "amount": "3",
-        "reward": 20,
-        "description": [
-          { "name": "Cook 5-Star Appetizers", "category": "unknown" }
-        ]
-      },
-      {
-        "position": 54,
-        "id": "RetroRoadtrip2025_Task67",
-        "displayName": "Fish somewhere Frosty.",
-        "amount": "",
-        "reward": 0,
-        "description": [{ "name": "Frosted Heights", "category": "unknown" }]
-      },
-      {
-        "position": 55,
-        "id": "RetroRoadtrip2025_Task68",
-        "displayName": "Spend time with a joyful Emotion.",
-        "amount": "20 min",
-        "reward": 30,
-        "description": [{ "name": "InsideOut!Joy", "category": "character" }]
-      },
-      {
-        "position": 56,
-        "id": "RetroRoadtrip2025_Task69",
-        "displayName": "Dig up a root vegetable with many eyes.",
-        "amount": "15",
-        "reward": 20,
-        "description": [{ "name": "Potato", "category": "ingredient" }]
-      },
-      {
-        "position": 57,
-        "id": "RetroRoadtrip2025_Task72",
-        "displayName": "Mine for white gems.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Diamond", "category": "gem" },
-          { "name": "Opal", "category": "gem" }
-        ]
-      },
-      {
-        "position": 58,
-        "id": "RetroRoadtrip2025_Task73",
-        "displayName": "Tackle royal tasks.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "D1002022_Task11", "category": "unknown" }]
-      },
-      {
-        "position": 59,
-        "id": "RetroRoadtrip2025_Task74",
-        "displayName": "Talk with a sorrowful Emotion.",
-        "amount": "1",
-        "reward": 15,
-        "discuss": true,
-        "description": [
-          { "name": "InsideOut!Sadness", "category": "character" }
-        ]
-      },
-      {
-        "position": 60,
-        "id": "RetroRoadtrip2025_Task75",
-        "displayName": "Craft any refinement item.",
-        "amount": "15",
-        "reward": 20,
-        "description": []
-      },
-      {
-        "position": 61,
-        "id": "RetroRoadtrip2025_Task76",
-        "displayName": "Cook a perfect dessert.",
-        "amount": "3",
-        "reward": 20,
-        "description": [{ "name": "TBD2024_Task46", "category": "unknown" }]
-      },
-      {
-        "position": 62,
-        "id": "RetroRoadtrip2025_Task77",
-        "displayName": "Fish somewhere Forgotten.",
-        "amount": "10",
-        "reward": 15,
-        "description": [{ "name": "Forgotten Lands", "category": "unknown" }]
-      },
-      {
-        "position": 63,
-        "id": "RetroRoadtrip2025_Task78",
-        "displayName": "Spend time with a sorrowful Emotion.",
-        "amount": "20min",
-        "reward": 30,
-        "description": [
-          { "name": "InsideOut!Sadness", "category": "character" }
-        ]
-      },
-      {
-        "position": 64,
-        "id": "RetroRoadtrip2025_Task79",
-        "displayName": "Mine for square gems.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Amethyst", "category": "gem" },
-          { "name": "Emerald", "category": "gem" },
-          { "name": "Ruby", "category": "gem" },
-          { "name": "Topaz", "category": "gem" },
-          { "name": "Spinel", "category": "gem" },
-          { "name": "Sapphire", "category": "gem" }
-        ]
-      },
-      {
-        "position": 65,
-        "id": "RetroRoadtrip2025_Task80",
-        "displayName": "Collect some shoreline shellfish.",
-        "amount": "10",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 66,
-        "id": "RetroRoadtrip2025_Task05",
-        "displayName": "Give the Sea Turtle critter their favorite food.",
-        "amount": "5",
-        "reward": 15,
-        "description": [{ "name": "Seaweed", "category": "fish" }]
-      },
-      {
-        "position": 67,
-        "id": "RetroRoadtrip2025_Task11",
-        "displayName": "Mine for oval gems.",
-        "amount": "5",
-        "reward": 20,
-        "description": [
-          { "name": "Aquamarine", "category": "gem" },
-          { "name": "Citrine", "category": "gem" },
-          { "name": "Garnet", "category": "gem" },
-          { "name": "Peridot", "category": "gem" },
-          { "name": "Tourmaline", "category": "gem" },
-          { "name": "Blue Zircon", "category": "gem" }
-        ]
-      },
-      {
-        "position": 68,
-        "id": "RetroRoadtrip2025_Task19",
-        "displayName": "Cast around for seafood.",
-        "amount": "15",
-        "reward": 20,
-        "description": [{ "name": "CatchXSeafood", "category": "unknown" }]
-      },
-      {
-        "position": 69,
-        "id": "RetroRoadtrip2025_Task20",
-        "displayName": "Feed the Sunbirds their favorite food.",
-        "amount": "5",
-        "reward": 20,
-        "description": [{ "name": "flowers", "category": "unknown" }]
-      },
-      {
-        "position": 70,
-        "id": "RetroRoadtrip2025_Task29",
-        "displayName": "Mine for something shiny.",
-        "amount": "5",
-        "reward": 15,
-        "description": []
-      },
-      {
-        "position": 71,
-        "id": "RetroRoadtrip2025_Task30",
-        "displayName": "Catch fish in gold ripples.",
-        "amount": "5",
-        "reward": 25,
-        "description": []
-      }
-    ]
+    "tasks": []
   }
 }
