@@ -156,15 +156,15 @@
     },
     {
       "name": "Blue Retro Diner Bench",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Blue Retro Diner Chair",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Blue Retro Diner Table",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Memorable Rug",
@@ -210,9 +210,9 @@
     },
     {
       "name": "Hopps Family Farm Stand",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Autumnal Clock Tower",
@@ -228,25 +228,25 @@
     },
     {
       "name": "Blue Convertible Couch",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Flying Purple Butterflies",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Flying Blue Butterflies",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Flying Orange Butterflies",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Basic Plush Bear",
@@ -279,8 +279,46 @@
     },
     {
       "name": "Miniature Glowing Sun",
-      "collection": "unknown"
-    }
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Stone Tree Column",
+      "collection": "storybookVale"
+    },
+    {
+      "name":"Elegant Red Banquet Table — Middle",
+      "collection": "storybookVale"
+    },
+    {
+      "name":"Cozy Cone Motel Sign",
+      "collection": "dreamlightValley"
+    },
+
+  {
+    "name": "Bing Bong Plushie",
+    "source": "Crafted with hidden items in the Inside Out Realm. Tiny Bowtie, Tiny Bowler Hat, Everlasting Cotton Candy, Rainbow Energy, and Bright Bulb Lamp.",
+    "sourceCategory": ["starPath", "limitedTimeTag"],
+    "collection": "untracked",
+    "categories": ["decor", "misc"],
+    "furnitureZones": ["bedroom", "livingRoom", "recRoom"],
+    "style": ["cute", "quirky"],
+    "universe": "insideOut"
+  },
+    {
+      "name": "Giant String Lights",
+      "universe": "bugsLife"
+    },
+
+  {
+    "name": "Cozy Pillow Fort",
+    "universe": "insideOut",
+    "categories": ["decor"],
+    "furnitureZones": ["bedroom", "livingRoom"],
+    "style": ["cute"],
+    "source": "Sadness Level 4 Quest",
+    "sourceCategory": ["quest"],
+    "collection": "untracked"
+  }
   ],
   "clothing": [
     {
@@ -297,19 +335,19 @@
   },
     {
       "name": "Fog Horns Hockey Uniform",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Joyful Retro Outfit",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Joyful Retro Hat",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "\"In Your Feelings\" Overalls",
-      "collection": "unknown"
+      "collection": "dreamlightValley"
     },
     {
       "name": "Black Sequin Dress",
@@ -337,9 +375,9 @@
     },
     {
       "name": "Forest Spirit Gown",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     },
     {
       "name": "Maple Key Wings",
@@ -355,7 +393,7 @@
     },
     {
       "name": "Vintage Feels Handbag",
-      "collection": "unknown"
+      "collection": "untracked"
     }
   ],
   "starPath": {
