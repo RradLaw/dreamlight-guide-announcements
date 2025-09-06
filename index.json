@@ -131,30 +131,6 @@
   ],
   "furniture": [
     {
-      "name": "Halloween Park Gate",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Sandy Dream Castle",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Sandy Skull Rock",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Sandy Donald's House",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Blue Retro Diner Bench",
       "collection": "dreamlightValley"
     },
@@ -167,64 +143,10 @@
       "collection": "dreamlightValley"
     },
     {
-      "name": "Memorable Rug",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Bunk Beds",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Headquarters Doorway",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Red Decorative Memory",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Yellow Decorative Memory",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Green Decorative Memory",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Purple Decorative Memory",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Hopps Family Farm Stand",
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
-    },
-    {
-      "name": "Autumnal Clock Tower",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Luminous Butterfly Gazebo",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
     },
     {
       "name": "Blue Convertible Couch",
@@ -249,30 +171,6 @@
       "collection": "dreamlightValley"
     },
     {
-      "name": "Basic Plush Bear",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Imagination Land Arch",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Sadness's Pillow",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Fireworks",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Headquarters Retro Couch",
       "source": "",
       "sourceCategory": ["unknown"]
@@ -286,53 +184,126 @@
       "collection": "storybookVale"
     },
     {
-      "name":"Elegant Red Banquet Table — Middle",
+      "name": "Elegant Red Banquet Table — Middle",
       "collection": "storybookVale"
     },
     {
-      "name":"Cozy Cone Motel Sign",
+      "name": "Cozy Cone Motel Sign",
       "collection": "dreamlightValley"
     },
 
-  {
-    "name": "Bing Bong Plushie",
-    "source": "Crafted with hidden items in the Inside Out Realm. Tiny Bowtie, Tiny Bowler Hat, Everlasting Cotton Candy, Rainbow Energy, and Bright Bulb Lamp.",
-    "sourceCategory": ["starPath", "limitedTimeTag"],
-    "collection": "untracked",
-    "categories": ["decor", "misc"],
-    "furnitureZones": ["bedroom", "livingRoom", "recRoom"],
-    "style": ["cute", "quirky"],
-    "universe": "insideOut"
-  },
+    {
+      "name": "Bing Bong Plushie",
+      "source": "Crafted with hidden items in the Inside Out Realm. Tiny Bowtie, Tiny Bowler Hat, Everlasting Cotton Candy, Rainbow Energy, and Bright Bulb Lamp.",
+      "sourceCategory": ["starPath", "limitedTimeTag"],
+      "collection": "untracked",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["bedroom", "livingRoom", "recRoom"],
+      "style": ["cute", "quirky"],
+      "universe": "insideOut"
+    },
     {
       "name": "Giant String Lights",
       "universe": "bugsLife"
     },
 
-  {
-    "name": "Cozy Pillow Fort",
-    "universe": "insideOut",
-    "categories": ["decor"],
-    "furnitureZones": ["bedroom", "livingRoom"],
-    "style": ["cute"],
-    "source": "Sadness Level 4 Quest",
-    "sourceCategory": ["quest"],
-    "collection": "untracked"
-  }
-  ],
-  "clothing": [
     {
-      "name": "Isabela Costume Dress",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
+      "name": "Cozy Pillow Fort",
+      "universe": "insideOut",
+      "categories": ["decor"],
+      "furnitureZones": ["bedroom", "livingRoom"],
+      "style": ["cute"],
+      "source": "Sadness Level 4 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
     },
     {
-      "name": "Isabela Ballet Flats",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-  },
+      "name": "Rustic Cottage T-Beam",
+      "collection": "storybookVale"
+    },
+
+    {
+      "name": "Joy and Sadness's Fireworks",
+      "universe": "insideOut",
+      "categories": ["decor", "art"],
+      "furnitureZones": ["outdoors"],
+      "style": ["casual"],
+      "source": "Sadness Level 10 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Sadness's Pillow",
+      "universe": "insideOut",
+      "categories": ["utilities"],
+      "furnitureZones": [],
+      "style": [],
+      "source": "Sadness Level 4 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "New Comfort Bear",
+      "universe": "insideOut",
+      "categories": ["decor", "misc"],
+      "furnitureZones": ["bedroom", "recRoom"],
+      "style": ["cute"],
+      "source": "Sadness Level 10 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Imagination Land Arch",
+      "universe": "insideOut",
+      "categories": ["utilities"],
+      "furnitureZones": ["outdoors"],
+      "style": ["cute"],
+      "source": "Joy Level 7 Quest",
+      "sourceCategory": ["quest"],
+      "collection": "untracked"
+    },
+    {
+      "name": "Red Decorative Memory",
+      "universe": "insideOut",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
+      "style": ["cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Yellow Decorative Memory",
+      "universe": "insideOut",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
+      "style": ["cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Green Decorative Memory",
+      "universe": "insideOut",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
+      "style": ["cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Purple Decorative Memory",
+      "universe": "insideOut",
+      "categories": ["decor"],
+      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
+      "style": ["cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    }
+  ],
+  "clothing": [
     {
       "name": "Fog Horns Hockey Uniform",
       "collection": "dreamlightValley"
@@ -350,50 +321,33 @@
       "collection": "dreamlightValley"
     },
     {
-      "name": "Black Sequin Dress",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Web Witch Boots",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Web Witch Hat",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "Web Witch Dress",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Forest Spirit Gown",
       "source": "itemShop",
       "sourceCategory": ["itemShop", "premiumTag"],
       "collection": "dreamlightValley"
     },
     {
-      "name": "Maple Key Wings",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
-      "name": "King Triton's Trident",
-      "source": "",
-      "sourceCategory": ["unknown"],
-      "collection": "unavailable"
-    },
-    {
       "name": "Vintage Feels Handbag",
       "collection": "untracked"
+    },
+
+    {
+      "name": "Isabela Costume Dress",
+      "universe": "encanto",
+      "category": "dresses",
+      "style": ["cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
+    },
+    {
+      "name": "Isabela Ballet Flats",
+      "universe": "encanto",
+      "category": "shoes",
+      "style": ["cute"],
+      "source": "itemShop",
+      "sourceCategory": ["itemShop", "premiumTag"],
+      "collection": "dreamlightValley"
     }
   ],
   "starPath": {
