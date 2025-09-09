@@ -1,46 +1,6 @@
 {
   "announcements": [
     {
-      "lastUpdated": "2025-02-26",
-      "message": "The new app update is coming within the next 48 hours! Please join our Discord to stay up to date.",
-      "version": [""],
-      "platform": "android",
-      "storeLink": "",
-      "link": "https://discord.gg/4kb4PRq7z8"
-    },
-    {
-      "lastUpdated": "2024-10-07",
-      "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-      "version": [""],
-      "platform": "ios",
-      "storeLink": "",
-      "link": "https://discord.gg/4kb4PRq7z8"
-    },
-    {
-      "lastUpdated": "2025-07-09",
-      "message": "The new app update is coming soon. Please join our Discord to stay up to date.",
-      "version": [""],
-      "platform": "ios",
-      "storeLink": "",
-      "link": "https://discord.gg/4kb4PRq7z8"
-    },
-    {
-      "lastUpdated": "2024-10-07",
-      "message": "The new app update is coming within 24 hours of the game update! Please join our Discord to stay up to date.",
-      "version": [""],
-      "platform": "android",
-      "storeLink": "",
-      "link": "https://discord.gg/4kb4PRq7z8"
-    },
-    {
-      "lastUpdated": "2025-02-26",
-      "message": "The new app update is coming within the next 24 hours! Please join our Discord to stay up to date.",
-      "version": [""],
-      "platform": "ios",
-      "storeLink": "",
-      "link": "https://discord.gg/4kb4PRq7z8"
-    },
-    {
       "lastUpdated": "2025-3-3",
       "message": "There is a new update available in the Play Store",
       "version": [
@@ -79,7 +39,8 @@
         "1.15.3",
         "1.15.4",
         "1.15.5",
-        "1.16.0"
+        "1.16.0",
+        "1.16.1"
       ],
       "platform": "android",
       "storeLink": "market://details?id=ajlake.dreamlight_guide"
@@ -123,232 +84,16 @@
         "1.15.3",
         "1.15.4",
         "1.15.5",
-        "1.16.0"
+        "1.16.0",
+        "1.16.1"
       ],
       "platform": "ios",
       "storeLink": "https://apps.apple.com/app/id6444711557"
     }
   ],
   "furniture": [
-    {
-      "name": "Blue Retro Diner Bench",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Blue Retro Diner Chair",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Blue Retro Diner Table",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Hopps Family Farm Stand",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Blue Convertible Couch",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Flying Purple Butterflies",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Flying Blue Butterflies",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Flying Orange Butterflies",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Headquarters Retro Couch",
-      "source": "",
-      "sourceCategory": ["unknown"]
-    },
-    {
-      "name": "Miniature Glowing Sun",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Stone Tree Column",
-      "collection": "storybookVale"
-    },
-    {
-      "name": "Elegant Red Banquet Table — Middle",
-      "collection": "storybookVale"
-    },
-    {
-      "name": "Cozy Cone Motel Sign",
-      "collection": "dreamlightValley"
-    },
-
-    {
-      "name": "Bing Bong Plushie",
-      "source": "Crafted with hidden items in the Inside Out Realm. Tiny Bowtie, Tiny Bowler Hat, Everlasting Cotton Candy, Rainbow Energy, and Bright Bulb Lamp.",
-      "sourceCategory": ["starPath", "limitedTimeTag"],
-      "collection": "untracked",
-      "categories": ["decor", "misc"],
-      "furnitureZones": ["bedroom", "livingRoom", "recRoom"],
-      "style": ["cute", "quirky"],
-      "universe": "insideOut"
-    },
-    {
-      "name": "Giant String Lights",
-      "universe": "bugsLife"
-    },
-
-    {
-      "name": "Cozy Pillow Fort",
-      "universe": "insideOut",
-      "categories": ["decor"],
-      "furnitureZones": ["bedroom", "livingRoom"],
-      "style": ["cute"],
-      "source": "Sadness Level 4 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Rustic Cottage T-Beam",
-      "collection": "storybookVale"
-    },
-
-    {
-      "name": "Joy and Sadness's Fireworks",
-      "universe": "insideOut",
-      "categories": ["decor", "art"],
-      "furnitureZones": ["outdoors"],
-      "style": ["casual"],
-      "source": "Sadness Level 10 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Sadness's Pillow",
-      "universe": "insideOut",
-      "categories": ["utilities"],
-      "furnitureZones": [],
-      "style": [],
-      "source": "Sadness Level 4 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "New Comfort Bear",
-      "universe": "insideOut",
-      "categories": ["decor", "misc"],
-      "furnitureZones": ["bedroom", "recRoom"],
-      "style": ["cute"],
-      "source": "Sadness Level 10 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Imagination Land Arch",
-      "universe": "insideOut",
-      "categories": ["utilities"],
-      "furnitureZones": ["outdoors"],
-      "style": ["cute"],
-      "source": "Joy Level 7 Quest",
-      "sourceCategory": ["quest"],
-      "collection": "untracked"
-    },
-    {
-      "name": "Red Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["decor"],
-      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Yellow Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["decor"],
-      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Green Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["decor"],
-      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Purple Decorative Memory",
-      "universe": "insideOut",
-      "categories": ["decor"],
-      "furnitureZones": ["outdoors", "recRoom", "livingRoom"],
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    }
   ],
   "clothing": [
-    {
-      "name": "Fog Horns Hockey Uniform",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Joyful Retro Outfit",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Joyful Retro Hat",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "\"In Your Feelings\" Overalls",
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Forest Spirit Gown",
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Vintage Feels Handbag",
-      "collection": "untracked"
-    },
-
-    {
-      "name": "Isabela Costume Dress",
-      "universe": "encanto",
-      "category": "dresses",
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    },
-    {
-      "name": "Isabela Ballet Flats",
-      "universe": "encanto",
-      "category": "shoes",
-      "style": ["cute"],
-      "source": "itemShop",
-      "sourceCategory": ["itemShop", "premiumTag"],
-      "collection": "dreamlightValley"
-    }
   ],
   "starPath": {
     "name": "RetroRoadtrip2025",
